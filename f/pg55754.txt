@@ -1,0 +1,1482 @@
+﻿The Project Gutenberg eBook of The O. S. U. Naturalist, Vol. 1, No. 1, November, 1900
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The O. S. U. Naturalist, Vol. 1, No. 1, November, 1900
+
+Creator: Ohio State University. Biological Club
+
+Release date: October 15, 2017 [eBook #55754]
+                Most recently updated: October 23, 2024
+
+Language: English
+
+Credits: Produced by Larry B. Harrison, Barry Abrahamsen and the
+        Online Distributed Proofreading Team at http://www.pgdp.net
+        (This book was produced from images made available by the
+        HathiTrust Digital Library.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE O. S. U. NATURALIST, VOL. 1, NO. 1, NOVEMBER, 1900 ***
+
+                              THE O. S. U.
+                               NATURALIST
+
+                              PUBLISHED BY
+            THE BIOLOGICAL CLUB OF THE OHIO STATE UNIVERSITY
+
+                  ------------------------------------
+
+
+                            EDITORIAL STAFF
+
+            EDITOR-IN-CHIEF—JOHN H. SCHAFFNER, A. M., M. S.
+
+         ASSOCIATE EDITORS:                  ADVISORY BOARD:
+  _Zoology_—F. L. LANDACRE, B. Sc.  PROFESSOR W. A. KELLERMAN, Ph. D.
+  _Botany_—F. J. TYLER, B. Sc.            Department of Botany.
+  _Geology_—J. A. BOWNOCKER, B. Sc. PROFESSOR HERBERT OSBORN, M. Sc.
+  _Archaeology_—W. C. MILLS, B. Sc.      Department of Zoology.
+  _Ornithology_—R. F. GRIGGS.       PROFESSOR J. A. BOWNOCKER, D. Sc.
+                                         Department of Geology.
+
+
+------------------------------------------------------------------------
+
+
+                    Volume 1 November, 1900 Number 1
+
+
+
+
+------------------------------------------------------------------------
+
+                             COLUMBUS, OHIO
+                        _PRESS OF HANN & ADAIR_
+
+------------------------------------------------------------------------
+
+
+
+
+[Sidenote: _THE O. S. U. NATURALIST_] A journal devoted more especially
+to the natural history of Ohio. The official organ of THE BIOLOGICAL
+CLUB OF THE OHIO STATE UNIVERSITY. Published monthly during the academic
+year, from November to June (8 numbers). Price 50 cents per year,
+payable in advance. To foreign countries, 75 cents. Single copies 10
+cents.
+
+            JOHN H. SCHAFFNER, _Editor_.
+            F. J. TYLER, _Subscriptions_.
+            R. F. GRIGGS, _Advertising Agent_.
+
+    _Address_
+
+          THE O. S. U. NATURALIST, Ohio State University,
+
+               COLUMBUS, OHIO.
+
+------------------------------------------------------------------------
+
+
+
+
+                                CONTENTS
+
+  Announcement
+
+  An Ohio Station for Ampelopsis Cordata
+      _W. A. Kellerman_
+
+  The Baum Prehistoric Village site
+      _W. C. Mills_
+
+  A Foliicolous Form of Sorghum Smut and Notes on Infection Experiments
+      _W. A. Kellerman_
+
+  A List of Hemiptera Collected in the Vicinity of Bellaire, O.
+      _Herbert Osborn_
+
+  Additions and Corrections to the “Odonata of Ohio.”
+      _James S. Hine_
+
+  Dragonflies Taken in a Week
+      _R. C. Osburn and J. S. Hine_
+
+  Additions to the Ohio Flora
+
+  Collecting and Preserving Microscopic Plants
+
+------------------------------------------------------------------------
+
+
+
+
+                                 _The_
+                         _O. S. U. Naturalist_
+
+                              PUBLISHED BY
+            THE BIOLOGICAL CLUB OF THE OHIO STATE UNIVERSITY
+
+    ----------------------------------------------------------------
+
+            Vol. 1.         NOVEMBER, 1900.          No. 1.
+
+    ----------------------------------------------------------------
+
+
+
+
+                             ANNOUNCEMENT.
+
+In presenting THE O. S. U. NATURALIST to the public, a few words may not
+be out of place as to the motives and purposes which were instrumental
+in bringing it into existence. The Biological Club of Ohio State
+University is composed of professors, instructors and students of the
+several departments of natural history in the University. These
+departments have been carrying on certain lines of work for some time,
+and the more important and technical has been reported in various
+publications. Much of the work, however, which is only of local
+interest, but still of great value in the development of the natural
+history of the state, has had no convenient avenue of publication. For
+this reason it was thought advisable to begin a journal in a modest way
+in which such material together with other articles might be made
+available for immediate use.
+
+The idea had been entertained for some time that such a course would be
+desirable. Several members had expressed themselves in favor of a
+journal, and Dr. Kellerman had for some years contemplated the
+publication of a purely botanical paper which should be devoted largely
+to the flora of the state. Finally during the spring of 1900 Mr. Tyler
+and Mr. Griggs, students connected with the club, began to arouse
+interest in the matter by advocating the founding of a bulletin which
+should provide a suitable avenue of publication. By a motion of the
+club, a committee to consider the matter was appointed, consisting of
+the following members:
+
+    Herbert Osborn,
+    W. A. Kellerman,
+    F. J. Tyler,
+    John H. Schaffner,
+    Max Morse,
+    R. F. Griggs.
+
+This committee finally agreed upon a plan, which was presented to the
+club and adopted, with slight modifications, on the 7th of May, 1900.
+The editors are elected annually by the club, and following is the staff
+for the coming year:
+
+Editor-in-Chief—John H. Schaffner, A. M., M. S.
+
+Associate Editors—Zoölogy, F. L. Landacre, B. Sc; Botany, F. J. Tyler,
+B. Sc.; Geology, J. A. Bownocker, D. Sc.; Archæology, W. C. Mills, B.
+Sc.; Ornithology, R. F. Griggs.
+
+Advisory Board—Professor W. A. Kellerman, Ph. D., Department of Botany;
+Professor Herbert Osborn, M. Sc., Department of Zoölogy; Professor J. A.
+Bownocker, D. Sc., Department of Geology.
+
+THE NATURALIST, while aiming to be strictly scientific and technical in
+character, will endeavor to be of especial assistance to the teachers
+and amateur scientists of the state. It is believed that the kind of
+work contemplated will be of great educational value.
+
+While THE NATURALIST is to be devoted especially to the interests of the
+state, other matter which may from time to time be offered, will not be
+excluded.
+
+In these days, when specialization is the tendency in all branches of
+knowledge, we think there is still room for the old-fashioned naturalist
+who was well versed in a number of sciences.
+
+Whatever one’s career may be, we believe that every scientist, and for
+that matter every person of education, should be a naturalist first and
+cultivate a broad general sympathy with nature, and only after that has
+he a right to become a specialist. No apology need therefore be made for
+the broad field which THE NATURALIST is to cultivate, and we present it
+to the public, earnestly soliciting the coöperation of university and
+college professors, high school teachers, students, and amateurs in the
+different branches of natural science; and asking that leniency of
+judgment which such enterprises merit when begun under special
+difficulties. Finally THE NATURALIST is not intended to be a
+money-making institution, but it will be improved and enlarged as
+rapidly as the income from subscriptions and other resources will
+permit.
+
+                                                                J. H. S.
+
+
+
+
+                AN OHIO STATION FOR AMPELOPSIS CORDATA.
+                            W. A. KELLERMAN.
+                               (Plate 1.)
+
+While collecting in Scioto County on the 8th of July, 1900, I was
+fortunate enough to come across an indigenous specimen of Ampelopsis
+cordata. [1]The station for the plant is on a hillside one mile east of
+Portsmouth, Ohio. The character of the environment is indicated in
+figure 3, Plate 1; the plant in question growing on the bank by the
+roadside at a point immediately above the bicycle in the central part of
+the picture. The photograph from which the half tone was made shows only
+a portion of the high hills that border the Ohio river. The soil is clay
+and not regarded as very fertile. It is generally the case perhaps that
+this species grows in “swamps and along river banks,” as stated in the
+manuals, but the ground here is high and dry.
+
+Footnote 1:
+
+  Since the MS. for this article was passed to the printer, the locality
+  was again visited and several plants, some of large size, were found
+  further up the hillside.
+
+The published statements as to the distribution of Ampelopsis cordata
+are not uniform. Riddell, in his synopsis of the Western Flora, says it
+occurs in the Alleghany Mountains west to Arkansas. Torrey and Gray, in
+the Flora of North America, Vol. 1, under the name of Vitis indivisa,
+give its distribution as Southern States west to Louisiana and Arkansas.
+Wood using the same name in his class-book, says Southern States to St.
+Louis. In Gray’s Manual, last edition, the plant is given under the name
+of Cissus ampelopsis with the statement that it occurs in Virginia to
+Illinois and Southward. The occurrence as noted by Britton and Brown in
+the Illustrated Flora, makes the species still more decidedly southern,
+namely, southern Virginia to Florida, west to Illinois, Kansas and
+Texas. Prof. Stanley Coulter, in a Catalogue of the Flowering Plants and
+Ferns indigenous to Indiana, published in 1899 in the 24th Annual Report
+of the Department of Geology and Natural Resources of Indiana, says this
+species occurs “in the central and southern counties of Indiana in
+swamps and moist woods.”
+
+In the fifth edition of Gray’s Manual the range of this Ampelopsis
+(under the name of Vitis indivisa) was given as “West Virginia, Ohio and
+southward.” In answer to an inquiry as to what in the Gray Herbarium was
+perhaps the basis for the reference to the Ohio distribution, Mr.
+Merritt L. Fernald kindly wrote me as follows:—“I find in the herbarium
+a specimen of Cissus ampelopsis marked ‘Ohio’. It is one of the old
+Torrey and Gray specimens and no further data are given.”
+
+Dr. Millspaugh lists this species as Cissus ampelopsis in the Flora of
+West Virginia and adds on the authority of Mertz and Guttenberg that it
+also occurs in Ohio, near Wheeling. Upon inquiry of Supt. Mertz, I learn
+that his notes of work upwards of twenty years ago contain no mention of
+this species at Wheeling, West Virginia, or at Bellaire, Ohio. He
+further informs me that what was taken for this Ampelopsis at Bellaire
+was probably Vitis cordifolia, three forms of which were found growing
+on the islands of the Ohio River near Wheeling. Of these he adds in a
+letter to the writer, “I think we probably decided that one was V.
+indivisa; but I feel sure that it was not and you are probably the first
+to find it in Ohio.”
+
+It will be observed that the distribution as noted by Professor Stanley
+Coulter extends its range still further northward than my Ohio station.
+It is likely that its occurrence still further northward in Ohio may be
+detected by assiduous collectors.
+
+I wish to say a word concerning the ornamental character of this native
+vine. The foliage is bright green and very handsome. A figure of a
+single leaf is shown in Plate 1, figure 2. This is reduced from a
+photograph taken with the leaf itself used as a negative. I have never
+detected a fungous attack or insect depredation on the leaves. The small
+dull-colored bluish fruits in loose panicles when abundant are somewhat
+ornamental. The vine is a vigorous grower and clings firmly to supports.
+Figure 4 shows a plant used for ornamental purposes growing on the south
+side of the Botanical Building at the Ohio State University. A figure
+from a still more vigorous specimen was shown by Mrs. Kellerman in
+Vick’s Magazine, January, 1900. This was made from a photograph of a
+specimen growing at the north porch of a residence in Columbus, Ohio.
+The same has been reproduced by Dr. Halsted in Bulletin No. 144 of the
+New Jersey Experiment Station. The species can be transplanted readily.
+One of the plants just referred to was dug up in June in Linn County,
+Kansas, and easily survived its rough treatment. Roots were taken from
+the Portsmouth plant in July this year and they are now growing and
+producing stems. We have repeatedly transplanted specimens that were
+grown from roots and from cuttings in the green house and always with
+success.
+
+A word as to the synonymy should perhaps be given. The species was
+described by Michaux in 1803 under the name of Ampelopsis cordata.
+Persoon in 1805 proposed the name Cissus ampelopsis for the species. It
+was unfortunate that he did not retain the specific name, cordata; for
+there seems to have been no need of discarding that part of its name
+even if the genus had been originally misapprehended. Had he followed
+the most commendable usage of the modern systematists, he would have
+published the name in this form: Cissus cordata (Mx.) Pers. In 1811
+Wildenow published the name as Vitis indivisa and here as before
+unnecessarily a new specific name was given. Many authors have regarded
+the plant as a Vitis rather than an Ampelopsis or a Cissus. We rely,
+however, on Dr. Britton’s authority and use the name Ampelopsis cordata,
+relegating the other names to synonymy.
+
+
+Illustration: _Plate_ 1: KELLERMAN ON AMPELOPSIS CORDATA
+
+
+EXPLANATION OF PLATE 1.—Ampelopsis cordata. Figure 1: A herbarium
+specimen of twigs in fruit, from a photograph. Figure 2: A single leaf
+and tendril after a photograph direct from the same, reduced by the
+engraver. Figure 3: View of the station for the indigenous specimen at
+Portsmouth, Ohio; the Ampelopsis is in the center of the picture
+immediately above the bicycle. Figure 4: View of a plant growing on the
+south wall of the Botanical Building, Ohio State University; to the
+right of the door a portion of a Japan Ivy is seen.
+
+
+
+
+                   THE BAUM PREHISTORIC VILLAGE SITE.
+                              W. C. MILLS.
+
+The field work of the Ohio State Archæological and Historical Society
+was completed August 18. The explorations were a continuance of last
+year’s work at the Baum Prehistoric Village Site, which is situated in
+Ross County, Ohio, just across the river from the small village of
+Bourneville, and is located upon the first gravel terrace of the Paint
+Creek Valley. The village site surrounds a large pyramidal mound which
+was examined a number of years ago under the direction of the
+Smithsonian Institution of Washington. A complete report of the
+explorations is found in the 12th Annual Report of the Bureau of
+Ethnology, 1890-91. At this time the village site was not explored but
+it was known to exist, as the following extract from the 12th Annual
+Report will show: “This mound is situated upon the edge of the first
+general bottom of Paint Creek, which though protected by a huge levee is
+annually inundated. In overflow times the smaller circle of the
+adjoining enclosure is almost entirely submerged, and the summit of the
+mound is the only land visible above a broad expanse of water. Around
+the mound upon all sides, particularly to the east, are traces of former
+Indian occupation. Numerous fragments of pottery similar in fabrication
+and ornamental feature to those found in the mound bestrew the plowed
+ground. These were intermingled with the valves of mussel shells, pitted
+stones, shell disks, human bones, arrowheads, pieces of perforated stone
+gorgets, and a large quantity of chipped flint.” Directly north of this
+village site, about one mile distant is the noted hill top enclosure
+known as Spruce Hill, which overlooks the valley of Paint Creek for many
+miles north and south. The hill on which this enclosure is situated is
+about 500 feet high, and is a long narrow spur projecting from the
+tableland and extending to the south.
+
+The wall of this enclosure is composed entirely of boulders and broken
+pieces of sandstone which had been collected along the margin of the
+summit of the hill. These sandstones are the result of disintegration of
+the sandstone strata which is near the surface on the hill top. Directly
+east from the village site, a little more than 1300 feet, is what is
+known as the Baum works, which was surveyed by Squier & Davis in 1846.
+They described this work as the best preserved, and possessing gateways
+that are wider than those of any other earth-works found in this valley.
+They also made a survey of the mound which is situated in this village
+site and they described it as a large, square, truncated mound, with a
+base of 120 feet and having a flat top, with an area 50 feet square. The
+mound at that time being 15 feet high. They also say that quantities of
+coarse broken pottery were found on and around the mound. Thus it will
+be seen that the early investigators found pottery surrounding the mound
+and later explorations by the Smithsonian Institution show that the
+broken pieces of pottery found on the surface surrounding the mound were
+very much like the pottery found in the mound and placed with the buried
+dead therein.
+
+The object of the investigations carried on by the Archæological and
+Historical Society is to show the connection between the occupants of
+the prehistoric village and those who built the mound. This has been
+done by carefully comparing the contents of this village site with the
+contents of the mound as reported by the Smithsonian Institution. So
+far, all of the pottery and implements of bone, stone, and shell that
+were buried in this mound, have been duplicated in great numbers from
+the refuse heaps, burials, and ash pits found in the village. The
+village entirely surrounds the mound, but on the east it is more
+extensive and occupies upward of five acres of ground.
+
+The work of examining the village site is very laborious. Every portion
+or particle of the earth to a depth, on the average, of two and one-half
+feet is carefully dug over with small hand trowels, and every particle
+of bone, shell or stone is carefully removed and examined. The contents
+of the ash pits are screened so that no implements or ornaments may be
+lost. The whole village site is platted, laid off in sections thirty-six
+feet square, which square is again laid off into sections four feet
+square. In this way every find is carefully located upon the map. This
+year the work was conducted east and north-east of the mound. Here the
+post-molds of their little tepees were found in abundance. Their
+fire-places usually were placed just outside of the tepees, and their
+refuse pits near at hand, and near by we found the burials. A series of
+photographs, showing the manner of burial and the close proximity of the
+burials to the ash pits and tepees, were carefully made. At one time
+seven skeletons were exposed within an area of fifteen feet square.
+Within this space two ash pits were found and one row of the post-molds,
+showing the relation of the little home to the burial ground. The manner
+of burial is shown by the photographs taken of the seven skeletons
+exposed at one time, showing that they had no definite manner of placing
+the bodies, as some were buried at right angles to each other, some were
+placed at full length, and lying upon the back, while others were placed
+upon the side; in still other cases the body was evidently doubled up
+and then buried. A great number of skeletons of babies were found in the
+ash pits, showing that the already dug ash pit was the most convenient
+grave for the little ones, who was then covered with ashes, consequently
+the skeletons were perfectly preserved. With a great number of the adult
+skeletons were found implements of bone, such as awls, hoes, celts,
+arrow and spear points of stone, beads and ornaments of shell and bone;
+but with the skeletons of children varying in age from four to twelve
+years were found the greatest number of ornaments made of shell and
+bone. In one instance a large gorget made from the marine univalve
+Strombus gigas about two and one-half inches in diameter, was found upon
+the skeleton of a child six years of age. In another more than two
+hundred beads and ornaments of shell and bone were found upon the
+skeleton of a child not over seven years of age. In another grave a
+child not over four years of age had buried with it, what at one time
+was no doubt, a necklace made of elk teeth, perforated for attachment.
+In two instances the graves of children were carefully covered over with
+slabs of slate. With those children whose graves were carefully covered
+no implements or ornaments of any sort were placed. Of the sixty-three
+skeletons found, not a single perfect piece of pottery was found buried
+with them, differing greatly from the Madisonville Prehistoric Cemetery
+near Cincinnati, for at the latter cemetery quantities of pottery in
+their perfect state was found, buried with the skeletons. The pottery,
+implements and ornaments at Madisonville can be readily dedicated from
+the village at Paint Creek.
+
+In the ash pits can be found specimens showing the masterpieces of art
+wrought in stone, bone and shell, representing the civilization which at
+one time inhabited this village. Of the bone implements, the needle,
+made from the bones of the deer and elk is most beautiful in design, at
+the same time showing the skill displayed in the manufacture of the
+implements. Some of them are upward of nine inches in length. Of the
+bone specimens perhaps the bead is the commonest. In some pits more than
+two hundred have been taken out. In these ash pits were also found well
+wrought specimens of aboriginal fish hooks, also specimens showing the
+various stages of manufacture of this implement, which differs somewhat
+from the manufacture of those found at Madisonville, a full account of
+which appears in the 20th Annual Report of the Trustees of the Peabody
+Museum of Harvard University, by Prof. F. W. Putnam, in which he fully
+describes the manufacture of the fish hooks found in the prehistoric
+village site. In no instance was an unfinished specimen found in the
+Baum Village which would, in any way, show that a hole was first bored
+through the bone and the fish hook then wrought from this hole as was
+shown by Prof. Putnam; on the contrary a piece of bone was selected and
+cut into shape representing a small tablet of bone two and one-half
+inches long by from one-half to three-quarters of an inch broad, with
+rounded edges at the ends. The center was then cut out by rubbing with a
+stone on each side. So that two fish hooks were made instead of one from
+the single piece of bone. A great many perfect scrapers made from the
+metacarpal bone of the deer and elk were also found, while almost every
+pit would contain from one to four broken halves of these scrapers.
+Specimens were also procured showing the various stages in the
+manufacture of this implement which resemble very much in every
+particular those found at Madisonville, and also those found at the
+village site at Fort Ancient.
+
+The pottery fragments found in these ash pits resemble those found at
+Madisonville, in the ornamentation by incised lines, implement
+indentations arranged in figures, and handles ornamented with effigies
+of birds and animals. Of the shell implements, perhaps the most common
+is the shell hoe, which is made from the mussel shell _Unio plicatus_.
+
+A great number of beads, from one-half to one inch in diameter, made
+from mussel shells and perforated with from one to three holes, are
+found. The large gorgets from two to two and one-half inches in diameter
+are also found. These are invariably perforated with from one to three
+holes, and are made from a shell foreign to the Paint Creek Valley.
+
+Of the implements and ornaments made of stone, the flint arrow heads are
+very common. These are mostly made from material brought from flint
+ridge in Licking County. Grooved axes are also found, the type
+prevailing is the one having the groove extend entirely around. The
+perforated gorgets of slate are also found, but the most interesting of
+the stone implements found in the pits are the perforated discoidals.
+These are all small, varying in diameter from two to three inches, and
+finely polished.
+
+In the refuse heaps and ash pits were found the bones of the animals
+used for food, charred corn, hickory nuts, walnuts, butter nuts, acorns,
+hazel nuts, beans, seeds of the papaw, wild plum, etc. About thirty-five
+per cent. of the bones taken from these pits were of the Virginia deer.
+The bones of the black bear, raccoon, elk, ground-hog, wild-cat,
+muskrat, squirrel, beaver, wild turkey, wild duck, wild goose, trumpeter
+swan, great horn owl, barred owl, were found in abundance. But perhaps
+the most interesting of the animal bones found were those of the Indian
+dog. Skulls and parts of skeletons were taken from the pits in great
+numbers. Professor F. W. Putnam, of Harvard University, who has been
+making a study of the skulls of the dog taken from the mounds and burial
+places of Florida, Georgia, South Carolina, Ohio, Kentucky, New York,
+and from the great shell heaps in Maine, says that a distinct variety or
+species of dog was distributed over North America in pre-Columbian
+times, and by comparison he finds that the dog found in America is the
+same variety of dog found in the ancient site of the Swiss Lake
+dwellers, and also in the ancient tombs of Thebes in Egypt, and claims
+that the variety of the pre-Columbian dog is apparently identical with
+the pure breed Scotch collie of today, while Mr. F. A. Lucas, of the U.
+S. National Museum, describes the dog found in the Baum Village as
+resembling very much the bull terrier in size and proportion, and states
+that the same species have been found in the village sites in Texas and
+the old Puebloes.
+
+
+
+
+              A FOLIICOLOUS FORM OF SORGHUM SMUT AND NOTES
+                       ON INFECTION EXPERIMENTS.
+
+                            W. A. KELLERMAN.
+                               (Plate 2.)
+
+
+On January 1st, 1900, several pots in the Botanical greenhouse of the
+Ohio State University were planted to sorghum, Kaffir corn, maize,
+sweet-corn and pop-corn. The seeds were previously moistened and mixed
+with a large quantity of head-smut of sorghum taken from smutted sorghum
+plants also from maize infected with the same fungus. This species was
+named _Ustilago reiliana_ by Kühn in 1868 from specimens collected in
+Egypt.
+
+The plants developed rapidly and normally, though the stems were slender
+and did not reach the normal height. The panicles appeared early and
+only in a comparatively few cases showed infection.
+
+In one case an anomalous specimen appeared, namely, a sweet corn plant
+with the upper leaves as well as the panicle infected. This form
+therefore differs from the type in being in part foliicolous and may be
+designated as _Ustilago_ (_Cintractia_[2]) _reiliana_ forma _foliicola_
+nov. for. Figures 1 and 2, Plate 2, show the appearance of the infected
+plant, the one representing an earlier and the other a later stage of
+the emergence of the smut mass.
+
+Footnote 2:
+
+  Mr. G. P. Clinton regards this fungus as a Cintractia rather than an
+  Ustilago.
+
+It may be remarked further that I have repeatedly tried seed inoculation
+experiments, mostly in the greenhouse but also occasionally in the
+field.
+
+In the latter case in the summer of 1900, I obtained from a plot of many
+hundred stalks including field-corn, sweet-corn, pop-corn, sorghum,
+Kaffir corn and broom corn only three cases of smutted plants. These
+were of sweet-corn, both the tassel and ear being affected. The previous
+year about the same per cent. of successful inoculations were obtained.
+But in the greenhouse the experiments have uniformly resulted in the
+production of a considerable number of smutted stalks of sorghum and
+occasionally an infected plant of maize. These have for the most part
+been reported in print, the first account appearing in Bulletin No. 23,
+Kansas Experiment Station, in the year 1891.
+
+I have now growing in the botanical greenhouse three sets of sorghum
+plants raised from seeds planted January 1, 1898, January 1, 1899, and
+January 1, 1900. Only the plants have been retained which showed
+successful inoculation experiments. They have been shifted to larger
+pots from time to time, but the plants make only a stunted growth. The
+new stalks that appear now and then are invariably affected, though
+sometimes one of the panicles, either the one terminating the main stem
+or one of the side branches may be free from visible smut. It is thus
+evident that this species of smut is perennial where its host lives from
+year to year. Figure 3 shows a photograph of one of the plants started
+in the greenhouse in 1899, its first stem producing an infected panicle.
+Figure 4 shows a plant grown in 1900, the first or central panicle not
+exhibiting the smut, but later when panicles from the side branches
+appeared, they were seen to be smutted.
+
+It seems that another experimenter, whom I will quote, has succeeded
+scarcely as well. Mr. G. P. Clinton, the assistant Botanist of the
+Illinois Experiment Station, Urbana, Illinois, in Bulletin No. 57
+(March, 1900) reports as follows: “Apparently from the experiments of
+Kellerman, infection takes place through the germinating seed, though
+the per cent. of infection he produced was rather small. In ’98 field
+experiments were conducted here with a view of infecting the Orange
+variety of sorghum with this smut. In one case the seed was mixed with
+an abundance of spores and in others these spores were sprayed in water
+or manure water on the young parts of the plants when about six inches
+high. In none of the several hundred plants that matured was any sign of
+the smut found. It is very likely that the variety used may have had
+something to do with the negative results, as it was not the same from
+which the smut was taken.”
+
+The head-smut of sorghum is not to be confused with another species that
+occurs on the same host. The one now referred to is a grain-smut, that
+is, the panicle as a whole is not included, but the individual grains
+become smutted. This species has been called _Ustilago sorghi_, but Mr.
+Clinton regards it as a Cintractia, namely, _Cintractia sorghi-vulgaris_
+(Tul.) Clint. It is more common than the former, occurring often on
+sorghum and broom corn.
+
+The head-smut of sorghum, _Ustilago_ or _Cintractia reiliana_, was first
+found in this country by Prof. J. T. Willard at Manhattan, Kansas, in
+1890, in a plot grown for purposes of chemical investigation. The same
+year it was detected by Dr. Halsted in New Jersey. I found it in Ohio in
+1897 and it is now reported for Illinois by Mr. Clinton. In all these
+cases it occurred only on sorghum, but Prof. Hitchcock has reported it
+as not uncommon on maize in fields about Manhattan, Kansas.
+
+
+Illustration: _Plate_ 2: KELLERMAN ON SORGHUM SMUT.
+
+
+EXPLANATION OF PLATE 2.—Ustilago or Cintractia reiliana. Figure 1: The
+foliicolous form occurring on sweet-corn, the panicle not yet emerged,
+but the smut on upper leaves in sight. Figure 2: Same as in Figure 1,
+showing a later stage of maturity. Figure 3: An infected sorghum plant
+in the greenhouse, photographed in 1899, the panicle smutted. Figure 4:
+An infected sorghum plant, grown in the greenhouse in 1900, the central
+panicle sound, the later (side) panicles smutted.
+
+
+
+
+             A LIST OF HEMIPTERA COLLECTED IN THE VICINITY
+                           OF BELLAIRE, OHIO.
+
+                            HERBERT OSBORN.
+
+The following record of species represents the collections of Hemiptera
+made during four days (Aug. 28, Sept. 1, 1900) at points within five
+miles of Bellaire, all on the Ohio side of the river. Wooded hillsides,
+valleys, creek bottoms and shore and island of the river were worked
+during a part of each day and as the list includes one hundred and
+forty-nine species, it is probably fairly representative for the common
+species of the season.
+
+
+                               HOMOPTERA.
+
+_Cicadidæ._ Cicada tibicen L. One specimen found dead.
+
+_Membracidæ._ Entilia sinuata Fab., Publilia concava Say, Ceresa diceros
+Say, Ceresa bubalus Fab., Thelia bimaculata Fab., Acutalis calva Say,
+Vanduzea arcuata Say.
+
+_Fulgoridæ._ Scolops sulcipes Say, Scolops sp., Ormenis pruinosa Say, O.
+septentrionalis Fab., Amphiscepa bivittata Say, Bruchomorpha dorsata
+Fh., B. oculata Newmn., Issus? sp. Pissonotus ater VanD., Stobera
+tricarinata Say, Stobera sp., Liburnia campestris VanD., L. ornata Stal,
+Liburnia sp.
+
+_Cercopidæ._ Lepyronia 4-angularis Say, Clastoptera obtusa Say, C.
+proteus Fh., C. xanthocephala Germ.
+
+_Bythoscopidæ._ Macropsis apicalis O. & B., Agallia sanguinolenta Prov.,
+A. 4-punctata Prov., A. constricta VanD., A. novella Say, Idiocerus
+pallidus Fh., I. snowi G. & B., I. verticis Say.
+
+_Tettigonidæ._ Aulacizes irrorata Fab., Tettigonia bifida Say, T.
+tripunctata Fh., T. gothica Sign., T. hartii Wdw. (mss), Diedrocephala
+coccinea Forst., D. mollipes Say, Helochara communis Fh., Gypona
+octolineata Say.
+
+_Jassidæ._ Xestocephalus pulicarius VanD., X. tessellatus VanD.,
+Platymetopius acutus Say, P. frontalis VanD., Deltocephalus sayi Fh., D.
+sylvestris O. & B., D. apicatus Osb., D. weedi VanD., D. obtectus O. &
+B., D. inimicus Say, D. flavicosta Stal, D. nigrifrons Forbes,
+Scaphoideus immistus Say, S. auronitens Prov., S. scalaris VanD.,
+Athysanus curtisii Fh., A. (Limotettix) exitiosa Uhl., Athysanella
+acuticauda Bak., Lonatura catalina O. & B., Eutettix seminudus Say,
+Phlepsius irroratus Say, P. decorus O. & B., Thamnotettix clitellarius
+Say, Chlorotettix unicolor Fh., C. galbanata VanD., Jassus olitorius
+Say, Cicadula 6-notata Fall., C. punctifrons Fall., Gnathodus punctatus
+Thunb., G. abdominalis VanD., Empoasca smaragdula Fall., E. obtusa
+trifasciata Gill., E. mali LeB., Dicraneura flavipennis Fab., Typhlocyba
+comes vitis Harr., T. comes basilaris Say, T. comes comes Say, T. c.
+ziczac Walsh, T. obliqua Say, T. vulnerata Say, T. tricinta Fh., T,
+trifascaita Say, T. querci bifasciata Gill., T. hartii Gill.
+
+_Aphididæ._ Pemphigus populi transversus Riley, On Cottonwood.
+
+_Aleyrodidæ._ Aleurodes sp. Abundant on Sycamore leaves.
+
+_Coccidæ._ Chionaspis salicis Harr.
+
+
+                              HETEROPTERA.
+
+_Cydnidæ._ One specimen as yet undetermined.
+
+_Pentatomidæ._ Podisus cynicus Say, Brochymena annulata Fab., Cosmopepla
+carnifex Fab., Euschistus fissilis Uhl., E. tristigma Say, E.
+variolarius P. Beauv., Trichopepla semivittata Say, Thyanta custator
+Fab.
+
+_Coreidæ._ Neides muticus Say, Jalysus spinosus Say, Corizus lateralis
+Say, C. nigristernum Sign., C. bohemani Sign., (?) C. noveboracensis
+Sign.
+
+_Lygaeidæ._ Nysius thymi Wolff, N. angustatus Uhl., Orsillacis producta
+Uhl., Ischnorhynchus didymus Zett., Blissus leucopterus Say, Cymus
+angustatus Stal. Geocoris limbatus Stal, G. fuliginosus Say, Myodocha
+serripes Oliv., Ligyrocoris sylvestris L., Ptochiomera nodosa Say,
+Lygaeus kalmii Stal, L. turcicus Fab.
+
+_Capsidæ._ Megalocoerea debilis Uh. (?), Miris affinis Reut.,
+Compsocerocoris annulicornis Reut., Calocoris rapidus Say, Lygus
+pratensis L., L. plagiatus Uhl., Poecyloscytus basalis Reut.,
+Camptobrochis nebulosus Uhl., Eccritotarsus elegans Uhl., Hyaliodes
+vitripennis Say. Episcopus ornatus Uh., Ilnacora stalii Reut.,
+Pilophorus bifasciatus Fab, Malacocoris irroratus Say, Garganus
+fusiformis Say, Halticus uhleri Giard, Styphrosoma stygica Say, Neoborus
+laetus Uhl., Plagiognathus obscurus Uhl., Plagiognathus sp., Agalliastes
+associatus, Uhl.
+
+_Acanthiidæ_ Triphleps insidiosus Say.
+
+_Tingitidæ._ Corythuca ciliata Say.
+
+_Phymatidæ._ Phymata fasciata Gray.
+
+_Nabidæ._ Coriscus ferus L.
+
+_Reduviidæ._ Sinea diadema Fab., Acholla multispionosa DeG., Diplodus
+luridus Stal.
+
+_Hygrotrechidæ._ Hygrotrechus remigis Say, Stephania picta H. Schf.
+
+_Saldidæ._ Salda interstitialis Say.
+
+_Corisidæ._ Corisa alternata Say.
+
+Of the above list nearly thirty have not been recorded for the state
+hitherto and there are a few specimens which are as yet undetermined.
+
+
+
+
+          ADDITIONS AND CORRECTIONS TO THE “ODONATA OF OHIO.”
+
+                             JAMES S. HINE.
+
+Since the publication of the Odonata of Ohio, there have been several
+species of dragonflies added to the State list, and we have had reasons
+to change our minds regarding the identity of two species at least.
+
+Enallagma Fischeri, Kellicott, is a synonym of Agrion antennatum, Say,
+consequently the species will henceforth be known as Enallagma
+antennatum, Say.
+
+Our Gomphus lividus, Selys, is Gomphus sordidus, Selys, and Gomphus
+externus, Selys, is Gomphus crassus, Hagen.
+
+The following species have been added:
+
+1. Lestes eurinus, Say, taken June 3, 1900, by E. B. Williamson in
+Portage County. Numbers of both males and females of the species were
+taken on Cedar Point, at Sandusky, July 10 of the present year.
+
+2. Progomphus obscurus, Ramb., first taken at Ironton, June 1, 1899, by
+R. C. Osburn. The present year I took several specimens at Vinton, June
+10th.
+
+3. Gomphus abbreviatus, Hagen, (?) was taken at Loudonville, June 10,
+1899, by J. B. Parker and R. C. Osburn. The species was common at the
+same locality June 14, of the present year.
+
+4. Neurocordulia obsoleta, Say, has been taken at Cincinnati by Chas.
+Dury and his associates for three consecutive seasons.
+
+5. Neurocordulia yamaskanensis, Prov., was procured on Rattlesnake
+Island in Lake Erie, June 28, 1900, by Prof. Osborn.
+
+6. Nasiæschna pentacantha, Rambur, was taken near Kent, Ohio, June 21,
+1900. In company with R. C. Osburn we procured three pairs of this
+species. Others were seen.
+
+
+
+
+                      DRAGONFLIES TAKEN IN A WEEK.
+
+                  RAYMOND C. OSBURN AND JAMES S. HINE.
+
+During the week beginning June 17th, we collected insects and fishes in
+the region of small lakes near Kent, Ohio. A list of the Odonata taken
+during that week is interesting, as it shows the richness of the Odonat
+fauna of north-eastern Ohio and also the number of species of this group
+that may fly in a certain locality at the same time.
+
+     1. Calopteryx maculata, Beauv.
+     2. Calopteryx æquabilis, Say.
+     3. Hetærina americana, Fabr.
+     4. Lestes uncatus, Kirby.
+     5. Lestes rectangularis, Say.
+     6. Lestes vigilax, Hagen.
+     7. Lestes inequalis, Walsh.
+     8. Argia putrida, Hagen.
+     9. Agria violacea, Hagen.
+    10. Argia tibialis, Rambur.
+    11. Argia apicalis, Say.
+    12. Erythromma conditum, Hagen.
+    13. Nehalennia posita, Hagen.
+    14. Nehalennia irene, Hagen.
+    15. Amphiagrion saucium, Burm.
+    16. Enallagma traviatum, Selys.
+    17. Enallagma civile, Hagen.
+    18. Enallagma carunculatum, Morse.
+    19. Enallagma hageni, Walsh.
+    20. Enallagma geminatum, Kel.
+    21. Enallagma exsulans, Hagen.
+    22. Enallagma antennatum, Say.
+    23. Enallagma signatum, Hagen.
+    24. Enallagma pollutum, Hagen.
+    25. Ischnura verticalis, Say.
+    26. Ophiogomphus rupinsulensis, Walsh.
+    27. Gomphus dilatatus, Rambur.
+    28. Gomphus quadricolor, Walsh.
+    29. Gomphus fraternus, Say.
+    30. Gomphus furcifer, Hagen.
+    31. Gomphus spicatus, Selys.
+    32. Gomphus sordidus, Selys.
+    33. Gomphus exilis, Selys.
+    34. Dromogomphus spinosus, Selys.
+    35. Anax junius, Drury.
+    36. Basischna janata, Say.
+    37. Epiæschna heros, Fab.
+    38. Æschna verticalis, Hagen.
+    39. Nasiæschna pentacantha, Rambur.
+    40. Macromia illinoiensis, Walsh.
+    41. Epicordulia princeps, Hagen.
+    42. Tetragoneuria cynosura, Say.
+    43. Tetragoneuria semiaqua, Burm.
+    44. Tramea lacerata, Hagen.
+    45. Libellula basalis, Say.
+    46. Libellula pulchella, Drury.
+    47. Libellula semifasciata, Burm.
+    48. Libellula exusta, Say.
+    49. Libellula incesta, Hagen.
+    50. Plathemis trimaculata, DeGeer.
+    51. Celithemis eponina, Drury.
+    52. Celithemis elisa, Hagen.
+    53. Celithemis fasciata, Kirby.
+    54. Leucorhinia intacta, Hagen.
+    55. Sympetrum rubicundulum, Say.
+    56. Perithemis domitia, Drury.
+    57. Mesothemis simplicicollis, Say.
+    58. Pachydiplax longipennis, Burm.
+
+Number 2 was taken for the second time in the State. The species was
+common along the Cuyahoga River, where both males and females were found
+resting on foliage near the water’s edge or flitting nervously from one
+resting place to another.
+
+Number 27 is one of our rarer Gomphids. Only one specimen of the species
+was taken.
+
+Both male and female of 30 were taken. This is the first time the female
+of this species has been taken in Ohio.
+
+Number 39 was taken for the first time in Ohio. Three pairs of this fine
+species were taken.
+
+Two years ago I took males of number 48 at Stewart’s Lake. The species
+has not been taken in the State since until this year when we took both
+males and females at the same lake.
+
+Number 53 has been considered a very desirable species, but it seems
+that it is a common form in the lake region near Kent. About thirty
+specimens were procured.
+
+
+
+
+                      ADDITIONS TO THE OHIO FLORA.
+
+The Fourth State Catalogue of Ohio Plants published in April, 1899, by
+Kellerman, contained 2025 species of Cormophytes. In the first Annual
+Supplement, published April, 1900, 69 additions were made. The following
+22 additional species therefore bring the total to 2116 plants growing
+without cultivation in the state. The numbers correspond to the Fourth
+State Catalogue so that those who desire can easily copy the additions
+and bring their catalogue up to date.
+
+212a Bouteloua hirsuta Lag. Hairy Mesquite-grass. Ohio State University
+Campus, Columbus. F. J. Tyler.
+
+212b Bouteloua oligostachya (Nutt.) Torr. Mesquite-grass. Ohio State
+University Campus, Columbus. Alice Dufour.
+
+258a Bromus asper Murr. Hairy Brome-grass (London, Mrs. K. D. Sharp,
+Coll., E. Monroe, Highland Co., W. A. Kellerman, Coll.) Alice Dufour.
+
+265b Bromus breviaristatus (Hook.) Buckl. Short-awned Chess. Ashtabula,
+(W. A. Kellerman, Coll.) Alice Dufour.
+
+472a Wolffia braziliensis Wedd. Brazil Wolffia. Sandusky Bay. Abundant
+at times. R. F. Griggs.
+
+538a Convallaria majalis L. Lily of the Valley. Abundantly escaped in
+Cemetery, Worthington. R. F. Griggs.
+
+619a Salix nigra x amygdaloides. A. D. Selby, 8th Report Academy of
+Science, p. 22, and others.
+
+629 Change S. fluviatilis Nutt, to S. interior Rowlee. Rowlee in Bull.
+Torr. Bot. Club. 27: 247, 1900.
+
+629a Salix interior var. wheeleri Rowlee. Cedar Point, W. A. Kellerman
+and R. F. Grigs.
+
+636a Salix sericea x cordata. Ashtabula. (W. A. Kellerman Coll.) R. F.
+Griggs.
+
+637a Salix peliolaris var. graciles. Toledo. (J. A. Sanford, Coll.
+1879.) R. F. Griggs.
+
+638a Salix candida x cordata. Castalia, Erie County. R. F. Griggs.
+
+864a Berberis aquilifolium. Pursh. (Mahonia aquilifolium Nutt.) Seeding
+in Cemetery, Worthington. R. F. Griggs.
+
+898b Diplotaxus muralis (L.) DC. Diplotaxus. Cleveland, Ohio. Wm. Krebs.
+
+963 Philadelphus inodorus L. Mt. Pleasant, Jefferson County. W. A.
+Kellerman.
+
+1039a Cratægus cordata (Mill.) Ait. Washington Thorn. Steubenville,
+Ohio. H. N. Mertz.
+
+1045a Cratægus multipes n. sp. (W. W. Ashe in Bulletin 175 N. C.
+Experiment Station, August, 1900.) Ohio, E. E. Bogue, Coll.
+
+1132a Dolichos lablab L. Hyacinth Bean. Escaped from cultivation in
+several places in Columbus. Found growing on vacant lots, surrounded by
+large weeds. John H. Schaffner.
+
+1188a Rhus cotinus L. Escaped, Mt. Pleasant, Jefferson County. W. A.
+Kellerman.
+
+1219a Ampelopsis cordata Michx. Scioto County. Previously reported for
+Ohio. W. A. Kellerman.
+
+1255 Lechea minor L. Steubenville, Ohio. H. N. Mertz.
+
+1487a Gilia coronopifolia Pers. Growing in a cemetery near Madison, Lake
+County. Spreading slowly. F. J. Tyler.
+
+1729 Euphorbia lathyris L. Pomeroy, Meigs County. W. A. Kellerman.
+
+1919a Polymnia canadensis var. radiata Gray. Cedar Point. Very abundant.
+R. F. Griggs.
+
+1943a Helianthus maximiliani Schrad. Sandusky. A single plant along
+railroad tracks. R. F. Griggs.
+
+
+
+
+             COLLECTING AND PRESERVING MICROSCOPIC PLANTS.
+
+Small plants like Desmids, Diatoms, etc., may be preserved in water, in
+homeopathic vials, provided a drop of carbolic acid is added to each
+bottle of material. In this way they will keep for a long time with very
+little change of color and contents.
+
+                                                                J. H. S.
+
+------------------------------------------------------------------------
+
+
+
+
+                        _Ohio State University_
+
+
+Six distinct and independent Colleges, each with a Dean and Faculty of
+its own.
+
+           THIRTY SEVEN DEPARTMENTS. AGRICULTURE, ARTS, LAW,
+           THIRTY DISTINCT COURSES.  ENGINEERING, PHARMACY,
+                                     VETERINARY MEDICINE.
+
+Superior facilities for education in Applied Science. Short or special
+courses for mature students not candidates for degrees.
+
+ One hundred and twenty one instructors. Over thirteen hundred students.
+
+                     FINEST GYMNASIUM IN THE WEST.
+
+_For further information address the President,_
+
+            DR. W. O. THOMPSON, STATE UNIVERSITY, COLUMBUS.
+
+                             --------------
+
+           Ohio Forest Trees Identified by Leaves and Fruit.
+
+           By W. A. KELLERMAN, PH. D., Ohio State University.
+
+A neat pamphlet for every one who wishes to learn our native forest
+trees. Keys simple. Description plain. Can learn the names of the trees
+easily.
+
+Price reduced from 25 cents to 10 cents.
+
+Also, =The Fourth State Catalogue of Ohio Plants.=
+
+Bound copies at cost of binding, namely 20 cents.
+
+  Gives list of scientific and common names; distribution by counties.
+
+Teachers and others will also be interested in Prof. Kellerman’s
+Phyto-theca or Herbarium Portfolio, _Practical Studies_ in Elementary
+Botany, _Elementary Botany_ with Spring Flora, all published by Eldredge
+& Bro., Philadelphia, to whom apply.
+
+For information or copies of _Forest Trees_ and _Catalogue_ or names of
+plant specimens of your region _address_
+
+                                         W. A. KELLERMAN, COLUMBUS, OHIO
+
+                             --------------
+
+                       American Entomological Co.
+
+                  1040 DE KALB AVENUE, BROOKLYN, N. Y.
+
+Lepidoptera Price List No. 2.—_Price 5 cents_ (Refunded to Buyers)
+
+                       ISSUED NOVEMBER 15th 1900.
+
+Dealers of all kinds of _Entomological Supplies_
+
+Manufacturers of the Original and Celebrated SCHMITT INSECT BOXES.
+
+                  _Builders of INSECT CABINETS, ETC._
+
+------------------------------------------------------------------------
+
+
+
+
+The Twentieth Century Text Books of Biology.
+
+          PLANT RELATIONS, 12mo, cloth                   $1.10
+          PLANT STRUCTURES, 12mo, cloth                   1.20
+          PLANT STUDIES, 12mo, cloth                      1.20
+          PLANTS, 12mo, cloth                             1.80
+          ANALYTICAL KEY TO PLANTS, 12mo, flexible cloth   .75
+
+   All by JOHN MERLE COULTER, A. M., Ph. D., Head of Dept. of Botany,
+                         University of Chicago.
+
+    _They are already the preferred texts, and the reasons will be
+    apparent on examination._
+
+
+
+
+                 ANIMAL LIFE: A First Book of Zoology.
+
+By DAVID S. JORDAN, M. S., M. D., Ph. D., LL. D., President of the
+    Leland Stanford Junior University, and VERNON L. KELLOGG, M. S.,
+    Professor in Leland Stanford Junior University. 12mo. Cloth, $1.20.
+    _Now ready._
+
+    _Not a book for learning the classification, anatomy, and
+    nomenclature of animals, but to show how animals reached their
+    present development, the effects of environment, their place in
+    Nature, their relations to one another and to the human race.
+    Designed for one-half year’s work in high schools. Send for sample
+    pages._
+
+                  ANIMAL FORMS: A Second Book of Zoology.
+
+  By DAVID S. JORDAN, M. S., M. D., Ph. D., LL. D., and HAROLD HEATH,
+    Ph. D., Professor in Leland Stanford Junior University. _Ready in
+    February, 1901._
+
+                             --------------
+
+=D. APPLETON AND COMPANY, Publishers=, _New York_, _Chicago_, _London_.
+
+                             --------------
+
+
+
+
+                        RECENT SCIENTIFIC WORKS
+
+    =In Astronomy=, Dr. Simon Newcomb’s new book, published October,
+    1900; in =Physics=, the Johns Hopkins text of Professors Rowland and
+    Ames; also in Physics for second and third year high school work,
+    the text of Dr. Hoadley, of Swarthmore; in =Physiology=, the text by
+    Drs. Macy and Norris, based on the Nervous System; also the =High
+    School Physiology= indorsed by the W. C. T. U., written by Dr.
+    Hewes, of Harvard University; in =Geology=, the =Revised “Compend”=
+    of Dr. Le Conte, and the two standard works of Dana,—The =Manual for
+    University Work=, and the =New Text Book=, revision and rewriting of
+    Dr. Rice, for fourth year high school work; in =Chemistry=, the
+    approved =Storer and Lindsay=, recommended for secondary schools by
+    the leading colleges; in =Zoology=, the =Laboratory Manual= of Dr.
+    Needham, of Cornell; and the Series “=Scientific Memoirs=” edited by
+    Dr. Ames, of Johns Hopkins. Nine volumes ready.
+
+              The publishers cordially invite correspondence.
+
+    AMERICAN BOOK COMPANY, =CINCINNATI=
+
+------------------------------------------------------------------------
+
+
+
+
+    ● Transcriber’s Notes:
+       ○ Missing or obscured punctuation was corrected.
+       ○ Typographical errors were silently corrected.
+       ○ Inconsistent spelling and hyphenation were made consistent only
+         when a predominant form was found in this book.
+       ○ Text that was in italics is enclosed by underscores
+         (_italics_); text that was bold by “equal” signs (=bold=).
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE O. S. U. NATURALIST, VOL. 1, NO. 1, NOVEMBER, 1900 ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

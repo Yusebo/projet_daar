@@ -1,0 +1,1208 @@
+﻿The Project Gutenberg eBook of The natural and artificial disintegration of the elements
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The natural and artificial disintegration of the elements
+
+Author: Ernest Rutherford
+
+Release date: December 15, 2022 [eBook #69551]
+                Most recently updated: October 19, 2024
+
+Language: English
+
+Original publication: United States: The Franklin Institute
+
+Credits: Laura Natal Rodrigues (Images generously made available by Hathi Trust Digital Library.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE NATURAL AND ARTIFICIAL DISINTEGRATION OF THE ELEMENTS ***
+
+THE NATURAL
+AND ARTIFICIAL DISINTEGRATION
+OF THE ELEMENTS
+
+
+
+
+AN ADDRESS BY
+
+Professor Sir ERNEST RUTHERFORD
+
+Kt., D. Sc., LL. D., Ph. D., D. Phys., F. R. S.
+
+
+
+
+ON THE OCCASION OF THE CENTENARY CELEBRATION
+OF THE FOUNDING OF
+
+THE FRANKLIN INSTITUTE
+
+AND THE INAUGURATION EXERCISES OF THE
+BARTOL RESEARCH FOUNDATION
+SEPTEMBER 17, 18, 19, 1924
+
+
+
+
+THE FRANKLIN INSTITUTE
+
+PHILADELPHIA
+
+
+
+
+THE NATURAL
+AND ARTIFICIAL DISINTEGRATION
+OF THE ELEMENTS
+
+
+_By_ Professor Sir ERNEST RUTHERFORD, Kt., D. Sc.,
+
+LL. D., Ph. D., D. Phys., F. R. S.
+
+
+IT is not my intention in this paper to give a detailed account of the
+natural disintegration of the radio elements or of the methods employed
+to effect the artificial disintegration of certain light elements. I
+shall assume that you all have a general knowledge of the results of
+these investigations, but I shall confine myself to a consideration of
+the bearing of these results on our knowledge of the structure of the
+nuclei of atoms.
+
+There is now a general agreement that the atoms of all elements have a
+similar electrical structure, consisting of a central positively
+charged nucleus surrounded at a distance by the appropriate number of
+electrons. From a study of the scattering of _α_ particles by the atoms of
+matter and from the classical researches of Moseley on X-ray spectra, we
+know that the resultant positive charge on the nucleus of any atom, in
+terms of the fundamental unit of electronic charge, is given numerically
+by the atomic or ordinal number of the element, due allowance being made
+for missing elements. We know that with few exceptions all nuclear
+charges, from 1 for the lightest atom, hydrogen, to 92 for the heaviest
+element, uranium, are represented by elements found in the earth. The
+nuclear charge of an element controls the number and distribution of the
+external electrons, so that the properties of an atom are defined by a
+whole number, representing its nuclear charge, and are only to a minor
+degree influenced by the mass or atomic weight of the atom.
+
+This minute but massive nucleus is, in a sense, a world of its own which
+is little, if at all, influenced by the ordinary physical and chemical
+forces at our command. In many respects, the problem of nuclear
+structure is much more difficult than the corresponding problem of the
+arrangement and motions of the planetary electrons, where we have a
+wealth of available information, both physical and chemical, to test the
+adequacy of our theories. The facts known about the nucleus are few in
+number and the methods of attack to throw light on its structure are
+limited in scope.
+
+It is convenient to distinguish between the properties assigned to the
+nucleus and the planetary electrons. The movements of the outer
+electrons are responsible for the X-ray and optical spectra of the
+elements and their configuration for the ordinary physical and chemical
+properties of the element. On the other hand, the phenomena of
+radioactivity and all properties that depend on the mass of the atom are
+to be definitely assigned to the nucleus. From a study of the
+radioactive transformations, we know that the nucleus of a heavy atom
+not only contains positively charged bodies but also negative electrons,
+so that the nuclear charge is the excess of positive charge over
+negative. In recent years, the general idea has arisen that there are
+two definite fundamental units that have to do with the building up of
+complex nuclei, viz., the light negative electron and the relatively
+massive hydrogen nucleus which is believed to correspond to the positive
+electron.
+
+This view has received very strong support from the experiments of Aston
+on Isotopes in which he has shown that the masses of the various species
+of atoms are represented nearly by whole numbers in terms of O = 16.
+From the general electric theory, it is to be anticipated that the mass
+of the hydrogen nucleus in the nucleus structure will be somewhat less
+than its value 1.0077 in the free state on account of the very close
+packing of the charged units in the concentrated nucleus. From Aston's
+experiments, it appears that the average mass of the hydrogen nucleus,
+or proton as it is now generally called, is very nearly 1.000 under
+these conditions. We should anticipate that the whole number rule found
+by Aston would hold only to a first approximation, since the mass of the
+proton must be to some extent dependent on the detailed structure of the
+nucleus. In the case of tin and xenon Aston has already signalized a
+definite departure from the whole number rule, and no doubt a still more
+accurate determination of the masses of the atoms will disclose other
+differences of a similar kind.
+
+While our present evidence indicates that the proton and electron are
+the fundamental constituents of the nucleus, it is very probable that
+secondary combining units play a prominent part in nuclear constitution.
+For example, the expulsion of helium nuclei from the radioactive bodies
+indicates that the helium nucleus of mass 4 is probably a secondary unit
+of great importance in atom building. On the views outlined, we should
+expect the helium nucleus of charge to be built up of four protons and
+two electrons. The loss of mass in forming this nucleus indicates that a
+large amount of energy must be liberated during its formation. If this
+be the case, the helium nucleus must be such a stable structure that the
+combined energy of four or five of the swiftest _α_ particles would be
+necessary to effect its disruption. Such a deduction is supported by our
+failure to observe any evidence of disintegration of the swift particle
+itself, whether it is used to bombard matter or whether the _α_ particle
+is used to bombard other helium atoms.
+
+On these views, we should anticipate that the nucleus of radium of
+atomic number 88 and atomic weight 22.6 contains in all 226 protons of
+mass 1 and 138 electrons. While this gives us the numerical relation
+between the two fundamental units, we have, at present, no definite
+information of their arrangement in the minute nuclear volume, nor of
+the nature and magnitude of the forces that hold them together. We
+should anticipate that many of the protons and electrons unite to form
+secondary units, _e. g._ helium nuclei, and that the detailed structure
+of the nucleus may be very different from that to be expected if it
+consists of a conglomeration of free protons and electrons.
+
+It is thus of great importance to obtain definite evidence of the nature
+and arrangement of the components of the nucleus and of the forces that
+hold them in equilibrium. We shall now consider some of the lines of
+evidence which throw light on the actual dimensions of the nucleus and
+the law of force operative in its neighborhood; the structure and modes
+of vibration of the nucleus, together with the effects observed when
+some light nuclei are disintegrated by bombardment with _α_ particles.
+
+
+
+
+DIMENSIONS OF THE NUCLEI AND THE
+LAW OF FORCE
+
+
+The conception of the nucleus atom had its origin in 1911 in order to
+explain the scattering of an _α_ particle through a large angle as the
+result of a single collision. The observation that the _α_ particle is in
+some cases deflected through more than a right angle as the result of an
+encounter with a single atom first brought to light the intense forces
+that exist close to the nucleus. Geiger and Marsden showed that the
+number of particles scattered through different angles was in close
+accord with the simple theory which supposed that, for the distance
+involved, the _α_ particle and nucleus behaved like charged points,
+repelling each other according to the law of the inverse square. The
+accuracy of this law has been independently verified by Chadwick, so
+that we are now certain that in a region close to the nucleus the
+ordinary laws of force are valid.
+
+These scattering experiments also gave us the first idea as to the
+probable dimensions of the nuclei of heavy atoms, for it is to be
+anticipated that the law of the inverse square must break down if the _α_
+particle approaches closely to or actually enters the nuclear structure.
+This variation in the law of force would show itself by a difference
+between the observed and calculated numbers of _α_ particles scattered
+through large angles. Geiger and Marsden, however, observed no certain
+variation even when the _α_ particles of range about 4 cms. were
+scattered through 100° by a gold nucleus. In such an encounter, the
+closest distance of approach of the _α_ particle to the center of the
+nucleus is about 5 x 10^-12 cm., so that it would appear that the radius
+of the gold nucleus, assumed spherical, could not be much greater than
+this value.
+
+There is another argument, based on radioactive data, which gives a
+similar value for the dimensions of the radius of a heavy atom. The _α_
+particle escaping from the nucleus increases in energy as it passes
+through the repulsive field of the nucleus. To fix a minimum limit,
+suppose the _α_ particle from uranium, which is the slowest of all _α_
+particles expelled from a nucleus, gains all its energy from the
+electrostatic field. It can be calculated on these data that the radius
+of the uranium nucleus cannot be less than 6 x 10^-12 cm. This is based
+on the assumption that the forces outside the nucleus are repulsive and
+purely electrostatic. If, as seems not unlikely, there also exist close
+to the nucleus strong attractive forces, varying more rapidly than an
+inverse square law, the actual dimensions may be less than the value
+calculated above.
+
+At this stage of our knowledge it is of great importance to test whether
+the law of force breaks down for the distance of closest approach of an
+_α_ particle to a nucleus. This can be done by comparing the observed
+with the calculated number of _α_ particles scattered through angles of
+nearly 180°. It seems almost certain that the inverse square law must
+break down when swift _α_ particles are used. This can be seen from the
+following argument. If an _α_ particle, of the same speed as that ejected
+during the transformation of uranium, is fired directly at the uranium
+nucleus, _it must penetrate into the nuclear structure_. If a still
+swifter _α_ particle is used, _e. g._ that from radium C, which has about
+twice the energy of the uranium _α_ particle, it is clear that it must
+penetrate still more deeply into the nuclear structure. This is based on
+the assumption that the field due to a nucleus is approximately
+symmetrical in all directions. If this is not true, it may happen that
+only a fraction of the head-on collisions may be effective in
+penetrating the nucleus. It is hoped soon to attack this difficult
+problem experimentally.
+
+We have so far dealt with collisions of an _α_ particle with a heavy
+atom. We know, however, from the results of Rutherford, Chadwick and
+Bieler that in a collision of an _α_ particle with the lightest atom,
+hydrogen, the law of the inverse square breaks down entirely when swift
+particles are used. Not only are the numbers of H nuclei set in swift
+motion much greater than is to be expected in the simple-point nucleus
+theory, but the change of number with the velocity of the _α_ particle
+varies in the opposite way from the simple theory. Such wide departures
+between theory and experiment are only explicable if we assume either
+that the nuclei have sensible dimensions or that the inverse square law
+of repulsion entirely breaks down in such close collisions. If we
+suppose the complexity in structure and in laws of force is to be
+ascribed to the _α_ particle rather than to the hydrogen nucleus,
+Chadwick and Bieler, as the result of a careful series of experiments,
+concluded that the _α_ particle behaved as if it were a perfectly elastic
+body, spheroidal in shape with its minor axis 4 x 10^-13 cm. in the
+direction of motion and major axis 8 x 10^-13 cm. Outside this
+spheroidal region the forces fell off according to the ordinary inverse
+square law, but inside this region the forces increased so rapidly that
+a particle was reflected from it as from a perfectly elastic body. No
+doubt such a conception is somewhat artificial, but it does serve to
+bring out the essential points involved in the collision, viz., that
+when the nuclei approach within a certain critical distance of each
+other, forces come into play which vary more rapidly than the inverse
+square. It is difficult to ascribe this break-down of the law of force
+merely to the finite size or complexity of the nuclear structure or to
+its distortion, but the results rather point to the presence of new and
+unexpected forces which come into play at such small distances. This
+view has been confirmed by some recent experiments of Bieler in the
+Cavendish Laboratory in which he has made, by scattering methods, a
+detailed examination of the law of force in the neighborhood of a light
+nucleus like that of aluminum. For this purpose he compared the relative
+number of _α_ particles scattered within the same angular limit from
+aluminum and from gold. For the range of angles employed, viz., up to
+100°, it is assumed that the scattering of gold follows the inverse
+square law. He found that the ratio of the scattering in aluminum
+compared with that in gold depended on the velocity of the _α_ particle.
+For example, for an _α_ particle of 3.4 cms. range, the theoretical ratio
+was obtained for angles of deflection below 40° but was about 7 per
+cent lower for an average angle of deflection of 80°. On the other
+hand, for swifter particles of range 6.6 cms. a departure from the
+theoretical ratio was much more marked and amounted to 29 per cent for
+an angle of 80°. In order to account for these results he supposes that
+close to the aluminum nucleus an attractive force is superimposed on the
+ordinary repulsive forces. The results agreed best with the assumption
+that the attractive force varies according to the inverse fourth power
+of the distance and that the forces of attraction and repulsion balanced
+at about 3.4 x 10^-13 cm. from the nuclear center. Inside this critical
+radius the forces are entirely attractive; outside they are repulsive.
+
+While we need not lay too much stress on the accuracy of the actual
+value obtained or of the law of attractive force, we shall probably not
+be far in error in supposing the radius of the aluminum nucleus is not
+greater than 4 x 10^-13 cm. It is of interest to note that the forces
+between an _α_ particle and a hydrogen nucleus were found to vary rapidly
+at about the same distance.
+
+It thus seems clear that the dimensions of the nuclei of light atoms are
+small, and almost unexpectedly small in the case of aluminum when we
+remember that 27 protons and 14 electrons are concentrated in such a
+minute region. The view that the forces between nuclei change from
+repulsion to attraction when they are very close together seems very
+probable, for otherwise it is exceedingly difficult to understand why a
+heavy nucleus with a large excess of positive charge can hold together
+in such a confined region. We shall see that the evidence from various
+other directions supports such a conception, but it is very unlikely
+that the attractive forces close to a complex nucleus can be expressed
+by any simple power law.
+
+
+
+
+RADIOACTIVE EVIDENCE
+
+
+A study of the long series of transformations which occur in uranium and
+thorium provides us with a wealth of information on the modes of
+disintegration of atoms, but unfortunately our theories of nuclear
+structure are not sufficiently advanced to interpret these data with any
+detail. The expulsion of high speed _α_ and _β_ particles from the
+radioactive nucleus gives us some idea of the powerful forces resident
+in the nucleus, for it can be estimated that the energy of emission of
+the _α_ particle is in some cases greater than the energy that would be
+acquired if the _α_ particle fell freely between two points differing in
+potential by about 4 million volts. The energies of the _β_ and _γ_ rays
+are on a similar scale of magnitude.
+
+Notwithstanding our detailed knowledge of the successive transformation
+of the radio-elements, we have not so far been able to obtain any
+definite idea of their nuclear structure, while the cause of the
+disintegration is still a complete enigma. In comparing the uranium,
+thorium, and actinium series of transformations, one cannot fail to be
+struck by the many points of similarity in their modes of
+disintegration. Not only are the radiations similar in type and in
+energy, but, in all cases, the end product is believed to be an isotope
+of lead. This remarkable similarity in the modes of transformation is
+especially exemplified in the case of the "C" bodies, each of which is
+known to break up in at least two distinct ways, giving rise to branch
+products. For example, thorium C emits two types of _α_ rays, 65 percent
+of range 8.6 cms. and 35 per cent of range 4.8 cms., and in addition
+some _β_ rays.
+
+In order to explain these results, it has been suggested that a fraction
+of the atoms of thorium C break up first with the expulsion of an _α_
+particle and the resulting product then emits a _β_ particle. The other
+fraction breaks up in a reverse way, first expelling a _β_ particle,
+while the subsequent product emits an _α_ particle. Similar dual changes
+occur in radium C and actinium C, although the relative number of atoms
+in each branch varies widely for the different elements.
+
+This remarkable similarity between the "C" bodies is still further
+emphasized by the recent discovery of Bates and Rogers that both radium
+C and thorium C give rise in small numbers to other groups of _α_
+particles, some of them moving at very high speeds.
+
+It has often been a matter of remark that the radioactive properties of
+the "C" bodies seem to depend more on the atomic number, _i. e._, the
+nuclear charge, than on the atomic weight. Confining our attention to
+radium C and thorium C, which are best known, both have a nuclear charge
+83, but the atomic mass of radium C is 214 and of thorium C 212. The
+nucleus of radium C thus contains two protons and two electrons more
+than that of thorium C. If it were supposed that the nuclei of these
+elements consisted of a large number of charged units in ceaseless and
+irregular motion, it is to be anticipated that the addition of the
+protons and electrons to the complex structure would entirely alter the
+nuclear arrangement and consequently its stability and mode of
+transformation. On the other hand, we find that the modes of
+transformation of these two nuclei have striking and unexpected points
+of resemblance which are in entire disaccord with such a supposition. We
+can, however, suggest a possible explanation of this anomaly by
+supposing that the _α_ and _β_ particles which are liberated from these
+elements are not built deep into the nuclear structure but exist as
+_satellites_ of a central core which is common to both elements. These
+satellites, if in motion, may be held in equilibrium by the attractive
+forces arising from the core, and these forces would be the same for
+both elements. On this view the manifestations of radioactivity are to
+be ascribed not to the main core, but to the satellite distribution,
+which must be somewhat different for the two elements although possibly
+showing many points of similarity. It must be admitted that a theory of
+this kind is highly speculative, but it does provide a useful working
+hypothesis, not only to account for the similarity of the modes of
+transformation of the two elements but also immediately suggests a
+possible explanation of the liberation of a number of _α_ particles of
+different ranges from the same element. There are two ways of regarding
+this question. We may in the first place suppose that a certain amount
+of surplus energy has to be liberated in the disintegration and that
+this energy may be given to any one of a number of satellites. There
+will be a certain probability that any particular particle will be given
+this energy, and on this will depend the relative number of particles in
+the different _α_ ray groups. The ultimate energy of ejection of an _α_
+particle will depend on its position in the field of force surrounding
+the inner core at the moment of its liberation. On the other hand, we
+may suppose that the same _α_ particle is always ejected but that the
+particle may occupy in the atom one of a number of "stationary"
+positions analogous to the "stationary states" of the electrons in
+Bohr's theory of the outer atom. This rests on the assumption that all
+the atoms will not be identical in satellite structure but there will be
+a number of possible "excited" states of the atom as a consequence of
+the previous disintegrations. This satellite theory is useful in another
+connection. It has been suggested that possibly the high frequency _γ_
+rays from a radioactive atom may arise not from the movement of the
+electrons as ordinarily supposed, but from the transfer of _α_ particles
+from one level to another. In such a case, the difference in energies
+between the various groups of _α_ particles from radium C and thorium C
+should be connected by the quantum relation with the frequencies of
+prominent _γ_ rays. The evidence at present available is not definite
+enough to give a final decision on this problem, but points to the need
+of very accurate measurements of the energies of the various groups of
+_α_ particles. On account of the relatively small number of particles in
+some of the groups, this is difficult of accomplishment.
+
+In considering the satellite theory in connection with the radioactive
+bodies, it is at first sight natural to suppose, since the end product
+of both the radium and thorium series is an isotope of lead, that one of
+the isotopes of lead forms the central core. It may, however, well be
+that the radioactive processes cease when there are still a number of
+satellites remaining. If this be so, the core may be of smaller nuclear
+charge and mass than that of lead. From some considerations, described
+later, this core may correspond to an element near platinum of number 77
+and mass 192.
+
+
+
+
+FREQUENCY OF VIBRATION OF THE NUCLEUS
+
+
+One of the most interesting and important methods of throwing light on
+nuclear structure is the study of the very penetrating _γ_ rays expelled
+by some radioactive bodies. The _γ_ rays are identical in nature with
+X-rays, but the most penetrating type of rays consists of waves of much
+higher frequency than can be produced in an ordinary X-ray tube. The
+work of the last few years has indicated very clearly that the major
+part of the _γ_ radiation from bodies like radium B and C originates in
+the nucleus. A determination of the frequencies of the _γ_ rays thus
+gives us direct information on the modes of vibration of parts of the
+nuclear structure. The frequency of some of the softer _γ_ rays excited
+by radium B and radium C was measured by the crystal method by
+Rutherford and Andrade, but it is difficult, if not impossible, by this
+method to determine the frequencies of the very penetrating rays.
+Fortunately, due largely to the work of Ellis and Fräulein Meitner, a
+new and powerful method has been devised for this purpose. It is well
+known that the _β_ rays from radium B and radium C give a veritable
+spectrum in a magnetic field, showing the presence of a number of groups
+of _β_ rays each expelled with a definite speed. It is clear that each of
+the groups of _β_ rays arises from conversion of the energy of a _γ_ ray
+of definite frequency into a _β_ ray in one or other of the electronic
+levels in the outer atom. The energy ω required to move an electron
+from one of these levels to the outside of the atom is known from a
+study of X-ray absorption spectra. The frequency ν of the _γ_ ray is
+thus given by the quantum relation hν = E + ω, where E is the measured
+energy of the _β_ particle.
+
+Since each _γ_ ray may be converted in any one of the known electronic
+levels in the outer atom, a single _γ_ ray is responsible for the
+appearance of a number of groups of _β_ rays, corresponding to conversion
+in the K, L, M, etc., levels. In this way, an analysis of the _β_ ray
+spectrum allows us to fix the frequency of the more intense _γ_ rays
+which are emitted from the nucleus. The energy of the shortest wave
+measured in this way by Ellis corresponds to more than two million
+volts, while other evidence shows that probably still shorter waves are
+emitted in small quantity from radium C.
+
+Ellis and Skinner have shown that the energies of these rays show
+certain combination differences, such as are so characteristic of the
+energies of the X-rays arising from the outer electrons. A series of
+energy levels may thus be postulated in the nucleus similar in character
+to the electron levels of the outer atom, and the _γ_ rays have their
+origin in the fall either of an electron or of an _α_ particle between
+these levels. This is a significant and important result, indicating
+that the quantum dynamics can be applied to the nucleus as well as to
+the outer electronic structure.
+
+The probability of levels in the nuclear structure is most clearly seen
+on the satellite hypothesis, but in our ignorance of the laws of force
+near the core we are at the moment unable to apply the quantum dynamics
+directly to the problem. The outlook for further advances in this
+direction is hopeful, but is intimately connected with a further
+development of our knowledge of the laws of force that come into play
+close to the nucleus in the region occupied by the satellites.
+
+
+
+
+ARTIFICIAL DISINTEGRATION OF ELEMENTS
+
+
+We have seen that it is believed that the nuclei of all atoms are
+composed of protons and electrons and that the number of each of these
+units in any nucleus can be deduced from its mass and nuclear charge. It
+is, however, at first sight rather surprising that no evidence of the
+individual existence of protons in a nucleus is obtained from a study of
+the transformations of the radioactive elements, where the processes
+occurring must be supposed to be of a very fundamental character. As far
+as our observations have gone, electrons and helium nuclei, but no
+protons, are ejected during the long series of transformations of
+uranium, thorium and actinium. One of the most obvious methods for
+determining the structure of a nucleus is to find a method of
+disintegrating it into its component parts. This is done spontaneously
+for us by nature to a limited extent in the case of the heavy
+radioactive elements, but evidence of this character is not available in
+the case of the ordinary elements.
+
+As the swift _α_ particle from the radioactive bodies is, by far, the
+most energetic projectile known to us, it seemed from the first possible
+that occasionally the nucleus of a light atom might be disintegrated as
+the result of a close collision with an _α_ particle. On account of the
+minute size of the nucleus, it is to be anticipated that the chance of
+a direct hit would be very small and that consequently the
+disintegration effects, if any, would be observed only on a very minute
+scale. During the last few years Dr. Chadwick and I have obtained
+definite evidence that hydrogen nuclei or protons can be removed by
+bombardment of _α_ particles from the elements boron, nitrogen, fluorine,
+sodium, aluminum and phosphorus. In these experiments the presence of H
+nuclei is detected by the scintillation method, and their maximum
+velocity of ejection can be estimated from the thickness of matter which
+can be penetrated by these particles. The number of H nuclei ejected
+even in the most favorable case is relatively very small compared with
+the number of bombarding _α_ particles, viz., about one in a million.
+
+In these experiments the material subject to bombardment was placed
+immediately in front of the source of _α_ particles and observations on
+the ejected particles were made on a zinc sulphide screen placed in a
+direct line a few centimetres away. Using radium C as a source of _α_
+rays, the ranges of penetration, expressed in terms of centimetres of
+air, were all in these cases greater than the range of free nuclei (30
+cms. in air) set in motion in hydrogen by the _α_ particles. By inserting
+absorbing screens of 30 cms. air equivalent in front of the zinc
+sulphide screen the results were quite independent of the presence of
+either free or combined hydrogen as an impurity in the bombarded
+materials. Some of the lighter elements were examined for absorptions
+less than this, but, in general, the number of H particles due to
+hydrogen contamination of the source and the materials was so large that
+no confidence could be placed in the results.
+
+In such experiments many scintillations can be observed, but it is very
+difficult to decide whether these can be ascribed in part to an actual
+disintegration of the material under examination. The presence of
+long-range particles of the _α_ ray type from the source of radium C
+still further complicates the question, since in general the number of
+such particles is large compared with the disintegration effect we
+usually observe.
+
+To overcome these difficulties, inherent in the direct method of
+observation, Dr. Chadwick and I have devised a simple method by which we
+can observe with certainty the disintegration of an element when the
+ejected particles have a range of only 7 cms. in air. This method is
+based on the assumption, verified in our previous experiments, that the
+disintegration particles are emitted in all directions relative to the
+incident rays. A powerful beam of _α_ rays falls on the material to be
+examined and the liberated particles are observed at an average angle of
+90° to the direction of the incident _α_ particles. By means of screens
+it is arranged that no _α_ particles can fall directly on the zinc
+sulphide screen.
+
+This method has many advantages. We can now detect particles of range
+more than 7 cms. with the same certainty as particles of range above 30
+cms. in our previous experiments, for the presence of hydrogen in the
+bombarded material has no effect. This can be shown at once by
+bombarding a screen of paraffin wax, when no particles are observed on
+the zinc sulphide screen. On account of the very great reduction in
+number of H nuclei or _α_ particles by scattering through 90°, the
+results are quite independent of H nuclei from the source or of the
+long-range _α_ particles. The latter are just detectable under our
+experimental conditions when a heavy element like gold is used as
+scattering material, but are inappreciable for the lighter elements.
+
+A slight modification of the arrangement enables us to examine gases as
+well as solids.
+
+Working in this way we have found that in addition to the elements
+boron, nitrogen, fluorine, sodium, aluminum, and phosphorus, which give
+H particles of maximum range in the forward direction between 40 and 90
+cms., the following give particles of range above 7 cms.: neon,
+magnesium, silicon, sulphur, chlorine, argon, and potassium. The numbers
+of the particles emitted from these elements are small compared with the
+number from aluminum under the same conditions, varying between ⅓ and
+¹⁄₂₀. The ranges of the particles have not been determined with
+accuracy. Neon appears to give the shortest range, about 16 cms., under
+our conditions, the ranges of the others lying between 18 cms. and 30
+cms. By the kindness of Dr. Rosenhain we were able to make experiments
+with a sheet of metallic beryllium. This gave a small effect, about
+¹⁄₃₀ of that of aluminum, but we are not yet certain that it may
+not be due to the presence of a small quantity of fluorine as an
+impurity. The other light elements, hydrogen, helium, lithium, carbon,
+and oxygen, give no detectable effect beyond 7 cms. It is of interest to
+note that while carbon and oxygen give no effect, sulphur, also probably
+a "pure" element of mass 4n, gives an effect of nearly one-third that of
+aluminum. This shows clearly that the sulphur nucleus is not built up
+solely of helium nuclei, a conclusion also suggested by its atomic
+weight of 32.07.
+
+We have made a preliminary examination of the elements from calcium to
+iron, but with no definite results, owing to the difficulty of obtaining
+these elements free from any of the "active" elements, in particular,
+nitrogen. For example, while a piece of electrolytic iron gave no
+particles beyond 7 cms., a piece of Swedish iron gave a large effect,
+which was undoubtedly due to the presence of nitrogen, for after
+prolonged heating _in vacuo_ the greater part disappeared. Similar
+results were experienced with the other elements in this region.
+
+We have observed no effects from the following elements: nickel, copper,
+zinc, selenium, krypton, molybdenum, palladium, silver, tin, xenon, gold
+and uranium. The krypton and xenon were kindly lent by Dr. Aston.
+
+
+
+
+EXAMINATION OF LIGHT ELEMENTS FOR PARTICLES
+OF RANGE LESS THAN 3 CMS. OF AIR
+
+
+When _α_ particles are scattered from light elements, the simple theory
+shows that the velocity of the scattered particles depends on the angle
+of scattering. For example, using bombarding _α_ particles of range 7
+cms., the range of the _α_ particles scattered through more than 90°
+cannot be greater than 1.0 cm. for lithium (7), 2.0 cms. for beryllium
+(10), 2.5 cms. for carbon, 3.2 cms. for oxygen, 4.3 cms. for aluminum,
+and 6.8 cms. for gold.
+
+Provided we introduce sufficient thickness of absorber to stop the _α_
+particles scattered through 90°, we can examine for disintegrated
+particles from carbon, for example, whose range exceeds 2.5 cms. Certain
+difficulties arise in this type of experiment which are absent when the
+thickness of absorber is greater than 7 cms.; any heavy element present
+as an impurity will give scattered _α_ particles of range greater than
+those from carbon and thus complicate the observations. In addition,
+serious troubles may arise due to the volatilization or escape of active
+matter from the source. This is especially marked if the vessel
+containing the radioactive source is exhausted. To overcome this
+difficulty, we have found it desirable to cover the source with a thin
+layer of celluloid of 2 or 3 mm. stopping power for _α_ rays. By this
+procedure we have been able to avoid serious contamination and to
+examine the lighter elements by this method. We have been unable to
+detect any appreciable number of particles from lithium or carbon for
+ranges greater than 3 cms. If carbon shows any effect at all, it is
+certainly less than one tenth of the number from aluminum under the same
+conditions. This is in entire disagreement with the work of Kirsch and
+Patterson (Nature, April 26, 1924), who found evidence of a large number
+of particles from carbon of range 6 cms. A slight effect was observed in
+beryllium in accordance with our other experiments. No effect was noted
+in oxygen gas. Apart from beryllium, no certain effect has been noted
+for elements lighter than boron.
+
+Under the conditions of our experiment, it seems clear that neither H
+nuclei nor other particles of range greater than 3 cms. can be liberated
+in appreciable numbers from these elements in a direction at right
+angles to the bombarding _α_ rays. This is, in a sense, a disappointing
+result, for, unless these elements are very firmly bound structures, it
+was to be anticipated that an _α_ particle bombardment would resolve them
+into their constituent particles.
+
+We hope to examine this whole question still more thoroughly, as it is a
+matter of great importance to the theory of nuclear constitution to be
+certain whether or not the light elements can be disintegrated by swift
+_α_ particles.
+
+In considering the results of our new and old observations, some points
+of striking interest emerge. In the first place, all the elements from
+fluorine to potassium inclusive suffer disintegration under _α_ ray
+bombardment. As far as our observations have gone, there seems little
+doubt that the particles ejected from all these elements are H nuclei.
+The odd elements, B, N, F, Na, Al, P, all give long-range particles
+varying in range from 40 cms. to 90 cms. in the forward direction, the
+even elements, C, O, Ne, Mg, Si, S, either give few particles or none at
+all as in the case of C and O, or give particles of much less range than
+the adjacent odd numbered elements. The differences between the ranges
+of even-odd elements become much less marked for elements heavier than
+phosphorus.
+
+This obvious difference in velocity of expulsion of the H nuclei from
+even and odd elements is a matter of great interest. Such a distinction
+can be paralleled by other observations of an entirely different
+character. Harkins has shown that elements of even atomic number are
+much more abundant in the earth's crust than elements of odd atomic
+number. In his study of Isotopes, Aston has shown that in general odd
+numbered elements have only two isotopes differing in mass by two units,
+while even numbered elements in some cases contain a large number of
+isotopes. This remarkable distinction between even and odd elements
+cannot but excite a lively curiosity, but we can at present only
+speculate on its underlying cause.
+
+
+
+
+VELOCITY OF ESCAPE OF HYDROGEN NUCLEI
+
+
+We have seen that the experiments of Bieler on the scattering of _α_ rays
+by aluminum and magnesium indicate that a powerful attractive force
+comes into play very close to the nuclei of these atoms. If this be the
+case, the forces of attraction and repulsion must balance at a certain
+distance from the nucleus. Outside this critical point the forces on a
+positively charged body are entirely repulsive. Certain important
+consequences follow from this general view of nuclear forces. Suppose,
+for example, that, due to a collision with a swift _α_ particle, a
+hydrogen nucleus is liberated from the nuclear structure. After passing
+across the critical surface, it will acquire energy in passing through
+the repulsive field. It is clear, on this view, that the energy of a
+charged particle after escape from the atom cannot be less than the
+energy acquired in the repulsive field; consequently we should expect to
+find evidence that there is a minimum velocity of escape of a
+disintegration particle. We have obtained definite evidence of such an
+effect both in aluminum and sulphur by examining the absorption of H
+nuclei from these elements. The number of scintillations for a thin film
+was found to be nearly constant for absorption between 7 and 12 cms.,
+but falls off rapidly for greater thicknesses. This is exactly what is
+to be expected on the views outlined. No doubt the limiting velocity
+varies somewhat for the different elements, but a large amount of
+experiment will be required to fix this limit with accuracy. From these
+results it is possible to form a rough estimate of the potential of the
+field at the critical surface, and this comes out to be about 3 million
+volts for aluminum. The value for sulphur is somewhat greater. This
+brings out in a striking way the extraordinary smallness of the nuclei
+of these elements, for it can be calculated that the critical surface
+cannot be distant more than 6 x 10^-13 cm. from the centre of the
+nucleus. These deductions of the critical distance are in excellent
+accord with those made by Bieler from observations of the scattering of
+_α_ particles.
+
+Another important consequence follows. It is clear that an _α_ particle
+fired at the nucleus will not be able to cross this critical surface and
+thus be in a position to produce disintegration, unless its velocity
+exceeds that corresponding to the critical potential. In an experiment
+made a few years ago, we found that the number of H nuclei liberated
+from aluminum fell off rapidly with diminution of the velocity of the _α_
+particle and was too small in number to detect when the range of the _α_
+particle was less than 4.9 cms. This corresponds to the energy of an _α_
+particle falling between about 3 million volts--a value in good accord
+with that calculated from the escape of H nuclei.
+
+Further experiments are required with other elements to test if this
+relation between the minimum velocity of H nuclei and the minimum
+velocity of the _α_ particle to produce disintegration holds generally;
+but the results as far as they go are certainly very suggestive.
+
+It is of interest to note that these results afford a definite proof of
+the nuclear conception of the atom and give us some hope that we may
+determine the magnitude of the critical potential for a number of the
+light elements.
+
+
+
+
+EVOLUTION OF NUCLEI
+
+
+In concluding, I would like to make a few remarks of a more speculative
+character dealing with the fundamental problem of the origin and
+evolution of the elements from the two fundamental building units, the
+positive and negative electrons. It must be confessed that there is
+little information to guide us with the exception of our knowledge of
+the nuclear charges and masses of the various species of elements which
+survive to-day. It has always been a matter of great difficulty to
+imagine how the more complex nuclei can be built up by the successive
+additions of protons and electrons, since the proton must be endowed
+with a very high speed to approach closely to the charged nucleus. I
+have already discussed in this paper the evidence that powerful
+attractive forces varying very rapidly with the distance are present
+close to the nuclear structure and it seems probable that these forces
+must ultimately be ascribed to the constituent proton. In such a case it
+may be possible for an electron and proton to form a very close
+combination, or neutron, as I have termed it. The probable distance
+between the centre of this doublet is of the order of 3 x 10^-13 cm. The
+forces between two neutrons would be very small except for distance of
+approach of this order of magnitude, and it is probable that the
+neutrons would collect together in much the same fashion as a number of
+small movable magnets would tend to form a coherent group held together
+by their mutual forces.
+
+In considering the origin of the elements, we may for simplicity suppose
+a large diffused mass of hydrogen which is gradually heated by its
+gravitational condensation. At high temperatures the gas would consist
+mainly of free hydrogen nuclei and electrons, and some of these would in
+course of time combine to form neutrons, emitting energy in the process.
+These neutrons would collect together in nuclear masses of all kinds of
+complexity. Now the tendency of the groups of neutrons would be to form
+more stable nuclear combinations, such as helium nuclei of mass four,
+and possibly intermediate stages of masses two and three. Energy would
+be emitted in these processes probably in the form of swift surplus
+electrons which were not necessary for the stability of the system. In a
+sense, all these nuclear masses would be radioactive, but some of them
+in their transformation may reach a stable configuration which would
+represent the nucleus of one of our surviving elements. If we suppose
+that nuclear masses over a wide range of mass can be formed before
+serious transformation occurs, it is easy to see how every possible type
+of stable element will gradually emerge. If we take the helium nucleus
+as a combining unit which emits in its formation the greatest amount of
+energy, we should ultimately expect many of the neutrons in a heavy
+nucleus to form helium nuclei. These helium nuclei would tend to collect
+together and form definite systems and it seems not unlikely that they
+will group themselves into orderly structures, analogous in some
+respects to the regular arrangement of atoms to form crystals, but with
+much smaller distances between the structural units. In such a case,
+some of the elements may consist of a central crystal type of structure
+of helium nuclei surrounded by positive and negatively charged
+satellites in motion round this central core. Assuming that such orderly
+arrangements of helium nuclei are possible, it is of interest to note
+that the observed relations between atomic charge and atomic mass for
+the elements can be approximately obtained on a very simple assumption.
+Suppose that helium nuclei form a point centred cubic lattice with an
+electron at the centre of a crystal unit of eight helium nuclei. A few
+of the possible types of grouping are given in the following table, with
+corresponding masses and nuclear charges. The structure 4. 3. 2. means
+a rectangular arrangement with sides containing 4. 3. 2. nuclei
+respectively. It will thus contain 24 helium nuclei, have a mass 96, and
+will contain 6 intranuclear electrons. Its nuclear charge will therefore
+be 48 - 6 = 41.
+
+
+Structural arrangement of    Calculated     Calculated  Known element of
+       helium nuclei       nuclear charge      Mass       equal charge
+
+3. 2. 2.                        22              48      Ti 48
+
+3. 3. 2.                        32              72      Ge 74, 72, 70
+
+3. 3. 3.                        46             108      Pd 106.7
+
+4. 2. 2.                        29              64      Cu 63.35
+
+4. 3. 2.                        42              96      Mo 96
+
+4. 3. 3.                        60             144      Nd 144
+
+4. 4. 3.                        78             192      Pt 195
+
+
+While the agreement is far from perfect for all these structures, there
+is a general accord with observation. If we take the view that some of
+these structures can grow by the addition of satellites, there is room
+for adjustment of masses and to include the intervening elements. This
+point of view is admittedly very speculative and there may well be other
+types of structure involved. At the same time, the general evidence
+suggests that there are some basal structures on which the heavier atoms
+are progressively built up. The failure of the whole number rule for the
+mass of isotopes, observed in some cases by Aston, _e.g._, between tin
+and xenon, certainly supports such a conception. From a study of the
+artificial disintegration of the elements we have seen that carbon and
+oxygen represent very stable structures probably composed of helium
+nuclei. It is possible that oxygen nuclei, for example, may be the
+structural basis of some of the elements following oxygen, but our
+information is at present too meagre to be at all certain on this point.
+
+I think, however, it will be clear from this lecture what a difficult
+but fascinating problem is involved in the structure of nuclei. Before
+we can hope to make much advance, it is essential to know more of the
+nature of the forces operative close to protons and electrons, and we
+may hope to acquire much information by a detailed study of the
+scattering of swift _α_ rays and _β_ rays by nuclei. Fortunately, there is
+now a number of distinct lines of attack on this problem, and from a
+combination of the results obtained we may hope to make steady, if not
+rapid, progress in the solution of this, the greatest problem in
+Physics.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE NATURAL AND ARTIFICIAL DISINTEGRATION OF THE ELEMENTS ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

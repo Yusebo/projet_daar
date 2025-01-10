@@ -1,0 +1,1622 @@
+﻿The Project Gutenberg eBook of Profits from scrap
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Profits from scrap
+
+Author: Chicago American Bureau of Engineering
+
+Release date: August 8, 2016 [eBook #52754]
+                Most recently updated: October 23, 2024
+
+Language: English
+
+Credits: Produced by Richard Tonsing and the Online Distributed
+        Proofreading Team at http://www.pgdp.net (This file was
+        produced from images generously made available by The
+        Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK PROFITS FROM SCRAP ***
+
+                                PROFITS
+                                 —FROM—
+                                 SCRAP
+
+
+[Illustration: AMBU]
+
+                              Published by
+
+                  American Bureau of Engineering, Inc.
+
+            2632 Prairie Avenue  -  CHICAGO, ILL., U. S. A.
+
+
+
+
+                       Four Principal Activities
+                                 of the
+                  American Bureau of Engineering, Inc.
+
+
+The phenomenal growth of this Institution is due to the fact that it
+has, from the start, anticipated the needs for authoritative information
+and adequate shop equipment to take care of the ELECTRICAL side of the
+automotive and allied industries.
+
+It has four active divisions:
+
+         1. A Bureau of Electrical Engineering, consulted by
+              automobile manufacturers, dealers and by technical schools
+              and colleges throughout the world.
+
+         2. A Publishing House, employing the highest
+              authorities to compile text books and Ready Reference
+              Manuals relating to the electrical equipment of
+              Automobiles, Trucks, Tractors, and Farm Lighting Plants.
+
+         3. A Manufacturing and Sales Organization for
+              supplying up-to-date shop equipment to the Battery and
+              Electrical Service Stations.
+
+         4. An Electrical School, operating this branch under
+              the name of “AMBU ENGINEERING INSTITUTE.” This school is
+              conducted so that a student can attend classes in Chicago,
+              or complete instruction in Automotive Electricity can be
+              obtained in the Home Study Course.
+
+                 =American Bureau of Engineering, Inc.
+                            General Offices
+             AMBU BUILDING      -      2632 Prairie Avenue
+                           CHICAGO, ILLINOIS=
+
+
+
+
+                         Mr. Battery Repairman
+
+
+Before reading the following pages, Mr. Batteryman, just stop a few
+minutes and take a good look around your shop. You know your business,
+certainly or you would not have a shop, but are you operating in a way
+to make the greatest profit?
+
+When you stop to think it over, are not some of your methods rather
+crude? Haven't you often thought, when you were doing some disagreeable
+job, that there ought to be a better and quicker way? Haven't you often
+wished that you knew how to turn that rapid accumulation of “junk” parts
+into real money?
+
+The American Bureau of Engineering is not trying to tell you how to run
+your business, but we are trying to help you realize a greater profit by
+showing you some “better” methods.
+
+Lead moulding is but one of many ways that spare time and material,
+usually junked, can be turned into profit.
+
+Every piece of equipment we mention has been carefully developed in our
+own shop, every method recommended is one which we have found, by actual
+experience to be best for the purpose described.
+
+A strict observance of the instructions will save you all the
+experimenting we have done and save you many disappointments. If for any
+reason our instructions do not produce the results you think they
+should, remember it is a pleasure for our Engineers to help you solve
+your personal difficulties.
+
+                     AMERICAN BUREAU OF ENGINEERING
+
+[Illustration: C. J. Buckwalter
+
+President.]
+
+
+
+
+                             Copyright 1922
+                  American Bureau of Engineering, Inc.
+                             Chicago, Ill.
+
+
+
+
+                           Profits From Scrap
+
+
+In his every day work, the storage battery service man must deal chiefly
+with three materials, wood, rubber and lead.
+
+The wooden parts, such as boxes and separators are pretty well
+standardized, can be purchased at reasonable prices and are used solely
+for replacements. It would not pay the battery man to equip his shop to
+manufacture any of these items.
+
+[Illustration: Figure 1]
+
+The same is true of the rubber parts, the jars and top covers. A dozen
+different sizes in stock will take care of nearly all the various makes
+and models of batteries which come in for repair.
+
+With the lead parts, however, the conditions are entirely different. All
+the active and wearing parts are made of lead, or its compounds, and
+practically every battery that needs repair, needs some of them
+replaced. Then again there is a much greater variety in the design of
+these parts and the up-to-date shop, in order to give real service, must
+carry a large assorted stock of end connectors, connector straps, plate
+straps and posts.
+
+In speaking of lead parts, however, the plates are to be considered on
+the same basis as the rubber parts or wooden boxes, because it would not
+pay the ordinary battery shop to try and cast grids, mix paste and
+manufacture plates. It is much more satisfactory to purchase plates made
+by a responsible manufacturer who has the facilities and capital to
+properly develop his formulae and processes.
+
+Every battery that has to be opened must have the top connectors drilled
+off as in Fig. 1, which naturally makes a lot of lead chips. These
+drillings have to be cleaned off before proceeding with the repair and
+can, with no loss of time, all be collected, as in Fig. 2, and saved.
+Then the old sulphated end connectors and parts from “junked” batteries
+accumulate very fast.
+
+[Illustration: Figure 2]
+
+This then is the situation—The battery service station is constantly in
+need of new lead parts. Should they be obtained from a manufacturer at a
+price that includes material, labor and the manufacturer's
+profit—OR—should equipment be purchased that will permit of moulding
+these same parts from the accumulated scrap lead at a cost of nothing
+but the time employed in pouring, with no cost for material and no
+“Profits” added?
+
+No matter how cheap you think you are buying your lead parts, just
+compare the market price per pound on lead with the weight of a few of
+your “cheapest” ones.
+
+It is now common practice to melt some of this accumulation of scrap
+lead and pour it into sticks or bars for use in lead burning on repair
+work. A great amount, especially old groups, is generally sold at a low
+price in order to get it out of the way. The one important fact, and one
+generally overlooked, is, that the battery man who melts lead and moulds
+it into sticks for lead burning, certainly is able to melt the same
+metal and mould it into the lead parts he requires, provided, of course,
+that he has the proper moulds.
+
+Many a wide awake man has whittled a wooden mould for some part that he
+wanted in a hurry and couldn't wait for the manufacturer to deliver.
+Naturally this condition, really an effort to render service to the
+customer, created a demand for moulds of a permanent character.
+
+In an effort to supply this demand, the moulds that have been produced
+were all made for some individual part, were light in weight and easily
+became overheated, making them hard to handle and often burning the
+workman's hands.
+
+[Illustration: Figure 3]
+
+From a business standpoint, it would certainly be mighty profitable for
+a battery shop to be able at a moment's notice, to convert junk lead
+into new salable parts. In addition to the large profit from the sale of
+these new parts, another good feature, is that, instead of tieing up a
+lot of capital in stock, the new parts can be made as needed, without a
+cent of investment.
+
+From a service standpoint, it is a cheaper and faster process to cast a
+new top connector than to spend a lot of valuable time, whittling an old
+one so that it can be used again.
+
+How much time have you or your men wasted cleaning up an old terminal as
+in Fig. 3, so that you could burn it on again?
+
+All new connectors and terminals put on a rebuilt or reinsulated job
+make the customer feel that he is getting a real repair. He sees a new
+finished job.
+
+From an electrical standpoint, the new parts mean better work, because
+better burning can be done, certainly a new connection will allow the
+battery to deliver more current than an old partly sulphated one could
+ever do.
+
+
+                    CAN YOU MAKE GOOD LEAD CASTINGS?
+
+The question that naturally comes up is, can the ordinary battery man
+make good lead castings? We will answer “Yes,” very emphatically. There
+is nothing mysterious about the work and all the talk of alloys,
+compounds and formulae does not mean a great deal.
+
+Pure lead is not hard or rigid enough to make good battery parts,
+therefore, it is necessary to add some other metal that will provide the
+strength, not be affected by the acid and not increase the resistance
+electrically. Antimony has all the necessary qualities, and is,
+therefore, commonly used by mixing it with the pure lead.
+
+[Illustration: Figure 4]
+
+The various manufacturers recommend from 2 to 12 percent antimony, as
+the proper combination, but in buying new pig lead for castings, a 4
+percent antimony compound is very satisfactory.
+
+In using old battery lead, however, due to chemical action the
+proportion of antimony is apt to be too high to produce perfect
+castings. This usually shows up by cracks or shrinkage, as in Figure 4.
+To overcome this trouble, pure lead is added, until a perfect casting is
+made. Pure lead can be purchased (in the form of bars, lead pipe, or
+sheet lead) from a manufacturer such as the National Lead Company—your
+accessory jobber, the local plumber, or the junk dealer. When buying
+from a junk dealer, however, care =must= be taken that there is no
+solder or tin present.
+
+
+                        PREPARATION OF THE LEAD
+
+In order to pour the lead some means of melting and a proper container
+must be provided.
+
+As pure lead melts at about 620°F., and antimony at 785°F., an ordinary
+gas flame will furnish sufficient heat. For the small shop, without an
+artificial gas supply, a plumber's furnace which can be secured from
+Hardware Jobber or Plumber Jobber will work satisfactorily. See page 19
+for gas melting pots.
+
+An ordinary cast iron solder pot will be found the most suitable
+container. It should be about 8 inches in diameter.
+
+It is advisable to obtain as large a pot as above, because for steady
+pouring a sufficient supply of melted metal should always be available.
+Then too, the constant addition of scrap or pig lead in a small pot will
+often change the proportion of antimony so that the castings crack and
+have to be melted over again.
+
+Wash the pot thoroughly with gasoline or kerosene to remove all traces
+of oil. Then after it has been carefully dried, put it over the flame
+and heat it gradually. Do this before putting in any lead.
+
+The only other equipment necessary to handle the melted lead is a ladle.
+For this purpose a malleable iron melting ladle five inches in diameter
+should be purchased. It can be used for stirring, skimming and pouring,
+and the type with a spout, illustrated in Fig. 5 will be found most
+suitable. The ladle should be cleaned and treated exactly like the
+melting pot.
+
+[Illustration: Figure 5]
+
+The scrap or pig lead can now be put in the pot and melted. It is a time
+saving plan to pick out carefully all the pieces of wood, rubber and
+sealing compound from the scrap lead before it is put in the pot. Old
+plates are not worth while melting, but a lot of good lead can be
+salvaged by sawing the strap and post off old groups. Above all things
+make sure that no wet parts or moisture of any kind ever gets into the
+lead pot.
+
+
+                           CLEANING THE LEAD
+
+As the lead melts most of the dross or dirt will come to the top and
+float. When all the pieces are melted stir the lead with the ladle and
+then skim off all the dirt.
+
+To help the cleaning process a piece of paraffin can be dropped into the
+pot. After it has burned, the dross is more easily skimmed off.
+
+Another method of cleaning is to add to every ten pounds of metal, one
+teaspoonful of equal parts of powdered rosin, borax and flour of
+sulphur. Stir this compound in a little and when the lead is at the
+proper temperature there will be a flare, flash or a little burning. A
+sort of tinfoil popcorn effect will be noticed floating on top of the
+metal. Continue stirring until this melts down and then skim off the
+soft particles.
+
+An easy way to test the temperature of the melted lead is to insert the
+end of a pine stick for a moment. When the wood blackens or burns, the
+lead is hot enough to pour.
+
+Whenever the lead is in melted form and exposed to the air, as in the
+iron pot, there will be a slight oxidation take place which appears as a
+yellowish-red scum. Do not confuse this with the dross and dirt which is
+to be skimmed off, but if the scum gets thick, then skim it off before
+pouring any of the metal.
+
+
+                          PREPARING THE MOULD
+
+One of the greatest difficulties in making lead castings has been to get
+the metal to completely fill the mould. There are several reasons for
+this, but they can easily be overcome.
+
+If the mould, which is generally made of iron, is very cold, it will
+chill the melted lead and cause it to become solid before it has reached
+all parts.
+
+The surface of a cast iron mould is very porous, and the melted lead,
+partially entering the pores of the iron, is held back long enough to
+chill and set.
+
+To remedy these faults, it is sometimes advisable to heat the mould in
+order to get perfectly shaped castings.
+
+To close the pores of the iron moulds they are sometimes “smoked” with a
+flame like that of “Prest-O-Lite” gas or else dusted with graphite.
+
+[Illustration: Figure 6]
+
+The AMBU mould compound has been developed to eliminate the necessity
+for heating or smoking the mould—it remedies all the pouring troubles
+and in addition, has chemical ingredients that aid in preventing the
+mould from rusting. AMBU mould compound is placed in a little sack,
+contained in each can, and the surface of the mould dusted with the
+sack, as shown in Figure 6.
+
+The compound completely fills the pores of the iron, produces perfect
+castings with a cold mould and prevents the finished part from sticking.
+It does not wear off as quickly as the “smoke,” and dusting from time to
+time, while castings are being made will produce a high polish on the
+mould surface which will result in even better castings.
+
+The mould in Figure 6 is the new AMBU Washburn combination link mould,
+which casts 15 parts, being reversible much like the ordinary “waffle
+iron.” The side being “dusted” casts four top connectors of different
+lengths.
+
+
+                            POURING THE LEAD
+
+Placing the mould as in Figure 7, the lead is poured in the four
+openings until the metal projects slightly above the top.
+
+To pour properly first skim the dross as previously explained, then with
+the ladle, push the film of oxide away and dip into the clean pure lead.
+Pour steadily until the mould is filled and the metal projects slightly
+above the top. As it cools there will be quite a little contraction
+which takes up most of the excess lead.
+
+[Illustration: Figure 7]
+
+=Never=, under any conditions, stop pouring with a mould partially
+filled. Always be sure there is enough melted lead in the ladle to
+completely fill the mould, before starting to pour.
+
+The mould can now be easily opened by pulling on the handles especially
+if it has been properly dusted with the Ambu Mould Compound.
+
+After the mould is opened, Figure 8, the castings are easily removed,
+without damage to either the mould or the casting proper. The workman
+does not, at any time, handle the hot parts of the mould or the hot
+castings.
+
+[Illustration: Figure 8]
+
+The mould weighs 25 pounds, and is large enough to absorb sufficient
+heat to allow continuous pouring without becoming overheated. It is
+solid enough to be used without the need of a vise.
+
+
+                         IMPORTANT INSTRUCTIONS
+
+In all lead moulding, there are several important points to remember:
+
+1. Never put anything in the lead pot that is not perfectly dry. A few
+drops of water in a pot of melted lead will cause an explosion and the
+hot lead will be thrown all over the shop burning and perhaps blinding
+the workman.
+
+2. Have all moulds clean and dry.
+
+3. Keep the melted lead in the lead pot clean at all times.
+
+4. Always completely fill each mould at one pouring.
+
+5. Dust moulds well with Ambu mould compound before pouring.
+
+6. When castings “shrink” and crack, add pure lead to that in the pot
+until the trouble is remedied.
+
+7. Be sure melted lead is of proper temperature, by pine stick test,
+before starting to pour.
+
+8. Remove castings as soon as they set, to prevent the mould from
+becoming too hot.
+
+9. A perfect casting, that breaks when taken out of the mould, has
+probably not been allowed sufficient time to “set” or cool properly.
+
+10. Never use a hammer on the surface of the mould. If a casting should
+stick, pry it out.
+
+
+                      AMBU COMBINATION LINK MOULD
+
+Using both sides, this mould casts five of the most used connectors for
+all batteries, using Standard Jars, 7-9-11-13-15 Plate four end
+connectors (two Dodge Tapers and two Standard Tapers, Negative and
+Positive), one end connector, ⅜-inch wire leed used on 12-volt Maxwell
+and other cars using wire leed. One small wire leed to connect with end
+post on storage battery requiring direct connection. Post support rings,
+which fit the two sizes standard rubber covers; also fit perfectly all
+posts cast with our post mould. Two handy washers that sometimes are
+badly needed when installing a new or rent battery.
+
+[Illustration: Figure 8A[1]]
+
+Extra taper plugs can be furnished, also extra bushings for different
+size cable. Standard equipment as furnished includes four taper plugs,
+one large and one small cable bushing.
+
+The top connectors most frequently replaced are the taper end
+connections and end connections with wire cable leads. For battery men
+desiring these parts, but not the large combination link mould, the
+AMBU-Washburn terminal mould, Figure 9, has been designed. It has the
+same general good features of the larger mould, and casts four end
+connectors, one wire cable leed and two washers.
+
+[Illustration: Figure 9[1]]
+
+
+                         AMBU POST STRAP MOULD
+
+Perhaps the most expensive item of a stock in a battery station, is the
+supply of positive and negative groups. While two or three sizes of
+plates will fit practically every battery, each size battery requires a
+different size of group.
+
+[Illustration: Figure 10[1]]
+
+The AMBU-Washburn Post Strap Mould has been developed in order that a
+comparatively small stock of plates can be instantly available for
+making any size of group. You will notice in Figure 10, that the same
+features, as those of the link mould of Figure 8 are used, namely; a
+large substantial base, no need of handling hot parts and the easy
+removal of castings. All parts of the moulds are carefully machined to
+produce perfect castings and the patented movable tooth rack will make
+odd or even numbers of teeth on the post strap. The teeth are correctly
+spaced for all standard batteries, or by reversing the tooth rack, blank
+posts can be cast.
+
+Two bushings, bored and reamed for standard size posts, are furnished,
+but special bushings are available making it possible to cast any type
+of post strap.
+
+
+                    AMBU PRODUCTION POST STRAP MOULD
+
+For the large shop or manufacturer, the AMBU-Washburn Post Strap Mould,
+is made with the special indexing feature of Figure 11. This is easily
+adjustable and will cast straps of both odd and even numbers of teeth
+for 7 to 19 plate groups. Otherwise its construction and appearance is
+the same as Figure 10.
+
+Both of these moulds are made for real use and will turn out three
+perfect castings per minute. This unusual speed can be maintained
+because the castings are easily removed. In Figure 10, the upper part of
+the mould is resting on a part of the handle made for that purpose and a
+slight blow on a hardwood stick, on the top of the post, will drop the
+casting instantly.
+
+[Illustration: Figure 11[1]]
+
+
+                       AMBU CELL CONNECTOR MOULD
+
+The AMBU-Washburn Cell Connector Mould is a combination mould which will
+cast practically all of the cell connectors used on standard storage
+batteries, 7-11-13 and 15 plate, such as the Exide, Willard, U. S. L.,
+Vesta, Philadelphia and other nationally known batteries. Its design is
+similar to our Link Combination Mould.
+
+Made of fine gray iron, carefully machined. Castings are easily removed,
+and it is heavy enough so that it will not overheat where speed is
+required.
+
+[Illustration: Figure 12]
+
+After re-insulating or repairing, the job looks more complete and
+satisfactory to your customer if the battery is furnished with a new set
+of connectors. Use your scrap lead and make new connectors for each job.
+It pays.
+
+
+                            AMBU SCREW MOULD
+
+The lead capped screws of the taper type terminal are another of the
+frequently replaced parts. Although the round knurled head type is no
+longer installed, a great many men still use pliers on the square head
+terminal screws with the result that the soft square lead head is
+damaged to such an extent that a tight connection cannot be made.
+
+The AMBU-Washburn Screw Mould, Figure 13, will cast standard square
+edged heads on four screws in one operation, two ^5⁄_{16}-inch and two
+⅜-inch. It has screw adjustments in the base, making it adaptable to any
+length screw.
+
+[Illustration: Figure 13[1]]
+
+As the finished screws are removable from the top, the position of the
+mould is not changed while in use and castings can be made at the rate
+of 12 screws a minute.
+
+
+                         AMBU LEAD STICK MOULD
+
+In order to properly burn in and assemble the new lead parts, it is
+necessary that they be fused and new lead added, and this requires that
+a supply of lead sticks be available. These are usually made by melting
+the smaller particles of scrap and junk lead which is cast in convenient
+size.
+
+The Ambu Mould, Figure 14, is especially designed for this purpose. It
+is made of heavy sheet iron, die stamped into grooves and mounted on a
+wooden base with a strong wooden handle at one end. A heavy pad of
+asbestos is placed under the iron to protect the wood.
+
+[Illustration: Figure 14[1]]
+
+This construction allows the lead to completely fill the grooves before
+cooling, but prevents the mould from becoming exceedingly hot with
+constant pouring. A pair of these moulds will keep one workman busy, as
+he pours one, the other is cooling. This eliminates all waiting and
+waste of time.
+
+The sticks made are 15 inches long, ^5⁄_{16} inch thick, ⅜ inch wide at
+the top and ¼ inch at the bottom. In pouring in an open mould of this
+type, pour the lead in each groove at one end, so that the dross will
+all gather in one spot. Never move the ladle along the groove when
+pouring, as this will scatter the dross and make the entire stick dirty.
+
+When poured at one end only, a short length of the stick may be broken
+off, thus removing all the dross.
+
+Dusting the mould occasionally with Ambu mould compound will produce
+better castings and permit greater speed in the work.
+
+
+                        AMBU PLATE BURNING RACK
+
+The building of groups, even after the plates and post straps are
+secured is a job that requires quite a lot of skill. Before the plates
+can be burned to the strap, they must be absolutely parallel, must be
+the correct distance apart, and the top surface of the strap must be at
+right angles to the surface of the plates.
+
+The Ambu Plate Burning Rack, Figure 15, has been designed to easily
+secure the proper conditions. It consists of a wooden base with six
+different sets of slots properly spaced which cares for 98% of the
+batteries on the market. The guide bar or “comb” on top is slotted to
+match up with the base. (See figure 15.)
+
+[Illustration: Figure 15[1]]
+
+The positions of the base and comb are so arranged that the plates are
+securely held on opposite corners, at exactly the right distance apart
+and are absolutely straight and parallel.
+
+The wooden base prevents the plate proper from coming in contact with
+any metal and thus eliminates any possibility of later trouble due to
+impurities in the cell.
+
+[Illustration: Figure 16[1]]
+
+In order to accommodate the different sizes and spacings, the comb can
+be adjusted vertically and the slots are arranged in groups of different
+spacings. These adjustments are flexible enough to allow the setting up
+of practically all the various groups used in the different makes and
+type of batteries.
+
+Special fittings are provided so that after the plates and post are
+properly set a form can be built on the comb which not only locks the
+plates in the comb but prevents the hot lead from running off while
+burning and makes the finished strap of exactly the proper dimensions to
+properly fit into the jar.
+
+For use in the smaller shop the small Ambu Plate Burning Rack, Figure
+16, is recommended. It has all the features of the larger rack but the
+spacings of the combs limit it to the ^7⁄_{64}" and ⅛" spacings such as
+are found in all the popular batteries.
+
+-----
+
+Footnote 1:
+
+  Prices, page 17
+
+
+                           AMBU POST BUILDERS
+
+After the top connectors have been drilled off and the group is to be
+reassembled in the repaired battery, in order to make a good quick weld
+to the top strap, the post must be built up to its original height.
+
+[Illustration: Figure 17. See bottom of page]
+
+The Ambu Post Builders, Figure 17, have been built to speed up the post
+building process. They are made of high grade steel and are of the
+proper size to rebuild all the standard battery posts.
+
+Simply place the proper Ambu Post Builder on the stub post, and burn in
+molten lead to the proper height. The construction is such that the post
+builder is easily removed, leaving a new and perfectly sized post for
+burning to the cell connector.
+
+The set of ten, illustrated in Figure 17, covers all standard makes of
+batteries.
+
+                  *       *       *       *       *
+
+  =Following are prices of equipment illustrated in preceding pages=
+  which may be purchased from the Battery Appliance Division, American
+  Bureau of Engineering, Inc., 2632 Prairie Avenue, Chicago, or from
+  your Jobber.
+
+    Adjustable Screw Mould (Fig. 13)                         $12.50
+    Battery Post Builders. Set of Ten (Fig. 17)                2.00
+    Ladle for Pouring Lead and Sealing Compound (Fig. 17)      2.75
+    Lead Stick Moulds (Fig. 14). (Pair, $2.75), each           1.50
+    Link Combination Mould (Fig. 8A) complete                 35.00
+    Mould Compound for making castings “come clean” (Fig. 6)    .50
+    Plate Burning Rack, Large Type “B” (Fig. 15)               8.75
+    Plate Burning Rack, Small Type “A” (Fig. 16)               5.95
+    Post Strap Mould (Fig. 10) complete                       18.00
+    Production Post Strap Mould (Fig. 11) complete            35.00
+    Terminal Mould (Fig. 9) complete                           9.85
+
+                  *       *       *       *       *
+
+
+
+
+                   AMBU HELPS for the Service Station
+
+
+                  *       *       *       *       *
+
+
+                  Johnson Direct-jet Lead Melting Pots
+
+[Illustration: No. 300]
+
+[Illustration: No. 8]
+
+In line with our desire to serve the Battery Service Stations of the
+country, we have arranged to offer the Johnson Direct-jet Gas-fired
+Melting Pots. These furnaces use either natural or manufactured gas.
+They embody a special patented Gas-regulator which permits of a quick
+change in the size of the gas orifice, by the turn of a wrench.
+
+This Regulator throws a sharp, clean jet of gas straight up the center
+of the mixing tube, giving the nearest approach to 100% combustion that
+can be imagined.
+
+=No Blowers or Forced Draft are necessary. City gas pressure is enough.=
+
+=No. 300 Pot.= Melts 150 lbs. lead at a charge, using only 40 cubic feet
+of city gas per hour. Has 3 Direct-jet Burners. No forced draft
+necessary. Height, 28 inches; weight, 100 lbs. Price f. o. b. Cedar
+Rapids, Iowa, $25.00. Stock No. MJP1.
+
+  =No. 8 Combined Torch and Pot.= Melts 25 lbs. of lead at a charge.
+  Height, 14 inches; weight, 9½ lb. Single adjustable burner, with
+  pilot. Can be used as an efficient hand torch. Consumes 20 to 25
+  cubic feet of gas per hour. Price complete with 6 inch Pot, as
+  shown, f. o. b. Cedar Rapids, Iowa, $9.00. Stock No. MJP2.
+
+                            =Send orders to
+
+                       BATTERY APPLIANCE DIVISION
+
+                  AMERICAN BUREAU OF ENGINEERING, INC.
+                          2632 Prairie Avenue
+                             Chicago, Ill.=
+
+                PRICES SUBJECT TO CHANGE WITHOUT NOTICE
+
+                  *       *       *       *       *
+
+
+
+
+  AMBU PRODUCTS that MAKE MONEY and SAVE TIME FOR BATTERY REPAIR SHOPS
+
+
+                  *       *       *       *       *
+
+
+                         AMBU Battery Steamers
+
+[Illustration]
+
+Softens sealing compound on batteries. Within less than five minutes
+prepares them so that elements can be easily removed.
+
+Automatic valve regulates water supply. Steam is quickly produced. Saves
+time and fuel cost.
+
+For use with gas, gasoline, kerosene or electric stoves. Has six outlets
+and adjustable valve for opening the required number of outlets.
+
+For Battery Men desiring to steam one or more batteries at one time,
+depending upon their size, we offer the Type “A” Steamer with Steaming
+Box.
+
+[Illustration]
+
+AMBU CONDENSER FOR DISTILLING WATER, accompanies either type Steamer, if
+desired. When Steamer is not being used for steaming batteries, and when
+used in conjunction with this Condenser, will produce about one gallon
+of distilled water per hour at very small cost.
+
+         Type “B” Ambu Steamer complete with Condenser
+         Type “B” Ambu Steamer without Condenser        Prices
+         Type “A” Ambu Steamer complete with Condenser      on
+         Type “A” Ambu Steamer without Condenser       request
+         Ambu Condenser for Distilling Water
+
+                  *       *       *       *       *
+
+
+                        AMBU Battery Plate Press
+
+[Illustration]
+
+Three Groups of Plates Pressed at One Time
+
+With the Ambu Plate Press there is no possibility of iron, the greatest
+enemy of a battery, touching the plates.
+
+In discharged negative plates, the active material is bulged out and
+must be pressed back flush with the grids before the plates can be used
+again.
+
+[Illustration]
+
+The Ambu Battery Plate Press is made of heavy hardwood timber with two
+horizontal wooden jaws between which the battery plates are pressed. A
+set of lead covered troughs carries away the acid. The upper jaw of the
+press is attached to a screw shaft for raising or lowering it. A
+complete set of transite boards for placing between the plates, and a
+substantial wall support are included in the purchase price. Press
+complete, including set of press separator boards sufficient to press
+three groups, and substantial wall support. Price on request.
+
+Ambu Press Separator Boards in sets as above also may be purchased
+separately. Price on request.
+
+                  *       *       *       *       *
+
+
+                      AMBU Compound and Lead Ladle
+
+[Illustration]
+
+A ladle that will permit of pouring sealing compound into the small
+openings between top covers or jars without spilling or slopping over
+top of battery. With the special center drain controlled by taper pin
+with touch of your thumb you are able to control the flow of sealing
+compound from the stream as fine as a pin to a stream as thick as your
+thumb.
+
+Designed also for pouring lead, and has many advantages over ordinary
+ladle.
+
+Made of forged malleable iron, extra deep, with two lips in addition to
+center spout, four inches in diameter. Price on request.
+
+                  *       *       *       *       *
+
+
+
+
+  AMBU PRODUCTS that MAKE MONEY and SAVE TIME FOR BATTERY REPAIR SHOPS
+
+
+                  *       *       *       *       *
+
+
+                         AMBU Battery Test Set
+
+[Illustration: Cadmium Leads Discharge Prod]
+
+Consisting of a high grade accurate voltmeter with two scales,
+permitting readings as high as 25 volts; Cadmium Leads, and Pair
+discharge prods and leads. With this complete set all tests necessary to
+determine the inside condition of a battery can be made, except those
+obtained through hydrometer readings. Sold as a complete set or as
+individual units. Price on request.
+
+                  *       *       *       *       *
+
+
+                          AMBU Battery Carrier
+
+[Illustration: The AMBU WAY is the BETTER WAY]
+
+The AMBU Battery Carrier, designed to make the carrying of batteries
+easy, as well as the removing and placing of batteries in cars. An
+unusually handy tool around a shop. Made of a hardwood handle with a
+swinging steel arm at each end, to which is attached a strong steel lock
+for engaging the handles of a battery box. Sold singly or in pairs.
+
+                           Prices on request.
+
+                  *       *       *       *       *
+
+
+                         AMBU Battery Turntable
+
+[Illustration]
+
+Designed to make the handling of a battery on the work bench easy.
+Permits getting at all sides of the battery with least amount of effort.
+
+Made of two stout pieces of hard wood pivoted to each other and mounted
+on ball bearings. It is also handy for working on heavy generators and
+starting motors.
+
+                           Price on request.
+
+            =_Write for Catalog M-53 Helps for Battery Men_=
+
+                  *       *       *       *       *
+
+
+
+
+                   AMBU HELPS for the Service Station
+
+
+                  *       *       *       *       *
+
+
+                          AMBU WASHBURN Torch
+
+[Illustration]
+
+[Illustration]
+
+                  For Lead Burning, Soldering, Brazing
+
+                       USING PREST-O-LITE GAS AND
+                             COMPRESSED AIR
+
+This torch produces a soft pointed flame. Especially adapted for all
+torch uses in repairing of storage batteries. Can be nosed into post
+builder; stirring molten lead with nose of torch without popping out.
+Not affected by wind. Burns clean, requiring heat up to 5300 degrees
+Fahrenheit.
+
+The torch operates on Prest-o-lite Gas and Compressed Air. Tank
+attachment on Mixing Valve is easily adapted to A, B or E size
+Prest-o-lite tank. Air derived from any air line furnishing 20 lbs.
+pressure or over. Small air tank with foot pump can be used. Needle
+point flame instantly adjustable through a range of 4000 degrees without
+changing tip. The most economical, efficient and time saving torch on
+the market doing the same class of work.
+
+                     =Complete Outfit Consists of:=
+
+                    1 Torch
+                    1 Soldering Iron Attachment
+                    Hose connections
+                    1 Mixing Valve (Tank Attachment)
+                    2 Six-foot Hose Lengths
+                    1 Prest-o-lite Tank Key
+
+                           Price on request.
+
+[Illustration]
+
+                    =RADIATOR SOLDERING ATTACHMENTS=
+
+These attachments are great time savers in the repairing of radiators,
+giving the operator a combination open flame and soldering iron in
+repairing tubular and honeycomb radiators.
+
+Sold only for use with the Ambu Washburn Torch.
+
+                  *       *       *       *       *
+
+
+                       AMBU Electric Solder Iron
+
+[Illustration]
+
+Works wherever there is a storage battery, on the car, in the shop or
+garage.
+
+Furnished complete with wires, clamps, supply of carbon tips, wire
+solder and solder paste. Ready to use.
+
+Handy for quick soldering jobs.
+
+Is not necessary to wait fifteen minutes, nor even one minute to get it
+hot—IT HEATS UP INSTANTLY. Cannot burn out—no parts to break. No current
+wasted when not in use. Price on request.
+
+                  *       *       *       *       *
+
+
+                   Ford Standard Electrical Equipment
+
+        =SERVICE MANUAL ON FORD STARTING, LIGHTING AND IGNITION=
+
+[Illustration]
+
+Covers F-A or Liberty Electrical System now standard equipment now put
+on the Ford car at the factory.
+
+Each unit is described in detail and illustrated by internal and
+external wiring diagrams.
+
+Complete instruction is also given on the location and correction of
+starting, lighting, and ignition troubles.
+
+Tells how to adjust the generator. Explained so clearly and simply that
+even the inexperienced can make necessary repairs or adjustments. No
+mechanic or owner who attempts repairs on this system can afford to be
+without this authoritative book.
+
+Printed on high grade enameled paper with flexible binding—150 pages—49
+illustrations.
+
+Money back if not satisfied and book is returned within five days.
+
+                       =Price delivered= =$2.00=
+
+            =_Write for Catalog M-53 Helps for Battery Men_=
+
+                  *       *       *       *       *
+
+
+
+
+                   AMBU HELPS for the Service Station
+
+
+                  *       *       *       *       *
+
+
+                          AMBU Service Manuals
+
+[Illustration]
+
+Containing both internal and external wiring diagrams, test and
+performance data.
+
+Illustrates each type of starting motor, generator, cut-out or regulator
+by large diagrams. Shows field coils, brushes and connections exactly as
+they should be. Internal diagram of generator, also shows wiring of
+cut-out or regulator, ammeter and battery on same page, thus giving
+clear diagram of entire charging circuit.
+
+Prepared so that you can instantly find information you desire. Car
+Equipment Tables give name of car, model, year, make of equipment, type
+of generator, its regulation, type of starting motor, and instantly
+gives you description, test data, setting of generator, the drive, test
+data and description of starting motor. A separate list is also given of
+each make and type of generator and starting motor so that if you do not
+know the car model but have the number or type of generator or starting
+motor, the information is easily found.
+
+Contains also a Battery Table, furnishing make, type, voltage, ampere
+hour capacity, dimensions and order number of battery used on each
+particular car.
+
+Each book is printed on strong kraft paper, in a beautiful flexible
+binding, containing over 600 pages.
+
+                Ambu 1920-21 Service Manual}
+                Ambu 1918-19 Service Manual} $5.75 Each
+                Ambu 1916-17 Service Manual}
+
+                  *       *       *       *       *
+
+
+                     The Automobile Storage Battery
+
+                         =Its Care and Repair=
+
+        (=Over 30,000 copies sold since first edition released=)
+
+               =COMPLETE READY REFERENCE FOR BATTERY MEN=
+
+[Illustration]
+
+It gives complete information on what a storage battery is, how to take
+care of it, the tools required, the right shop equipment, proper
+charging methods, best repair methods, etc.
+
+There are 400 pages written in easy-to-understand language, profusely
+illustrated with diagrams and photographic reproductions that bring out
+the text matter clearly. The theory, manufacture and maintenance are
+explained in detail, also complete instructions given on the efficient
+management and operation of a battery repair shop.
+
+This book is recognized as the most complete and authoritative treatise
+on the automobile storage battery that has ever been published.
+
+Guaranteed satisfactory or money refunded, if book is returned within
+five days after receipt.
+
+                         Price, delivered $5.00
+
+            =_Write for Catalog M-53 Helps for Battery Men_=
+
+                  *       *       *       *       *
+
+                PRICES SUBJECT TO CHANGE WITHOUT NOTICE
+
+                  *       *       *       *       *
+
+
+
+
+ _A Simple System that Locates Electrical Trouble Quickly, Efficiently,
+                              Unfailingly_
+
+
+                  *       *       *       *       *
+
+[Illustration: AMBU Trouble Shooter System~]
+
+Makes starting, lighting, ignition and battery repair work definite,
+accurate, more profitable. Eliminates all guesswork, groping in the
+dark, trusting to luck methods. Provides the necessary and essential
+testing equipment for auto electric repair in one compact, portable
+efficient system.
+
+[Illustration]
+
+                 Brings You More Business, More Profits
+
+
+Thousands of garages, repair shops, battery and electric service
+stations are adding hundreds of dollars and new customers through the
+use of the AMBU system. Millions of car owners know of the worlds and
+worlds of trouble the electric equipment of a car is giving. They are
+seeking the shop well equipped and that KNOWS HOW. With the AMBU System
+and a knowledge of electricity your ability to handle electrical repair
+work is never in doubt. AMBU enables you to locate trouble in ONE SIXTH
+the time usually required and far more efficiently.
+
+          Makes You the Electrical Master of Over 1300 Models
+
+
+With between 600 and 700 different types of starting, lighting, ignition
+and battery equipment used in over 1,300 makes and models of cars, no
+man can even expect to know their details—regulation—rates of charge,
+discharge, motor and generator, test data, etc. The AMBU System supplies
+these bewildering details, quickly, easily and accurately. No matter
+what is wrong—The AMBU System shoots the trouble and never fails.
+
+       An Official AMBU Franchise Brings You Prestige and Profits
+
+
+To secure a franchise for an Official Ambu Service Station is to have
+greater prestige and earn more and bigger profits. Automobile owners
+from Coast to Coast know that the Official Ambu Service Station sign on
+a garage, repair shop, battery or electrical Service Station stands for
+the highest degree of efficiency in electrical repair work. To maintain
+this reputation AMBU Franchises are given with care. If you are not now
+qualified—we have a plan that will give you the necessary knowledge.
+
+Most auto troubles are found in the electric equipment; and require
+hours of searching; from the commutator to the battery and back again.
+Equip yourself to eliminate this useless searching and make the big
+profits. The cost of AMBU is a trifling detail compared to its
+tremendous earning power. You can pay as you earn on our deferred
+payment plan if you choose.
+
+             AMBU Specific Details And Plans Win Customers
+
+
+The free test day plan brings new customers to you at once. The monthly
+test card assures you a steady number of permanent customers and a fixed
+income. Motorists pay you in advance for monthly testing service and
+give you all repair work. You circularize the car owners in your
+community with letters, mailings, literature and selling ideas supplied
+free by us. We help you build your business bigger, better and more
+profitable.
+
+                  =Write To-day For Full Information=
+
+Not a single minute to lose. Write now for further facts. Act Quick.
+
+                  American Bureau of Engineering, Inc.
+
+                2632 Prairie Avenue - - - CHICAGO, ILL.
+
+                  *       *       *       *       *
+
+
+
+
+                   AMBU HELPS for the Service Station
+
+
+                  *       *       *       *       *
+
+
+                          AMBU Battery Tester
+
+                  =FOR AUTO OR RADIO STORAGE BATTERIES
+              A Quick Seller For Your Accessory Department
+                       RED, WHITE AND GREEN BALLS
+               TELL SPECIFIC GRAVITY OF BATTERY SOLUTION=
+
+[Illustration]
+
+Simplest, most efficient and easiest to read battery tester ever yet
+offered to the battery owner. Unlike any hydrometer or tester on the
+market. Instead of the glass float used on ordinary hydrometers, which
+are hard to read and understand, it has three balls, colored red, white
+and green which tell the whole story.
+
+Astonishingly simple to test a battery with it, because the following
+jingle regarding the three balls, and the positions they assume in the
+electrolyte or liquid tells the story—
+
+              “Floats all three, battery is charged fully.
+              Sinks the white, charge still right,
+              Sinks the green, charge is lean,
+              Sinks the red, charge is dead.”
+
+A battery can be tested with it with as much accuracy as any hydrometer
+on the market. The specific gravity of each ball is accurate to the
+fourth decimal point. It can be “read” in semi-darkness.
+
+Is only 6½ inches long and designed so that it can be carried in the
+tool box where it is _Always Handy_—A mighty big value for only 75c.
+
+Furnished to the Dealer in an attractive counter display box, one dozen
+to each package. When placed on the counter it sells itself.
+
+Write for dealers' prices and details on this fast selling article.
+
+                  *       *       *       *       *
+
+                PRICES SUBJECT TO CHANGE WITHOUT NOTICE
+
+                  *       *       *       *       *
+
+
+
+
+                                AND NOW—
+
+
+You have been reading how to increase the profits of your shop through
+the use of materials previously wasted. There is another way of stopping
+leaks and increasing earnings. That is by making the best possible use
+of every man's time.
+
+In this connection we would like to tell you briefly about the
+activities of the Educational Division of the American Bureau of
+Engineering, Inc.
+
+This institution foresaw the need of providing instruction on
+fundamental electricity, ignition, starting and lighting and storage
+batteries, so that garage owners, foremen, general repair men and
+mechanics could handle electrical repair jobs at a profit.
+
+[Illustration]
+
+  Here in Chicago we are offering an eight weeks' course of forty-four
+  hours per week, devoted to intensive instruction in theory and
+  practical shop work. This training enables the student to become an
+  expert in this highly specialized field, fitting him to supervise
+  the work of other mechanics or to operate a shop of his own as an
+  expert in Automotive Electrical Repairs.
+
+  For those unable to leave their employment and come to Chicago, we
+  have developed a series of Home Study problems and solutions which
+  have proved interesting and practical. Lesson schedules can be
+  arranged to suit the individual student. Close personal cooperation
+  aids the Home Study student in making satisfactory progress.
+
+  The two methods of instruction are identical with the exception that
+  the Resident Student gets actual practice in addition to theory.
+
+  Through our other activities we are able to keep in close touch with
+  the situation and be certain that the instruction offered is
+  strictly up-to-date and practical.
+
+ =In writing for catalogue PLEASE ADVISE if you want information of study
+                       in Chicago or study at home=
+
+                  =American Bureau of Engineering, Inc.=
+
+                                =Dept. LM=
+
+                 =2632 Prairie Avenue - - CHICAGO, ILL.=
+
+           =We graduate some excellent Automotive Electricians.
+                      If in need of a man WRITE US.=
+
+                  *       *       *       *       *
+
+[Illustration: AMBU]
+
+_AMBU PRODUCTS_
+
+                    Are Time Savers and Money Savers
+                    Tried and Proven by Years of Use
+
+                         That's Why the Careful
+                            Buyer Insists on
+
+                                                         _AMBU PRODUCTS_
+
+
+
+
+                          TRANSCRIBER'S NOTES
+
+
+ 1. Silently corrected simple spelling, grammar, and typographical
+    errors.
+ 2. Retained anachronistic and non-standard spellings as printed.
+ 3. Enclosed italics font in _underscores_.
+ 4. Enclosed bold font in =equals=.
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK PROFITS FROM SCRAP ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

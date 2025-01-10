@@ -1,0 +1,1724 @@
+﻿The Project Gutenberg eBook of The Uses of Italic
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Uses of Italic
+
+Author: Frederick W. Hamilton
+
+Release date: March 14, 2008 [eBook #24829]
+
+Language: English
+
+Credits: Produced by Barbara Tozier, Bill Tozier, Jana Srna and the
+        Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE USES OF ITALIC ***
+
+
+
+
+Produced by Barbara Tozier, Bill Tozier, Jana Srna and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+     TYPOGRAPHIC TECHNICAL SERIES FOR APPRENTICES--PART VI. NO. 38
+
+
+                           THE USES OF ITALIC
+
+
+                        A PRIMER OF INFORMATION
+                        REGARDING THE ORIGIN AND
+                         USES OF ITALIC LETTERS
+
+
+                                   BY
+                      FREDERICK W. HAMILTON, LL.D.
+
+                           EDUCATION DIRECTOR
+                      UNITED TYPOTHETAE OF AMERICA
+
+
+
+
+                PUBLISHED BY THE COMMITTEE ON EDUCATION
+                      UNITED TYPOTHETAE OF AMERICA
+                                  1918
+
+
+
+
+                            COPYRIGHT, 1918
+                      UNITED TYPOTHETAE OF AMERICA
+                             CHICAGO, ILL.
+
+
+
+
+CONTENTS
+
+
+                                          PAGE
+
+  HISTORICAL INTRODUCTION                    1
+
+  RULES FOR THE USE OF ITALIC                5
+
+  SUPPLEMENTARY READING                     16
+
+  REVIEW QUESTIONS                          17
+
+
+
+
+THE USES OF ITALIC
+
+
+
+
+HISTORICAL INTRODUCTION
+
+
+The first types were cut in imitation of the Gothic or black letter
+handwriting employed at that period in copying Bibles, missals, and the
+like. It was large and angular and the lines were very coarse and black.
+These peculiarities gave it the name. Its characteristics made it easy
+to read even in the dim light of a church or by the failing eyes of the
+aged. This form of type, however, was only suitable for large pages.
+When reduced in size it became very difficult to read, being an almost
+indistinguishable blur on the page.
+
+  [Illustration: Type of the Mazarin Bible (exact size).]
+
+The cost of materials and the unwieldiness of the great folio volumes
+soon caused a demand for smaller books. Gutenberg's 36-line Bible was
+almost immediately replaced by the 42-line Bible. A reduction of one
+sixth in the number of pages of a book as large as the Bible would
+effect a very important saving in the cost of material and labor,
+especially when we remember that the early printing press was a very
+laborious and slow affair. Gutenberg's press was capable of printing
+only twenty sheets an hour, or one sheet every three minutes. The
+invention of the movable bed, about the year 1500, increased the output
+of the press to two hundred sheets an hour. In 1786 the speed had risen
+only to two hundred and fifty sheets an hour. Cheap printing waited for
+the application of power to machinery.
+
+The big book with the big type was well enough for churches and
+libraries. But the purpose of printing was soon seen to be the spread of
+intelligence through the popularizing of literature. Books were to be
+placed in the hands of the people, not simply of the priests, nobles,
+and professional men. That end could only be accomplished by making
+books cheap and portable, that is to say small. To this end the printers
+soon addressed themselves to the task of devising forms of type which
+should be smaller, so as to reduce the number and size of pages required
+for a book without sacrifice of legibility. A clear, clean cut type,
+with sharp lines and simple forms, capable of compression without loss
+of distinction, was the great need.
+
+The first important departure was the cutting of Roman type. The
+capitals were imitated from the letter forms used in Roman inscriptions.
+In the earlier forms the lower-case letters were rough and uncouth, much
+resembling the Gothic forms. The inventor of this form is not known, but
+it was certainly employed by the German printers Sweynheim and Pannartz
+at Subiaco, near Rome, as early as 1467. Their example was followed by
+several imitators and improvers, but its form was not definitely settled
+until Nicholas Jenson cast his fonts in Venice in 1470 or 1471. It is
+doubtful if any more perfect Roman types than those of Jenson have ever
+been produced. The superiority of this type soon caused its general
+adoption except in Germany. England was slow in coming into line. Caxton
+never used anything but Gothic type. Roman type was not introduced into
+England at all until 1509, and then had to make its way against the
+older forms backed by English conservatism. Germany has never adopted
+the Roman letter for general use but makes some use of it in scientific
+works.
+
+  [Illustration: Roman type of Nicholas Jenson, 1472 (exact size).]
+
+The next step was the invention of Italic types by Aldus Manutius, of
+Venice, in 1501. He took for his model the handwriting of the poet
+Petrarch and produced a type not essentially different from the modern
+Italic. Originally the Italic letters were lower-case only, Roman
+capitals being retained. The incongruousness of this combination was,
+however, so evident that Italic capitals were soon designed and then the
+new fonts were complete. The Aldine capitals used with Italic lower-case
+were small, the ancestors of the small capitals of today. Aldus used the
+Italic type as a text letter, and such use continued frequent for a
+century.
+
+  [Illustration: Type of the Aldine Virgil, 1501 (exact size).]
+
+At the present day, except in Germany, the three forms of type have
+their distinct uses. Gothic, variously known as Black Letter, Old
+English, Priory Text, Cloister, etc., is used only for special work,
+particularly in ecclesiastical printing. The modern type called "gothic"
+is not derived from it. Roman is the general text letter. Italic has
+ceased to be a text letter, but serves a useful purpose for certain
+special uses which are to be considered at length in the following
+pages.
+
+
+
+
+RULES FOR THE USE OF ITALIC
+
+
+Italic has, in general, four uses:
+
+    (1) for emphasis.
+
+    (2) to set off a title, word, or passage from the context.
+
+    (3) for running titles, sub-heads, the headings of tables, and other
+    like places where something different from the text letter seems
+    needed for variety.
+
+    (4) for display purposes in commercial work.
+
+One very important principle should always be observed in the use of
+italic for emphasis. Emphasis should always be used sparingly. Make the
+words do their work. Do not try to supplement poverty of thought and
+weakness of expression by italics, capitals, and other marks of
+emphasis. Where there is too much emphasis attempted no emphasis is
+secured. This fault was much more common formerly than now.
+
+The accompanying reproduction of a page from a book printed in 1690
+(place not given, but probably London) illustrates several of the faulty
+uses of italics common at that time. An entire paragraph is italicized
+(quite unnecessarily) for emphasis. All proper names and adjectives
+derived from them are italicized where they occur in the regular text
+and printed in roman where they occur in italicized passages. Note the
+frequent capitalization for emphasis and especially the italic capital
+with roman lower-case in the first line of the second paragraph. This is
+a frequent usage in this particular book. In this book all quotations
+are printed in italic without quote marks. The paper, composition, and
+presswork of the book are very poor. It represents English printing in
+its worst period.
+
+  [Illustration: Page from a book of 1690.
+
+  (The slurred appearance represents the printing of the original copy.)]
+
+Moderation in the use of italics is so important that in many cases the
+compositor is justified in ignoring markings for italic in his copy
+where they are too profuse. The author is often surprised and
+disappointed at the appearance of his proof when it comes back heavily
+italicized. Moreover the occurrence of many italics increases the cost
+of composition because of the greater labor involved.
+
+
+I. Italicize, subject to the caution just given, any words or phrases
+which it is desired to emphasize.
+
+
+II. Foreign words and phrases incorporated into English sentences are
+sometimes italicized and sometimes not so distinguished. The deciding
+element in fixing the usage in these cases would seem to be the
+commonness and familiarity of the word or phrase. For example, the
+meaning of _bona fide_ (Latin), _menu_ (French), _recto_ (Italian), or
+_stein_ (German) are as well known as those of most English words. To
+all intents and purposes these words have been adopted into our
+language. On the other hand, _jeu d'esprit_ (French) or _inter alia_
+(Latin) would probably not be immediately understood by the casual
+reader. Words of the first type should not be italicized. Words of the
+second type should be.
+
+Following is a partial list of words of foreign origin which should not
+be italicized even when the original accents are retained. It is better
+to retain the accents. They are, however, often omitted. Familiarity
+plays its part here also. _Dénouement_ is very often written without the
+accent; _née_ is rarely so written. The absence of accented letters from
+typewriters, from ordinary fonts of type, and from the matrices
+ordinarily used in type-casting machines probably contributes largely to
+their omission.
+
+    aide de camp
+    Alma Mater
+    a posteriori
+    a priori
+    à propos
+    attaché
+    bas-relief
+    beau ideal
+    bona fide
+    bric-à-brac
+    café
+    chargé d'affaires
+    chiaroscuro
+    clientèle
+    confrère
+    connoisseur
+    crèche
+    criterion, _pl._ -a
+    cul-de-sac
+    data
+    débris
+    début
+    décolleté
+    dénouement
+    dépôt (= depository)
+    doctrinaire
+    dramatis personæ
+    éclat
+    élite
+    ennui
+    entrée
+    ex cathedra
+    ex officio
+    exposé
+    façade
+    facsimile
+    fête
+    habeas corpus
+    habitué
+    innuendo
+    levée
+    littérateur
+    litterati
+    massage
+    matinée
+    mêlée
+    menu
+    motif
+    naïve
+    née
+    net
+    névé
+    niche
+    nil
+    nom de plume
+    papier mâché
+    per annum
+    per capita
+    per cent
+    per contra
+    personnel
+    postmortem (n. and adj.)
+    prima facie
+    pro and con(tra)
+    protégé
+    pro tem(pore)
+    questionnaire
+    queue
+    régime
+    rendezvous
+    résumé
+    reveille
+    rôle
+    savant
+    sobriquet
+    soirée
+    tête-à-tête
+    tonneau
+    umlaut
+    verbatim
+    verso
+    versus (v., vs.)
+    via
+    vice versa
+    vis-à-vis
+    viva voce
+
+Following is a short list of words or phrases of foreign origin which
+are used occasionally but are not familiar enough to be printed in the
+text type.
+
+    _ab ovo_
+    _ancien régime_
+    _bête noire_
+    _comme il faut_
+    _de quoi vivre_
+    _de trop_
+    _en passant_
+    _fait accompli_
+    _grand monde_
+    _hors de combat_
+    _inter alia_
+    _jeu d'esprit_
+    _locum tenens_
+    _mise en scène_
+    _noblesse oblige_
+    _raison d'être_
+    _sans cérémonie_
+    _tour de force_
+
+The following words, phrases, and abbreviations used in literary and
+legal references should be italicized.
+
+    _ad loc._
+    _circa_ (_ca._)
+    _et al._
+    _ibid._
+    _idem_
+    _infra_
+    _loc cit._
+    _op. cit._
+    _passim_
+    _sic_
+    _supra_
+    _s. v._
+    _vide_
+
+Do not italicize:
+
+    cf.
+    etc.
+    e. g.
+    i. e.
+    v. or vs. (versus)
+    viz.
+
+When an unfamiliar foreign word is used to convey precise description,
+put it in italic, but use roman for repetition of the word.
+
+Italicize brief passages of foreign words which may be incorporated into
+an English passage but may not be long enough to be treated as regular
+quotations.
+
+    _De gustibus non est disputandum_, or as the French have it, _Chacun
+    a son gout_.
+
+Longer passages in foreign languages should be set in roman.
+
+To set an entire paragraph of quoted matter in a foreign language in
+italic, or even to use italic too freely for phrases, practically
+nullifies the value of it as a display letter for the sub-headings or
+for any other part of the book in which distinction is really needed.
+Quotation marks, indention, smaller type, or any of the marks which
+distinguish quoted matter are sufficient.
+
+
+III. At one time it was quite customary to set all quotations, whether
+in English or a foreign language, prose or verse, in italics, but that
+fashion is now happily obsolete. Some modern printers use italic for
+bits of verse between paragraphs in the text of roman, but it is a fancy
+and not likely to be permanent.
+
+
+IV. Do not italicize foreign titles preceding names of foreign
+institutions or places, streets, etc., the meaning or position of which
+in English would call for roman type.
+
+    Pere Ladeau; Freiherr von Schwenau; the Place de la Concorde; the
+    Museo delle Terme.
+
+
+V. In text matter use roman for the name of any author, but italicize
+the title of the work. This applies to books, including plays, essays,
+cycles of poems, and single poems of considerable length, usually
+printed separately, and not from the context understood to form parts of
+a larger volume; pamphlets, treatises, tracts, documents, and
+periodicals (including regularly appearing proceedings and
+transactions). In the case of newspapers and periodicals the name of
+the place of publication should be italicized when it forms an integral
+part of the name, but do not under ordinary circumstances italicize the
+article _the_.
+
+In many offices the names of papers, magazines, and serials are not
+italicized. Roman is often used without quotation marks, the title being
+indicated by capitalization. When such names are used as credits at the
+end of citations or notes they should always be italicized.
+
+This is largely a matter of individual taste and office style. Ample
+warrant can be found for either form in the writing of the best
+authorities and in the practice of the best offices.
+
+
+VI. In citations which make a full paragraph, and in footnotes, the name
+of both author and book are commonly set in roman lower-case. At the end
+of a paragraph or footnote specification of author and book may be roman
+for author and italic for book. When only the book is given, use
+italics.
+
+These rules are often modified in long bibliographical lists, tables, or
+other cases when following them would cause a great accumulation of
+italics and spoil the appearance of a page. Do not italicize the books
+of the Bible (canonical or apocryphal) or titles of ancient manuscripts,
+or symbols used to designate manuscripts.
+
+                            D 16, M 6, P, J.
+
+
+VII. Italicize _see_ and _see also_, in indices and similar compilations
+when they are used for cross-reference, and when it is desirable to
+differentiate them from the context.
+
+
+VIII. Italicize _for_ and _read_ in lists of errata to separate the
+incorrect from the correct.
+
+                   Page 999 _for_ Henry _read_ Henri.
+
+
+IX. The phrases _prima facie_ and _ex officio_ are sometimes used to
+qualify the nouns which follow, and sometimes used as adverbs. As
+qualifiers they are often printed in roman with the hyphen.
+
+    Prima-facie evidence.
+    An ex-officio member of all committees.
+
+When used as adverbs they may be printed in italics without the hyphen.
+
+    The evidence is, _prima facie_, convincing.
+    The speaker is, _ex officio_, the chairman.
+
+
+X. Names of ships, especially when they are taken from places, as in the
+United States Navy, are often italicized.
+
+                U.S.S. _Philadelphia_, U.S.S. _Alabama_.
+
+
+XI. Names of paintings, statues, musical compositions, and characters in
+plays are sometimes italicized. This is not ordinarily advisable. It
+violates the rule of never using italics or other emphasizing devices
+needlessly and is liable to mar the appearance of the page. It is
+sometimes necessary, however, to avoid ambiguity. For example, Julius
+Caesar is a historical personage, "Julius Caesar" is one of
+Shakespeare's plays, _Julius Caesar_ is a character in the play.
+
+
+XII. Italicize the symbols _a)_, _b)_, _c)_, etc., used to indicate
+subdivisions when beginning a paragraph and _a_, _b_, _c_, etc., affixed
+to the number of verse, page, etc., to denote a fractional part.
+
+                      See Chap. iii, sec. 2 _a)_.
+                      Luke 4 : 31 _b_.
+
+
+XIII. Italicize letters used to designate quantities, lines, etc., in
+algebraic, geometrical, and similar matter, and in explanation of
+diagrams and illustrations.
+
+    (_a_+_b_)² = _a²_+2_ab_+_b²_; the line _a c_ = the line _a b_;
+    the _n_th power; at the point _B_.
+
+
+XIV. Italicize particular letters of the alphabet when referred to as
+such.
+
+               We use _a_ much more frequently than _q_.
+
+
+XV. Authorities in science differ in the use of italics and capitals. In
+strictly scientific matter it is better to follow copy if the copy is
+intelligently prepared; if not, follow some recognized text-book on the
+subject.
+
+In general the following rules will be found serviceable.
+
+(a) In botanical, zoological, geological, and paleontological matter,
+italicize scientific (Latin) names of genera and species when used
+together (the generic name being in the nominative singular), and of the
+genera only, when used alone. When genera and species are used together
+the genus always comes first, species second.
+
+    _Agaricus Campestris_, _Felis leo_, _Conodectes favosus_, _Phyteuma
+    Halleri_, _Pinus_, _Basidiabolus_, _Alternaria_, _Erythrosuchus_.
+
+(b) In medical matter the general practice is to print names of diseases
+and remedies in roman. In the _Encyclopedia Britannica, Eleventh
+Edition_, however, the scientific names of diseases are printed in
+italics.
+
+(c) In astronomical and astrophysical matter italicize:
+
+    1. The lower-case letters designating certain Fraunhofer lines: _a_,
+    _b_, _g_, _h_.
+
+    2. The lower-case letters used by Baeyer to designate certain stars
+    in constellations for which the Greek letters have been exhausted:
+    _f_, Tauri; _u_, Hercules.
+
+(d) Italic should not be used for:
+
+    1. Greek, Latin, and Arabic names of planets, satellites,
+    constellations, and individual stars: Neptune, Thetys, Orionis.
+
+    2. Symbols for chemical elements: H. Ca. Ti.
+
+    3. Capital letters given by Fraunhofer to the lines of the spectrum:
+    A-H, K.
+
+    4. Letters designating the special types of stars: A 5, B 3, Mb.
+
+    5. The capital letter H with different Greek subscript letters, used
+    to designate symbols of hydrogen: H_a, H_b, etc.
+
+    6. Designations of celestial objects in well-known catalogues; also
+    the Flamstead numbers:
+
+        M 13 (for No. 13 of Messier's _Catalogue of Nebulae and
+        Clusters_), Bond 619; N. G. C. 6165; B. D.-18° 4871; 85 Pegasi,
+        Lalande 5761.
+
+    But when initials are used to express the titles of catalogues, as
+    such, and not to designate a particular celestial object, such
+    initials are to be italicized, following the usual rule of
+    references by titles.
+
+                          _B. D._; _N. G. C._
+
+
+XVI. In resolutions italicize the word "_Resolved_," but not the word
+"Whereas."
+
+
+XVII. Italicize the names of plaintiff and defendant in the citation of
+legal cases; also the titles of proceedings containing such prefixes as
+_in re_, _ex parte_, _In the matter of_, etc.
+
+    _The Boston Elevated Railway Co._ vs. _The City of Cambridge_. _In
+    re Johnson_; _ex parte Thomas_; _In the matter of the petition of
+    John Smith for a change of venue_.
+
+
+XVIII. Italicize address lines in speeches, reports, etc., and primary
+address lines in letters. Set the address flush, in a separate line,
+with the nouns capitalized.
+
+    _Mr. Toastmaster, Ladies and Gentlemen._
+    _Mr. Henry P. Porter, 148 High St., Boston, Mass._
+
+
+XIX. In signatures italicize the position or title added after the name.
+If this consists of only one word, it is usually run into the same line
+with the name.
+
+                    Frederick W. Hamilton, _Clerk_.
+
+If the title consists of more than one word but is no longer than the
+name, center the first letter under the name line, and indent one em on
+the right.
+
+                                      John F. Fitzgerald,
+                                              _Mayor of Boston_.
+
+If the title is longer than the name, center the name over the second
+line and set this flush:
+
+                           Minton P. Warren,
+             _Professor of Latin Language and Literature_.
+
+Sometimes a long title may be set in a smaller type, or, if this is not
+advisable, it may be put into two lines.
+
+These rules are generally sound, but may have to be varied to suit
+special conditions.
+
+Italicize the signatures of contributors to magazines, etc., when the
+names appear at the end of the article. If the name appears at the head
+of the article use small capitals, or, as is often done, the same type
+as the text.
+
+
+XX. Italic may be used to distinguish the words or clauses which serve
+as verbal texts for an extended comment. In printed sermons, for
+example, the text is often set in italics.
+
+
+XXI. Italic may be used with good effect for running titles, for table
+headings, and for sub-heads. It is not desirable for side notes. It has
+many kerned letters which are liable to break off at the ends of the
+lines in an exposed position.
+
+
+XXII. In the English Bible italics are used to print words which are not
+expressed in the original Hebrew or Greek but are implied in the
+original and expressed in the translation.
+
+    Their quiver _is_ an open sepulchre; they _are_ all mighty men.
+
+    I find in him no fault _at all_.
+
+These italics should never be mistaken for marks of emphasis.
+
+
+XXIII. Care should be taken that the italic type used should mate well
+with the roman. The fact that it often did not so mate, even in fonts
+supposed to go together, was one cause for the disfavor which came to
+attend its use. Typesetting machines constructed without proper
+provision for the composition of italic have been very influential in
+restricting its use. Italics are now practically abolished from
+newspaper work except in advertising matter, though they were used in
+newspapers to excess in the eighteenth century.
+
+
+XXIV. Italics are indicated in manuscript by drawing a single line under
+the words to be so printed.
+
+
+
+
+SUPPLEMENTARY READING
+
+
+Correct Composition. By Theodore L. DeVinne. Oswald Publishing Co., New
+York.
+
+The Writer's Desk Book. By William Dana Orcutt. Frederick A. Stokes Co.,
+New York.
+
+A Manual for Writers. By John Matthews Manly and John Arthur Powell. The
+University of Chicago Press, Chicago.
+
+
+
+
+QUESTIONS
+
+
+1. Describe the first types.
+
+2. What caused the demand for smaller books?
+
+3. What was done to meet this demand?
+
+4. What was the first step in the improvement of type?
+
+5. What was the next important step?
+
+6. What are the present uses of the three principal forms of letters?
+
+7. What are the general principles governing the use of italics?
+
+8. What important principle should be observed in the use of italic?
+
+9. Is a compositor ever justified in not following an author's marks
+calling for italics, and why?
+
+10. For what, in general, is italic used?
+
+11. What is the general usage regarding foreign words and phrases?
+
+12. What decides whether they are italicized or not?
+
+13. What about accents in foreign words?
+
+14. Give a list of common words, phrases, and abbreviations used in
+literary and legal references which should always be italicized.
+
+15. Give a short list of abbreviations of foreign origin which should
+not be italicized.
+
+16. How should quotations in foreign languages be treated?
+
+17. What is the use of italic in English quotations?
+
+18. How should you treat foreign titles preceding names of persons,
+streets, and the like?
+
+19. How are names of authors and of books, magazines, and the like,
+treated?
+
+20. How do we use italics in citations, in footnotes, in indices, and in
+errata?
+
+21. When are _prima facie_ and _ex officio_ italicized, and when not?
+
+22. How are names of ships printed?
+
+23. How are names of paintings, statues, musical compositions, and
+characters in plays treated?
+
+24. What is the rule about letters used to indicate subdivisions, etc.?
+
+25. How do we print letters of the alphabet when referred to as such?
+
+26. What can you say of the use of italic in scientific matter
+generally?
+
+27. Give the particular rules for the use of italic in certain sciences.
+
+28. What is the rule for italic in resolutions?
+
+29. How are italics used in legal matter?
+
+30. How are italics used in signatures?
+
+31. Where are titles placed when following names in signatures?
+
+32. How may texts of sermons and the like be printed?
+
+33. What can you say of the use of italic in running titles, table
+heads, side notes, and the like?
+
+34. What should be looked out for in combining italic with roman?
+
+35. What has been the influence of machine composition in the use of
+italic, and why?
+
+36. How does the use of italic in newspapers at present compare with
+that of a hundred years ago, and why?
+
+37. How are italics indicated in manuscript?
+
+
+As elsewhere in this section of the Typographic Technical Series, the
+learning of the rules must be supplemented by extended practice in their
+application. Constant drill should be given the apprentice in the
+setting of matter requiring the use of italics, or in writing out
+manuscripts with the italics properly indicated. There is no other way
+in which accuracy and practical proficiency can be acquired. Printed
+matter may be shown for criticism and discussion, and incorrectly
+italicized matter may be given out for correction.
+
+
+
+
+TYPOGRAPHIC TECHNICAL SERIES FOR APPRENTICES
+
+
+The following list of publications, comprising the TYPOGRAPHIC TECHNICAL
+SERIES FOR APPRENTICES, has been prepared under the supervision of the
+Committee on Education of the United Typothetae of America for use in
+trade classes, in course of printing instruction, and by individuals.
+
+Each publication has been compiled by a competent author or group of
+authors, and carefully edited, the purpose being to provide the printers
+of the United States--employers, journeymen, and apprentices--with a
+comprehensive series of handy and inexpensive compendiums of reliable,
+up-to-date information upon the various branches and specialties of the
+printing craft, all arranged in orderly fashion for progressive study.
+
+The publications of the series are of uniform size, 5 × 8 inches. Their
+general make-up, in typography, illustrations, etc., has been, as far as
+practicable, kept in harmony throughout. A brief synopsis of the
+particular contents and other chief features of each volume will be
+found under each title in the following list.
+
+Each topic is treated in a concise manner, the aim being to embody in
+each publication as completely as possible all the rudimentary
+information and essential facts necessary to an understanding of the
+subject. Care has been taken to make all statements accurate and clear,
+with the purpose of bringing essential information within the
+understanding of beginners in the different fields of study. Wherever
+practicable, simple and well-defined drawings and illustrations have
+been used to assist in giving additional clearness to the text.
+
+In order that the pamphlets may be of the greatest possible help for use
+in trade-school classes and for self-instruction, each title is
+accompanied by a list of Review Questions covering essential items of
+the subject matter. A short Glossary of technical terms belonging to the
+subject or department treated is also added to many of the books.
+
+These are the Official Text-books of the United Typothetae of America.
+
+Address all orders and inquiries to COMMITTEE ON EDUCATION, UNITED
+TYPOTHETAE OF AMERICA, CHICAGO, ILLINOIS, U. S. A.
+
+
+PART I--Types, Tools, Machines, and Materials
+
+1. =Type: a Primer of Information= By A. A. Stewart
+
+    Relating to the mechanical features of printing types; their sizes,
+    font schemes, etc., with a brief description of their manufacture.
+    44 pp.; illustrated; 74 review questions; glossary.
+
+2. =Compositors' Tools and Materials= By A. A. Stewart
+
+    A primer of information about composing sticks, galleys, leads,
+    brass rules, cutting and mitering machines, etc. 47 pp.;
+    illustrated; 50 review questions; glossary.
+
+3. =Type Cases, Composing Room Furniture= By A. A. Stewart
+
+    A primer of information about type cases, work stands, cabinets,
+    case racks, galley racks, standing galleys, etc. 43 pp.;
+    illustrated; 33 review questions; glossary.
+
+4. =Imposing Tables and Lock-up Appliances= By A. A. Stewart
+
+    Describing the tools and materials used in locking up forms for the
+    press, including some modern utilities for special purposes. 59 pp.;
+    illustrated; 70 review questions; glossary.
+
+5. =Proof Presses= By A. A. Stewart
+
+    A primer of information about the customary methods and machines for
+    taking printers' proofs. 40 pp.; illustrated; 41 review questions;
+    glossary.
+
+6. =Platen Printing Presses= By Daniel Baker
+
+    A primer of information regarding the history and mechanical
+    construction of platen printing presses, from the original hand
+    press to the modern job press, to which is added a chapter on
+    automatic presses of small size. 51 pp.; illustrated; 49 review
+    questions; glossary.
+
+7. =Cylinder Printing Presses= By Herbert L. Baker
+
+    Being a study of the mechanism and operation of the principal types
+    of cylinder printing machines. 64 pp.; illustrated; 47 review
+    questions; glossary.
+
+8. =Mechanical Feeders and Folders= By William E. Spurrier
+
+    The history and operation of modern feeding and folding machines;
+    with hints on their care and adjustments. Illustrated; review
+    questions; glossary.
+
+9. =Power for Machinery in Printing Houses= By Carl F. Scott
+
+    A treatise on the methods of applying power to printing presses and
+    allied machinery with particular reference to electric drive.
+    53 pp.; illustrated; 69 review questions; glossary.
+
+10. =Paper Cutting Machines= By Niel Gray, Jr.
+
+    A primer of information about paper and card trimmers, hand-lever
+    cutters, power cutters, and other automatic machines for cutting
+    paper, 70 pp.; illustrated; 115 review questions; glossary.
+
+11. =Printers' Rollers= By A. A. Stewart
+
+    A primer of information about the composition, manufacture, and care
+    of inking rollers. 46 pp.; illustrated; 61 review questions;
+    glossary.
+
+12. =Printing Inks= By Philip Ruxton
+
+    Their composition, properties and manufacture (reprinted by
+    permission from Circular No. 53, United States Bureau of Standards);
+    together with some helpful suggestions about the everyday use of
+    printing inks by Philip Ruxton. 80 pp.; 100 review questions;
+    glossary.
+
+13. =How Paper is Made= By William Bond Wheelwright
+
+    A primer of information about the materials and processes of
+    manufacturing paper for printing and writing. 68 pp.; illustrated;
+    62 review questions; glossary.
+
+14. =Relief Engravings= By Joseph P. Donovan
+
+    Brief history and non-technical description of modern methods of
+    engraving; woodcut, zinc plate, halftone; kind of copy for
+    reproduction; things to remember when ordering engravings.
+    Illustrated; review questions; glossary.
+
+15. =Electrotyping and Stereotyping= By Harris B. Hatch and A. A. Stewart
+
+    A primer of information about the processes of electrotyping and
+    stereotyping. 94 pp.; illustrated; 129 review questions; glossaries.
+
+
+PART II--Hand and Machine Composition
+
+16. =Typesetting= By A. A. Stewart
+
+    A handbook for beginners, giving information about justifying,
+    spacing, correcting, and other matters relating to typesetting.
+    Illustrated; review questions; glossary.
+
+17. =Printers' Proofs= By A. A. Stewart
+
+    The methods by which they are made, marked, and corrected, with
+    observations on proofreading. Illustrated; review questions;
+    glossary.
+
+18. =First Steps in Job Composition= By Camille DeVéze
+
+    Suggestions for the apprentice compositor in setting his first jobs,
+    especially about the important little things which go to make good
+    display in typography. 63 pp.; examples; 55 review questions;
+    glossary.
+
+19. =General Job Composition=
+
+    How the job compositor handles business stationery, programs and
+    miscellaneous work. Illustrated; review questions; glossary.
+
+20. =Book Composition= By J. W. Bothwell
+
+    Chapters from DeVinne's "Modern Methods of Book Composition,"
+    revised and arranged for this series of text-books by J. W. Bothwell
+    of The DeVinne Press, New York. Part I: Composition of pages.
+    Part II: Imposition of pages. 229 pp.; illustrated; 525 review
+    questions; glossary.
+
+21. =Tabular Composition= By Robert Seaver
+
+    A study of the elementary forms of table composition, with examples
+    of more difficult composition. 36 pp.; examples; 45 review
+    questions.
+
+22. =Applied Arithmetic= By E. E. Sheldon
+
+    Elementary arithmetic applied to problems of the printing trade,
+    calculation of materials, paper weights and sizes, with standard
+    tables and rules for computation, each subject amplified with
+    examples and exercises. 159 pp.
+
+23. =Typecasting and Composing Machines= A. W. Finlay, Editor
+
+    Section I--The Linotype By L. A. Hornstein
+    Section II--The Monotype By Joseph Hays
+    Section III--The Intertype By Henry W. Cozzens
+    Section IV--Other Typecasting and Typesetting Machines
+                                                       By Frank H. Smith
+
+    A brief history of typesetting machines, with descriptions of their
+    mechanical principles and operations. Illustrated; review questions;
+    glossary.
+
+
+PART III--Imposition and Stonework
+
+24. =Locking Forms for the Job Press= By Frank S. Henry
+
+    Things the apprentice should know about locking up small forms, and
+    about general work on the stone. Illustrated; review questions;
+    glossary.
+
+25. =Preparing Forms for the Cylinder Press= By Frank S. Henry
+
+    Pamphlet and catalog imposition; margins; fold marks, etc. Methods
+    of handling type forms and electrotype forms. Illustrated; review
+    questions; glossary.
+
+
+PART IV--Presswork
+
+26. =Making Ready on Platen Presses= By T. G. McGrew
+
+    The essential parts of a press and their functions; distinctive
+    features of commonly used machines. Preparing the tympan, regulating
+    the impression, underlaying and overlaying, setting gauges, and
+    other details explained. Illustrated; review questions; glossary.
+
+27. =Cylinder Presswork= By T. G. McGrew
+
+    Preparing the press; adjustment of bed and cylinder, form rollers,
+    ink fountain, grippers and delivery systems. Underlaying and
+    overlaying; modern overlay methods. Illustrated; review questions;
+    glossary.
+
+28. =Pressroom Hints and Helps= By Charles L. Dunton
+
+    Describing some practical methods of pressroom work, with directions
+    and useful information relating to a variety of printing-press
+    problems. 87 pp.; 176 review questions.
+
+29. =Reproductive Processes of the Graphic Arts= By A. W. Elson
+
+    A primer of information about the distinctive features of the
+    relief, the intaglio, and the planographic processes of printing.
+    84 pp.; illustrated; 100 review questions; glossary.
+
+
+PART V--Pamphlet and Book Binding
+
+30. =Pamphlet Binding= By Bancroft L. Goodwin
+
+    A primer of information about the various operations employed in
+    binding pamphlets and other work in the bindery. Illustrated; review
+    questions; glossary.
+
+31. =Book Binding= By John J. Pleger
+
+    Practical information about the usual operations in binding books;
+    folding; gathering, collating, sewing, forwarding, finishing. Case
+    making and cased-in books. Hand work and machine work. Job and
+    blank-book binding. Illustrated; review questions; glossary.
+
+
+PART VI--Correct Literary Composition
+
+32. =Word Study and English Grammar= By F. W. Hamilton
+
+    A primer of information about words, their relations, and their
+    uses. 68 pp.; 84 review questions; glossary.
+
+33. =Punctuation= By F. W. Hamilton
+
+    A primer of information about the marks of punctuation and their
+    use, both grammatically and typographically. 56 pp.; 59 review
+    questions; glossary.
+
+34. =Capitals= By F. W. Hamilton
+
+    A primer of information about capitalization, with some practical
+    typographic hints as to the use of capitals. 48 pp.; 92 review
+    questions; glossary.
+
+35. =Division of Words= By F. W. Hamilton
+
+    Rules for the division of words at the ends of lines, with remarks
+    on spelling, syllabication and pronunciation. 42 pp.; 70 review
+    questions.
+
+36. =Compound Words= By F. W. Hamilton
+
+    A study of the principles of compounding, the components of
+    compounds, and the use of the hyphen. 34 pp.; 62 review questions.
+
+37. =Abbreviations and Signs= By F. W. Hamilton
+
+    A primer of information about abbreviations and signs, with
+    classified lists of those in most common use. 58 pp.; 32 review
+    questions.
+
+38. =The Uses of Italic= By F. W. Hamilton
+
+    A primer of information about the history and uses of italic
+    letters. 31 pp.; 37 review questions.
+
+39. =Proofreading= By Arnold Levitas
+
+    The technical phases of the proofreader's work; reading, marking,
+    revising, etc.; methods of handling proofs and copy. Illustrated by
+    examples. 59 pp.; 69 review questions; glossary.
+
+40. =Preparation of Printers' Copy= By F. W. Hamilton
+
+    Suggestions for authors, editors, and all who are engaged in
+    preparing copy for the composing room. 36 pp.; 67 review questions.
+
+41. =Printers' Manual of Style=
+
+    A reference compilation of approved rules, usages, and suggestions
+    relating to uniformity in punctuation, capitalization,
+    abbreviations, numerals, and kindred features of composition.
+
+42. =The Printer's Dictionary= By A. A. Stewart
+
+    A handbook of definitions and miscellaneous information about
+    various processes of printing, alphabetically arranged. Technical
+    terms explained. Illustrated.
+
+
+PART VII--Design, Color, and Lettering
+
+43. =Applied Design for Printers= By Harry L. Gage
+
+    A handbook of the principles of arrangement, with brief comment on
+    the periods of design which have most influenced printing. Treats of
+    harmony, balance, proportion, and rhythm; motion; symmetry and
+    variety; ornament, esthetic and symbolic. 37 illustrations;
+    46 review questions; glossary; bibliography.
+
+44. =Elements of Typographic Design= By Harry L. Gage
+
+    Applications of the principles of decorative design. Building
+    material of typography paper, types, ink, decorations and
+    illustrations. Handling of shapes. Design of complete book, treating
+    each part. Design of commercial forms and single units.
+    Illustrations; review questions; glossary; bibliography.
+
+45. =Rudiments of Color in Printing= By Harry L. Gage
+
+    Use of color: for decoration of black and white, for broad poster
+    effect, in combinations of two, three, or more printings with
+    process engravings. Scientific nature of color, physical and
+    chemical. Terms in which color may be discussed: hue, value,
+    intensity. Diagrams in color, scales and combinations. Color theory
+    of process engraving. Experiments with color. Illustrations in full
+    color, and on various papers. Review questions; glossary;
+    bibliography.
+
+46. =Lettering in Typography= By Harry L. Gage
+
+    Printer's use of lettering: adaptability and decorative effect.
+    Development of historic writing and lettering and its influence on
+    type design. Classification of general forms in lettering.
+    Application of design to lettering. Drawing for reproduction. Fully
+    illustrated; review questions; glossary; bibliography.
+
+47. =Typographic Design in Advertising= By Harry L. Gage
+
+    The printer's function in advertising. Precepts upon which
+    advertising is based. Printer's analysis of his copy. Emphasis,
+    legibility, attention, color. Method of studying advertising
+    typography. Illustrations; review questions; glossary; bibliography.
+
+48. =Making Dummies and Layouts= By Harry L. Gage
+
+    A layout: the architectural plan. A dummy: the imitation of a
+    proposed final effect. Use of dummy in sales work. Use of layout.
+    Function of layout man. Binding schemes for dummies. Dummy
+    envelopes. Illustrations; review questions; glossary; bibliography.
+
+
+PART VIII--History of Printing
+
+49. =Books Before Typography= By F. W. Hamilton
+
+    A primer of information about the invention of the alphabet and the
+    history of bookmaking up to the invention of movable types. 62 pp.;
+    illustrated; 64 review questions.
+
+50. =The Invention of Typography= By F. W. Hamilton
+
+    A brief sketch of the invention of printing and how it came about.
+    64 pp.; 62 review questions.
+
+51. =History of Printing--Part I= By F. W. Hamilton
+
+    A primer of information about the beginnings of printing, the
+    development of the book, the development of printers' materials, and
+    the work of the great pioneers. 63 pp.; 55 review questions.
+
+52. =History of Printing--Part II= By F. W. Hamilton
+
+    A brief sketch of the economic conditions of the printing industry
+    from 1450 to 1789, including government regulations, censorship,
+    internal conditions and industrial relations. 94 pp.; 128 review
+    questions.
+
+53. =Printing in England= By F. W. Hamilton
+
+    A short history of printing in England from Caxton to the present
+    time. 89 pp.; 65 review questions.
+
+54. =Printing in America= By F. W. Hamilton
+
+    A brief sketch of the development of the newspaper, and some notes
+    on publishers who have especially contributed to printing. 98 pp.;
+    84 review questions.
+
+55. =Type and Presses in America= By F. W. Hamilton
+
+    A brief historical sketch of the development of type casting and
+    press building in the United States. 52 pp.; 61 review questions.
+
+
+PART IX--Cost Finding and Accounting
+
+56. =Elements of Cost in Printing= By Henry P. Porter
+
+    The Standard Cost-Finding Forms and their uses. What they should
+    show. How to utilize the information they give. Review questions.
+    Glossary.
+
+57. =Use of a Cost System= By Henry P. Porter
+
+    The Standard Cost-Finding Forms and their uses. What they should
+    show. How to utilize the information they give. Review questions.
+    Glossary.
+
+58. =The Printer as a Merchant= By Henry P. Porter
+
+    The selection and purchase of materials and supplies for printing.
+    The relation of the cost of raw material and the selling price of
+    the finished product. Review questions. Glossary.
+
+59. =Fundamental Principles of Estimating= By Henry P. Porter
+
+    The estimator and his work; forms to use; general rules for
+    estimating. Review questions. Glossary.
+
+60. =Estimating and Selling= By Henry P. Porter
+
+    An insight into the methods used in making estimates, and their
+    relation to selling. Review questions. Glossary.
+
+61. =Accounting for Printers= By Henry P. Porter
+
+    A brief outline of an accounting system for printers; necessary
+    books and accessory records. Review questions. Glossary.
+
+
+PART X--Miscellaneous
+
+62. =Health, Sanitation, and Safety= By Henry P. Porter
+
+    Hygiene in the printing trade; a study of conditions old and new;
+    practical suggestions for improvement; protective appliances and
+    rules for safety.
+
+63. =Topical Index= By F. W. Hamilton
+
+    A book of reference covering the topics treated in the Typographic
+    Technical Series, alphabetically arranged.
+
+64. =Courses of Study= By F. W. Hamilton
+
+    A guidebook for teachers, with outlines and suggestions for
+    classroom and shop work.
+
+
+
+
+ACKNOWLEDGMENT
+
+
+This series of Typographic Text-books is the result of the splendid
+co-operation of a large number of firms and individuals engaged in the
+printing business and its allied industries in the United States of
+America.
+
+The Committee on Education of the United Typothetae of America, under
+whose auspices the books have been prepared and published, acknowledges
+its indebtedness for the generous assistance rendered by the many
+authors, printers, and others identified with this work.
+
+While due acknowledgment is made on the title and copyright pages of
+those contributing to each book, the Committee nevertheless felt that a
+group list of co-operating firms would be of interest.
+
+The following list is not complete, as it includes only those who have
+co-operated in the production of a portion of the volumes, constituting
+the first printing. As soon as the entire list of books comprising the
+Typographic Technical Series has been completed (which the Committee
+hopes will be at an early date), the full list will be printed in each
+volume.
+
+The Committee also desires to acknowledge its indebtedness to the many
+subscribers to this Series who have patiently awaited its publication.
+
+                            COMMITTEE ON EDUCATION,
+                            UNITED TYPOTHETAE OF AMERICA.
+
+                                  HENRY P. PORTER, _Chairman_,
+                                  E. LAWRENCE FELL,
+                                  A. M. GLOSSBRENNER,
+                                  J. CLYDE OSWALD,
+                                  TOBY RUBOVITS.
+
+                            FREDERICK W. HAMILTON, _Education Director_.
+
+
+
+
+CONTRIBUTORS
+
+
+For Composition and Electrotypes
+
+    ISAAC H. BLANCHARD COMPANY, New York, N. Y.
+    S. H. BURBANK & CO., Philadelphia, Pa.
+    J. S. CUSHING & CO., Norwood, Mass.
+    THE DEVINNE PRESS, New York, N. Y.
+    R. R. DONNELLEY & SONS CO., Chicago, Ill.
+    GEO. H. ELLIS CO., Boston, Mass.
+    EVANS-WINTER-HEBB, Detroit, Mich.
+    FRANKLIN PRINTING COMPANY, Philadelphia, Pa.
+    F. H. GILSON COMPANY, Boston, Mass.
+    STEPHEN GREENE & CO., Philadelphia, Pa.
+    W. F. HALL PRINTING CO., Chicago, Ill.
+    J. B. LIPPINCOTT CO., Philadelphia, Pa.
+    MCCALLA & CO. INC., Philadelphia, Pa.
+    THE PATTESON PRESS, New York, New York
+    THE PLIMPTON PRESS, Norwood, Mass.
+    POOLE BROS., Chicago, Ill.
+    EDWARD STERN & CO., Philadelphia, Pa.
+    THE STONE PRINTING & MFG. CO., Roanoke, Va.
+    C. D. TRAPHAGEN, Lincoln, Neb.
+    THE UNIVERSITY PRESS, Cambridge, Mass.
+
+
+For Composition
+
+    BOSTON TYPOTHETAE SCHOOL OF PRINTING, Boston, Mass.
+    WILLIAM F. FELL CO., Philadelphia, Pa.
+    THE KALKHOFF COMPANY, New York, N. Y.
+    OXFORD-PRINT, Boston, Mass.
+    TOBY RUBOVITS, Chicago, Ill.
+
+
+For Electrotypes
+
+    BLOMGREN BROTHERS CO., Chicago, Ill.
+    FLOWER STEEL ELECTROTYPING CO., New York, N. Y.
+    C. J. PETERS & SON CO., Boston, Mass.
+    ROYAL ELECTROTYPE CO., Philadelphia, Pa.
+    H. C. WHITCOMB & CO., Boston, Mass.
+
+
+For Engravings
+
+    AMERICAN TYPE FOUNDERS CO., Boston, Mass.
+    C. B. COTTRELL & SONS CO., Westerly, R. I.
+    GOLDING MANUFACTURING CO., Franklin, Mass.
+    HARVARD UNIVERSITY, Cambridge, Mass.
+    INLAND PRINTER CO., Chicago, Ill.
+    LANSTON MONOTYPE MACHINE COMPANY, Philadelphia, Pa.
+    MERGENTHALER LINOTYPE COMPANY, New York, N. Y.
+    GEO. H. MORRILL CO., Norwood, Mass.
+    OSWALD PUBLISHING CO., New York, N. Y.
+    THE PRINTING ART, Cambridge, Mass.
+    B. D. RISING PAPER COMPANY, Housatonic, Mass.
+    THE VANDERCOOK PRESS, Chicago, Ill.
+
+
+For Book Paper
+
+    AMERICAN WRITING PAPER CO., Holyoke, Mass.
+    WEST VIRGINIA PULP & PAPER CO., Mechanicville, N. Y.
+
+
+
+
+
+End of Project Gutenberg's The Uses of Italic, by Frederick W. Hamilton
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE USES OF ITALIC ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

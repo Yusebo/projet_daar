@@ -1,0 +1,1562 @@
+﻿The Project Gutenberg eBook of The Aviator and the Weather Bureau
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Aviator and the Weather Bureau
+
+Author: Ford A. Carpenter
+
+Release date: July 4, 2018 [eBook #57443]
+                Most recently updated: June 15, 2020
+
+Language: English
+
+Credits: E-text prepared by ellinora, Charlie Howard, and the Online Distributed Proofreading Team (http://www.pgdp.net) from page images generously made available by Internet Archive (https://archive.org)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE AVIATOR AND THE WEATHER BUREAU ***
+
+
+E-text prepared by ellinora, Charlie Howard, and the Online Distributed
+Proofreading Team (http://www.pgdp.net) from page images generously made
+available by Internet Archive (https://archive.org)
+
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustrations.
+      See 57443-h.htm or 57443-h.zip:
+      (https://www.gutenberg.org/cache/epub/57443/pg57443-images.html)
+      or
+      (https://www.gutenberg.org/files/57443/57443-h.zip)
+
+
+      Images of the original pages are available through
+      Internet Archive. See
+      https://archive.org/details/aviatortheweathe00carpiala
+
+
+Transcriber’s note:
+
+      Text enclosed by underscores is in italics (_italics_).
+
+
+
+
+
+[Illustration: ARMY AIRPLANE GLIDING TO NORTH ISLAND OVER U. S. CRUISER
+“SAN DIEGO”]
+
+
+THE AVIATOR AND THE WEATHER BUREAU
+
+by
+
+FORD A. CARPENTER, LL.D.
+
+Meteorologist
+
+Illustrated with Photographs and Charts
+by the Author and Others
+
+
+
+
+
+
+Published by the
+San Diego Chamber of Commerce
+1917
+
+Published by permission
+Dated August 25, 1916
+
+Second edition, 5,000 copies
+
+J. Horace McFarland Company
+Mt. Pleasant Press
+Harrisburg, Pennsylvania
+
+
+
+
+Introductory Note
+
+
+This is a brief but general account of the history of aviation as
+it is associated with southern California, a description of the War
+Department school of aviation at San Diego, a syllabus of the course
+of lectures delivered there on the subject of practical meteorology as
+applied to aviation, a narrative of weather-study from an airplane, and
+a recital of subsequent active coöperation between the aviators and the
+U. S. Weather Bureau.[A]
+
+    [A] It may be remembered that the weather service of the
+        United States originated with the Signal Corps of the Army
+        and that the Weather Bureau was created from it by Act
+        of Congress, June, 1891, and made a bureau of the U. S.
+        Department of Agriculture. As a former member of the Signal
+        Corps the writer enjoyed the renewal of old friendships
+        among the officers at the Aviation School. Col. W. A.
+        Glassford, Signal Corps, U. S. Army, Commandant of the War
+        Department Aviation School at San Diego, kindly read the
+        manuscript of the following pages and the writer gratefully
+        acknowledges his valuable suggestions.
+
+Much of the material in the following pages was obtained by the writer
+while detailed as Lecturer in Meteorology to the Signal Corps, War
+Department Aviation School at San Diego, in 1915–1916, also when
+detailed in the same official capacity to the U. S. Army Military
+Training Encampment, Monterey, 1916; and at the summer sessions of the
+University of California during 1914–1916.
+
+  LOS ANGELES, CAL.,
+   February, 1917.
+
+
+
+
+     _To_
+  _J. S. A._
+
+
+
+
+Table of Contents
+
+
+  CHAPTER I
+
+  The Signal Corps Aviation School at San Diego, California            7
+
+
+  CHAPTER II
+
+  Applied Meteorology for the Aviator                                 11
+
+
+  CHAPTER III
+
+  Weather Observations from an Airplane                               16
+
+
+  CHAPTER IV
+
+  Investigating the Upper Air                                         25
+
+
+
+
+List of Plates
+
+
+  Figure
+   No.                                                              Page
+      Army airplane gliding to North Island Over U. S. Cruiser
+          “San Diego”                                _Frontispiece_
+
+   1. Congressional Medal awarded Wright brothers                     33
+
+   2. Ascent of sounding balloons at Avalon                           34
+
+   3. Meteorograph which made the ascent of July 27, 1913             35
+
+   4. First flight of airplane carrying two persons                   36
+
+   5. Sub-station at Mount Wilson Observatory                         37
+
+   6. Type of airplane used in 1911 on North Island                   38
+
+   7. Discussing a flight                                             39
+
+   8. Captain Culver and parachute for determining wind-direction     40
+
+   9. Lieutenant Gorrell, U. S. Infantry, as observer                 41
+
+  10. Point Loma from the eastern shore of North Island               42
+
+  11. San Diego, across Spanish Bight, from U. S. Aviation School,
+        at twilight                                                   43
+
+  12. Instructor Brindley and Meteorologist Carpenter in
+        Military Tractor No. 50                                       44
+
+  13. Military Tractor No. 50                                         45
+
+  14. “Trimming” Tractor No. 50                                       46
+
+  15. Military Tractor No. 50 just before leaving the ground          47
+
+  16. San Diego harbor at over two thousand feet altitude             48
+
+  17. San Diego viewed from an altitude of thirty-five hundred
+        feet                                                          49
+
+  18. Military Tractor No. 50 viewed from the ground                  50
+
+  19. Flying Squad’s Wind Direction Pennant Tower                     51
+
+  20. The Aviation School Motor-Boat “Pronto”                         52
+
+  21. U. S. Aviation Field at three thousand feet altitude            53
+
+  22. Repair Shop, U. S. Aviation School, San Diego, Cal.             54
+
+
+
+
+The Aviator and the Weather Bureau
+
+
+
+
+CHAPTER I
+
+THE SIGNAL CORPS AVIATION SCHOOL AT SAN DIEGO
+
+
+_History._--The year 1911 marked the beginning of the United States
+aviation school at San Diego. There is no finer tribute to the
+equability and general excellence of the climate of southern California
+than that given in the history of aëronautics. It was here, in 1900,
+that Chanute completed his early and epoch-making observations of the
+flight of gulls and pelicans. These contributed largely to the success
+of the Wright brothers a few years afterward. It was in southern
+California, six years ago, that Harkness, in an Antoinette, made his
+record monoplane flight to Tia Juana. San Diego witnessed the flying
+of the first seaplane, by Curtiss, five years ago. It is in this
+district that not only the War Department aviation school and a number
+of commercial flying schools are located, but also one of the large
+airplane[B] factories in this country.
+
+    [B] The National Advisory Committee for Aëronautics in
+        its report of October 17, 1916, on Nomenclature for
+        Aëronautics, the name _airplane_ is substituted for “Any
+        form of aircraft heavier than air which has wing surfaces
+        for sustention, with stabilizing surfaces, rudders for
+        steering, and power-plant for propulsion through the air.”
+
+_Location of the School._--Whatever the final action may be as to
+permanent location, it has been conceded by all authorities that
+the situation of the aviation school on North Island, San Diego Bay,
+is ideal. (See Fig. 21.) The so-called island is connected with the
+peninsula of Coronado by a narrow sand-spit, and it comprises many
+hundred acres of level land free from buildings and any sort of
+overhead wires. The island fronts the ocean on the south; Point Loma on
+the west with the narrow entrance to the bay between; to the north is
+the city of San Diego across the bay; and Coronado just beyond Spanish
+Bight on the east. This natural arrangement gives good air conditions
+for beginners, and also enables them to use the smooth waters of the
+bay as well as the rough ocean water for the seaplanes. The proximity
+of this location to San Diego is also a distinct advantage. (See Fig.
+11.) All of the structures of the aviation school on North Island are
+temporary, the buildings consisting of a scattering array of huge sheds.
+
+_Character of Instruction._--Officers from all branches of the army
+volunteer for this service. The qualifications of an aviator are
+caution, judgment, and technical skill. Deficiencies in caution and
+judgment being temperamental are rarely remedied, while technical
+skill is largely a matter of acquirement. Less than ninety days are
+allowed for qualification as a junior aviator, and if in that period
+the officer’s deficiencies are found to be inherent, he returns to his
+company.
+
+The school is a place for hard work and quick thinking. Detail in the
+repair shop is part of the course, as is also the use of the gasoline
+engine in motor trucks as well as in aircraft. (See Fig. 22.) Theory
+and practice are closely united: the former is carried on by means
+of bi-daily lectures, while the early morning hours are devoted to
+flying. Pilot-and-observer machines equipped with double control are
+used in instruction. The aviation instructor ascends with the student
+and allows him to manipulate the controls, only resuming the management
+of the airplane in an emergency. Needless to say, the life of an
+instructor is a most hazardous one and full of thrills. His duty is to
+be on the alert to correct errors in the manipulation of the machine.
+After every trip the instructor reviews, point by point, the features
+of the flight, showing the pupil his deficiencies and explaining how
+he may avoid them in the future. The instruction is terse but kindly,
+and the manner of imparting this information leaves nothing to the
+imagination. After watching student and instructor, and closely
+studying the finished work of an aviator, it is my opinion that in no
+other occupation must there be such perfect coördination between mind
+and muscle: the perfectly qualified aviator is the modern super-man.[C]
+
+    [C] The army aviator of today is picked for his quickness of
+        mind and body, and the first thing that strikes you about
+        him is a sort of feline, wound-up-spring alertness. Then
+        you note his reticence, the cool reserve of a man whose
+        lot is to express himself in deeds rather than words. And,
+        lastly, there is the quiet seriousness, verging almost
+        on sadness, of a man who must hold himself ready to look
+        death between the eyes at any moment and yet keep his
+        mind detached for other things.--Lewis R. Freeman in the
+        _Atlantic Monthly_.
+
+_Results of a Year’s Work._--During the year 1915, the students of the
+aviation school made 3,652 flights with a total time aloft of 1,516
+hours, and a mileage of 95,000. As regards weather conditions affecting
+flights, it will be found interesting to note Chart No. 5 giving
+number of flights and duration for the fourteen months ending August,
+1916, which shows that work progressed regardless of weather, and at
+an increasing rate.[D] In February, a military tractor-seaplane (an
+all-California product), 125-horsepower motor, with twenty-six gallons
+of gasoline, four gallons of oil, and three passengers, making a total
+weight of 3,100 pounds, reached an altitude of 12,362 feet. This was
+the world’s record, the previous altitude under the same conditions
+having been 9,000 feet.
+
+    [D] “It is estimated that the average cost to France of
+        training each pilot is five thousand dollars ... no less
+        than from four to six months are devoted to the training
+        of finished pilots. Although I have just come from France,
+        the progress of aviation is so rapid that much of my own
+        knowledge may be out of date before I again return to the
+        front.”--C. D. Winslow, “With the French Flying Corps,”
+        1917, 4–5: N. Y.
+
+
+
+
+CHAPTER II
+
+APPLIED METEOROLOGY FOR THE AVIATOR
+
+
+_Activities of the Weather Bureau in Relation to
+Aëronautics._--Naturally the progress of aërial navigation has at all
+times been rather closely connected with the Weather Bureau. For over
+a decade the Bureau has not been content with surface observations
+but has maintained laboratories for the study of the upper air. The
+results of its observations are considered a mine of information for
+the student aviator. Prof. Charles F. Marvin, the Chief of the Weather
+Bureau, is a member of the National Advisory Committee for Aëronautics,
+and chairman of a subcommittee engaged on the determination of the
+problems of the atmosphere in relation to aëronautics.[E]
+
+    [E] Monthly Weather Review, 1915, 32:500. Washington.
+
+The first official coöperation between the Weather Bureau and the War
+Department aviation school was inaugurated in the year 1914 by Dr.
+W. J. Humphreys, Professor of Meteorological Physics, when he was
+detailed to give a course of lectures. It was during this course that
+he lectured on “Holes in the Air.”[F] This paper has been reprinted as
+a textbook for the aviation school.
+
+    [F] Popular Science Monthly, 1914, 44:18–34, N. Y.
+
+_Early Studies in Aëronautics._--Unofficially, however, the coöperation
+extended back some fifteen years prior to that time, when the writer
+was in charge of the local office of the Weather Bureau at San Diego,
+and assisted the aëronautical engineer, Octave Chanute, in his
+observations and experiments on San Diego Bay.[G] At this time hundreds
+of photographs of sea-gulls, pelicans, and other soaring birds were
+made, and both birds and photographs studied and analyzed. Ever since
+then more or less interest has been taken by the writer in aërial
+navigation. During an assignment to the Central Office the work of
+the Wright brothers was observed and studied. The association with
+the late Octave Chanute and his friends, the Wrights, during their
+experimental flights at Fort Meyer, Virginia, in September, 1908, is
+counted among the many pleasant memories of the Washington visit. It
+was here that was witnessed the first flight with a passenger (see Fig.
+4), Mr. Orville Wright taking up with him Major (now Colonel) George O.
+Squier, the present head of the aviation branch of the army. Such was
+the infancy of the flying-machine that at that date no fatalities had
+occurred. A few years later the writer had the pleasure of accompanying
+Mr. Glenn Curtiss while he was determining a site for his school, which
+was finally located on North Island. (See Fig. 6.) Shortly afterward,
+from this place, Harry Harkness made record amateur cross-country
+flights in an Antoinette monoplane.
+
+    [G] “Climate and Weather of San Diego,” Carpenter, 1913, 57–59,
+        San Diego.
+
+_Active Work of the Weather Bureau._--During the score of years that
+the writer has been in charge of the San Diego and Los Angeles stations
+of the Weather Bureau, interest in flying has been cumulative. Efforts
+have been made to furnish aviators with available data so that at the
+present time a day seldom passes without conference With officials or
+students of Government or private flying schools in this vicinity.
+
+_Lectures on Meteorology as Applied to Aviation._--Through the War
+Department, October, 1915, on request of the commanding officer of the
+Signal Corps aviation school, at San Diego, the writer was directed by
+the Chief of the Weather Bureau to deliver two lectures of which the
+following are outlines:
+
+
+“_What the Weather Bureau Offers the Aviator_”
+
+(Illustrated by 37 lantern-slides from photographs by the author)
+
+  Introductory:
+    Weather service once part of the Signal Corps, U.S.A.
+    Transfer in 1891 to the Department of Agriculture.
+
+  Distribution of weather stations in the United States:
+    Character of data obtainable:
+      Advance data from the daily map such as
+        Position of high and low areas.
+      Weather conditions from sub-stations in vicinity.
+
+  The weather map:
+    How constructed.
+    How distributed.
+    Specimen maps showing differing conditions in California.
+      Winds, velocity and frequency:
+        On-shore.
+        Off-shore.
+      Discussion of air conditions December 20–22, 1914.
+    The international weather map.
+      Relation to weekly forecasts.
+
+  Cardinal climatic features:
+    Ascending winds and types producing them:
+      Cloud, fog, precipitation.
+    Descending winds:
+      “Northers” and dust-storms.
+      Thermograph and hygrograph traces.
+
+  Factors in the meteorology of southern California:
+    Influence of latitude:
+      Sea.
+      Mountains.
+      Desert.
+    Path and distribution of storm areas.
+    Knowledge of local climatology necessary in flying.
+    Local winds discussed:
+      “Woollies” (descending wind eddies).
+      “Chubascos” (south coast thunder squall).
+      “Santa Anas” (northeasterly and desiccating).
+      “Wilmingtons” (northwesterly line-squall).
+
+
+“_Practical Meteorology for the Aviator_”
+
+(Illustrated by 72 lantern-slides from photographs by the author)
+
+  Historical:
+    Original work begun in Scotland, year 1749.
+    Characteristics--
+      English work; Dines’ minute meteorograph.
+      French work; Dr. Berson’s balloon ascent of 6½ miles.
+      German work; detailed data in low altitudes.
+      American work began with Franklin.
+  The Upper Air:
+    Definition:
+      “Stratosphere” is (according to some authorities) the
+        dynamical laboratory of the atmosphere where the
+        main causes of pressure originate.
+    Results in America:
+      Balloon meteorograph (Fig. 3).
+      Charts showing rate of increase in wind velocity with
+        elevation (Chart No. 4).
+      Wind, temperature, pressure, humidity at maximum airplane
+        height of 26,242 feet.
+      Stratosphere:
+        Lower level in winter than in summer.
+        Lower temperature in summer when surface pressure is
+          high.
+    Definition:
+      “Troposphere” is the physical laboratory where cloud
+        and rain are produced by local causes and induced
+        by the effect of the dynamical changes in the upper air.
+      Conditions within 6 or 7 miles of the earth’s surface.
+  Clouds and their Meaning:
+    Cirrus:
+      Height and composition.
+      Formation:
+        Perpendicular shafts of clouds indicate rapid changes
+          in weather.
+        Horizontal layers, no change and clouds will dissipate.
+    Cirro-stratus, threatening in winter.
+    Cirro-cumulus, fair and foul varieties differentiated.
+    Cumulus with strong uplift.
+    Alto-cumulus, cause of parallel rows.
+    Fracto-cumulus, wind indicator, Point Loma “woolly.”
+    Stratus.
+    Alto-stratus, favorable for flying.
+    Strato-cumulus, long shallow rolls, threatening in winter.
+    Cumulo-nimbus, unsafe air conditions for flying.
+    Fracto-nimbus, waterspouts and their causes.
+    Velo cloud, examples, cause, effect, distribution, density.
+    Fog, examples of great fog-belts.
+
+
+
+
+CHAPTER III
+
+NARRATIVE OF WEATHER OBSERVATIONS FROM AN AIRPLANE
+
+
+In order to qualify as meteorologist competent to confer with aviators,
+it seemed desirable to become personally acquainted with some of
+the conditions that confronted them. As a matter of professional
+acquirement therefore, I was glad to accept an invitation to go aloft
+after the necessary official arrangements had been made with Washington.
+
+This trip was in line with the previous endeavors of applying practical
+meteorology to the science of flight and appropriately extended the
+work which was begun in San Diego with Chanute and the sea-gulls
+fifteen years before.
+
+_Object of Flight._--I wished to put myself in the student’s place
+and learn at first hand the practical facts he demanded from weather
+observations and to acquaint myself with everything possible that might
+be of value to an aviator. There were two definite things of which I
+desired knowledge: first, to determine the height of the upward trend
+of the sea-breeze over Point Loma which causes the mysterious “woolly”
+of a score of years’ acquaintance from a yachting standpoint; second,
+to observe the extent, form, and composition of the velo cloud which is
+the characteristic sun-cover of California.
+
+_Preparations for the Ascent._--Aviator Instructor Oscar Brindley
+(the 1915 winner of the Curtiss trophy), in military tractor No.
+50, was assigned as pilot. It may be stated here that the accepted
+definition of aviator is a pilot of a flying-machine heavier than air.
+The airplane used in my first flight (see Fig. 13) was made in Los
+Angeles and is the present standard army model. This tractor has an
+80-horsepower engine and 8-foot propeller. It is 21 feet long, has a
+wing-spread of 38 feet, supporting area 364 square feet, and a flying
+radius, with two persons, of 300 miles. The maximum altitude attained
+with this model at San Diego was 13,000 feet. Before being placed in
+service the machines are thoroughly gone over at the repair shop (see
+Fig. 22), and the motors are run at full speed for twenty-four hours,
+after which they are taken down and subjected to scrutiny for possible
+defects. All of the struts, guys, and wires are closely examined; the
+boltheads are all drilled, wired, and soldered so that no amount of
+vibration will loosen them. Regardless of the length of the flight,
+each machine, before going up again, is given a rigid inspection and
+not until the mechanicians have tested every part is it pronounced
+ready.
+
+Not being prepared with a regulation aviation suit, I was loaned a
+leather jacket by one officer, face-goggles and safety helmet by
+others. I then took my place in the observer’s seat forward and was
+strapped into it with the safety belt (see Fig. 12). I was cautioned to
+let my body give way as the waist-controls were moved from side to side
+and not pay any attention to the steering rudder wheel which had a way
+of mysteriously revolving, advancing and receding.
+
+In cranking an airplane, a certain formula is always gone through. The
+mechanician at the propeller calls out, “Close!” The aviator closes
+the switch and repeats the word. This short-circuits the ignition
+apparatus so that no spark occurs in the cylinders. The propeller is
+turned in order to introduce explosive mixtures into the cylinders.
+When ready to start the mechanician says “Open!” The aviator opens the
+switch and repeats the word. The charges in the cylinders then fire
+when the propeller is turned.
+
+After the engine starts, the machine is “trimmed” by helpers and
+jockeyed for a favorable “take-off” into the air. (See Figs. 14, 15.)
+This model of airplane climbs on a gradient 1 to 7; its minimum speed
+is 41 miles per hour. In other words, if the speed is less than 41
+miles per hour the machine will not fly horizontally.
+
+_The Ascent._--The tractor was headed into a 30-mile northwesterly
+wind so that the “take-off” was quick and easy; there were only a few
+seconds spent rolling over the field, when the airplane left the ground
+and I felt the never to be forgotten cushioning feeling of the air.
+For ten seconds there was experienced a decidedly weakening nervous
+chill, which occurred to me once before when making a high dive from
+a spring-board. It was the sort of physiological disturbance that can
+only be counteracted by immediately pulling one’s self together saying,
+“_Well, here goes nothing!_” The momentary depression was immediately
+followed by a corresponding elation of feeling which strange to say did
+not leave me during the trip and is always associated with thoughts
+of the journey. There was no dizziness, although I am peculiarly
+susceptible to the least change in balance. The earth did not recede
+as we progressed steadily upward; we seemed part of the earth, but
+not of it. Although the airplane reached an altitude of 3,000 feet in
+a comparatively few minutes, the barometer falling from 30.0 to 27.0
+inches, the decreased bodily pressure was not at all noticeable.[H]
+
+    [H] Trans-American Climatic Association, 1915, 31:20, Hot
+        Springs, Va.
+
+Next to the supporting quality of the atmosphere I had noticed the
+70-mile blast of air as the airplane pushed its way steadily onward and
+upward. Naturally, the exhaust of the motor in addition to the roar of
+the wind made conversation impossible. Some airplanes have telephone
+communication between observer and pilot. (See Fig. 9.) During one
+flight in a machine not so equipped, the passenger noticed the breaking
+of some apparatus. Knowing that it was impossible to make himself heard
+he hastily scribbled the word “Accident!” on a bit of card, whereupon
+the pilot shut off his engine and glided to earth.
+
+_Two-thousand Feet above Point Loma._--Carrying out my suggestion as
+to investigating the “woolly,” the pilot drove the machine straight
+for Point Loma and those unseen aërial breakers. Suddenly there were
+two distinct “wallops” and I felt the fuselage beneath me respond as
+if struck by a stuffed club. There was evidently first a surge then
+a drop, and it was the descending current of air that deprived the
+airplane of the supporting medium, hence the shock. Point Loma itself,
+from this altitude, and seen directly from above, looked very like a
+barracuda’s backbone--long, low, and ugly. Although this peninsula (see
+Fig. 21) is less than 500 feet high it so effectively deflects the
+prevailing northwesterly wind that the upward surge has been noticed by
+aviators at an altitude of 4,000 feet. It is no wonder then that these
+descending winds, called “woollies” (from their churning the water into
+isolated masses which look like tufts of wool), are dreaded alike by
+yachtsmen and birdmen. They have been known to carry away topsails from
+too closely venturing schooners and student aviators always give the
+vicinity of Point Loma a wide berth.
+
+_No Winds Aloft._--We had not changed our direction since leaving the
+ground, but after passing over Point Loma the airplane was put sharply
+on a port course. I had been expecting this and must confess, somewhat
+dreaded it, innocently thinking that a 30-mile wind added to our
+70-mile rate of speed would “heel” the craft to an uncomfortable angle
+when the course was changed from northwesterly to southerly. What was
+my astonishment to find that the putting about was unaccompanied by
+any of the nautical motions such as tilting or canting. Theoretically
+one may be ever so well grounded in physical laws but it seems to take
+actual experience to bring their truth home to us. Of course there can
+be no wind in the air; when we entered the air it was moving 30 miles
+an hour in relation to the earth but as soon as we were free from the
+earth the velocity of the wind had no effect on our flight. No matter
+how strong the gale, so far as it concerned the airplane, if the wind
+be steady no difficulty is experienced; the aviator is concerned only
+by wind-shifts.
+
+_The Velo Cloud Seen from Above._--In kindergarten days I remember that
+one of the first questions I asked was “Are clouds smoke?” And this
+early query was really first answered in the air. Fog on a mountain
+top may be cloud, but somehow cloud free from close proximity to the
+earth seems different.
+
+The machine was put through the cloud blanket much as a horse takes
+a hurdle; it seemed unlike fog and more of a palpable substance. As
+we emerged, the sun was shining on it like a silvery sea with gently
+undulating surfaces and it looked for all the world as supportable
+as layers of cotton-wool. Many times have cloud-banks from mountain
+tops been observed, yet the upper side of the velo cloud from a
+flying-machine looked very different. The cloud was only four or
+five hundred feet thick and extended inland a few miles in irregular
+outline. The seaward edges of the velo cloud were not ragged, and
+apparently paralleled the coast for 10 or 15 miles.
+
+Such was the exhilaration and confidence the air gave that I can
+understand how parachute jumpers confidently step off into space,
+for to them the air is a supporting medium no more terrible than a
+transparent sea to a good swimmer. I believe that the record parachute
+drop was made in 1916 by Colonel Maitland, of the English Royal Flying
+Corps, who descended in a parachute 10,000 feet from an airplane.
+Fifteen minutes was occupied in the descent.
+
+_Ease of Vision at 3,500 Feet Altitude._--At this altitude the ease of
+vision is most remarkable. At this height, _with perpendicular vision_,
+the eye is possessed of wonderful powers. In those “solitudes august
+with stars” men not only “mount up with wings as eagles” but are given
+the eagle’s unobstructed vision. Birds have been credited with much too
+keen vision. From this height of several thousand feet every object
+stood out with remarkable distinctness. Automobiles racing along the
+El Cajon boulevard to Lakeside were readily picked up with the unaided
+eye although 20 miles away. Looking down over the aviation field the
+long compass mark and the wind-direction pennant (Figs. 19 and 20)
+were easily distinguished. The bay and ocean, however, gave the most
+remarkable revelation, for the bottom of the bay and the shallow ocean
+shore were plainly discernible. The absence of water as well as air
+refraction explains why submarines cannot hide from an airplane: one of
+the army aviators told me that a submarine cannot ordinarily sink so
+low that it cannot be seen from an airplane.
+
+_Color of Landing-ground Important._--Owing to the absorption and
+reflection of sunlight, there is a distinct variation in the character
+of otherwise similar landing-ground. A field, dark from recent plowing
+(or burning), will heat the air over it faster than will a field of
+stubble, hence over the former field there will be the greater air
+disturbance, and this will affect the ease of landing. Air is heated
+by contact and convection. One of the aviators said that recently he
+was descending, and had all but reached the ground when a localized
+convectional current hurled his machine upward some distance but
+immediately afterward deposited him on the ground without damage.
+
+_Spiraling Down 3,000 Feet._--Speeding ever in wide circles the course
+lay southeast over the upper part of San Diego Bay. The city of San
+Diego presented the usual checkerboard appearance (Fig. 16), and
+even at this altitude it would seem easy to drop an orange at almost
+any point. The velo cloud was lifting and we could see the gradual
+disappearance as it melted rather than drifted from North Island. (See
+Fig. 17.)
+
+The gliding descent was made from an altitude of 2,500 feet, starting
+above San Diego. As the aviation school was approached, we could see a
+number of machines in the air, three below and two above us, circling
+about like hawks. And, like soaring birds, these machines had their
+air-lanes, designated courses and levels being devoted to the different
+classes of machines. The landing was made without incident and the
+hour’s flight was ended.
+
+_Outline of Meteorological Work at the Aviation School._--At the close
+of the lecture detail, the attention of the student aviators was called
+to the importance of their having as thorough knowledge as possible of
+the fundamentals of meteorology. The application of these fundamentals
+to the analysis of air conditions met with in their daily flights was
+shown to be essential. Investigations as to varying wind direction were
+taken up by one of the staff instructors by the use of small parachutes
+to be dropped at different altitudes. (See Fig. 8.) Through the
+coöperation of the local official in charge of the San Diego Weather
+Bureau station, duplicate signal sheets were available from which the
+student officers made their local weather maps. From these maps and
+their own flights, they could arrive at some relationship between the
+actual and the theoretical 3,000- and 10,000-foot level maps prepared
+from the Bigelow formula, as used by the Bureau. Lectures were given
+on temperature and its distribution; winds, moisture, and clouds were
+also made part of the course, one of the papers of the Bureau[I] being
+reprinted by the aviation school by permission of the Chief of the
+Bureau and used as a textbook. The Weather Bureau furnished the station
+with a standard set of meteorological instruments so that the student
+officers could become perfectly familiar with the regular equipment at
+the Weather Bureau stations.
+
+    [I] “Clouds of California,” Carpenter, 1914, 24, 2d ed., Ft.
+        Leavenworth (U. S. Army Press).
+
+_Extending the Usefulness of the Bureau to the Aviators._--Practical
+utilization by the aviators of this district of the information
+possessed by the Bureau has received considerable impetus during the
+past six months. During the cross-country flights of April and May,
+1916, the Los Angeles station was directed by the Chief of Bureau
+to furnish weather and flight conditions between San Diego and Los
+Angeles. With the aid of the general weather-map data from the regular
+stations, and special observations of wind, weather, and fog conditions
+on the immediate coast near Los Angeles, and on Mount Wilson, it
+was possible to issue satisfactory forecasts of flying conditions.
+The eye-observations of fog-heights as determined by the Weather
+Bureau coöperative station at the Mount Wilson Solar Observatory were
+especially valuable. From this mountain (6,000 feet elevation) it
+is possible on a good day to see the whole length of the coast from
+Point Firmin, San Pedro harbor to Point Loma, San Diego Bay. Knowing
+different levels, the observer at Mount Wilson was able to give actual
+thickness and extent of the fog-belt and its past twenty-four-hour
+history.
+
+
+
+
+CHAPTER IV
+
+INVESTIGATING THE UPPER AIR
+
+
+_Balloon Soundings into the Stratosphere._--It was the writer’s
+privilege to be present when some highly interesting and instructive
+experiments made by the Weather Bureau in coöperation with the
+Smithsonian Institution, in sounding the upper air were made at Avalon,
+Santa Catalina Island, off the coast of southern California in July
+and August, 1913.[J] The results of this work were in close agreement
+with similar soundings of the upper air throughout other surveyed
+portions of the earth’s atmosphere, and a record ascension for this
+country was made on July 30--32,643 meters or 20½ miles. In common with
+other observations of temperatures in the stratosphere, the minimum
+temperature of these soundings (-90 F., August 3) was registered within
+the first 10 miles.[K]
+
+    [J] University of California Chronicle, 1915, 17:1–25, Berkeley.
+
+    [K] Monthly Weather Review, 1914, 42:410, Washington.
+
+Of especial interest to the aviator is the table on the next page
+which shows wind velocities increasing with elevation as determined by
+observations of the Avalon balloons.
+
+
+RECORD OF AVALON ASCENTS, JULY-AUGUST, 1913
+
+_Table showing Theodolite observations of wind velocities (meters per
+second) at elevations of 1,000 and 5,000 meters_
+
+  ======+=======+=======+=======+=======+=======+======+======+======+====
+        |Meters |Meters |Meters |Meters |Meters |Meters|Meters|Meters|
+        | per   | per   | per   | per   | per   | per  | per  | per  |
+  Meters|second |second |second |second |second |second|second|second|Mean
+        |5 p.m. |5 p.m. |10 a.m.|10 a.m.|10 a.m.|5 p.m.|4 p.m.|5 p.m.|
+        |July 24|July 27|July 31|Aug. 1 |Aug. 2 |Aug. 3|Aug. 7|Aug. 8|
+  ------+-------+-------+-------+-------+-------+------+------+------+----
+  1,000 |  2.5  |  1.0  |  5.6  |  6.6  |  2.3  |  5.8 |  7.1 |  1.9 | 4.1
+  1,500 |  6.2  |  0.8  |  6.2  |  8.1  |  3.3  |  5.0 |  6.4 |  1.5 | 4.7
+  2,000 |  8.0  |  1.2  |  5.8  |  7.0  |  4.1  |  4.5 |  6.5 |  6.0 | 5.4
+  2,500 | 10.0  |  1.8  | 10.8  |  5.7  |  5.2  |  4.2 |  4.7 |  3.6 | 5.8
+  3,000 | 12.0  |  2.3  |  9.4  |  6.1  |  7.2  |  5.2 |  3.5 |  4.1 | 6.2
+  3,500 | 12.8  |  2.5  |  8.0  |  6.7  |  7.4  |  6.1 |  4.6 |  4.6 | 6.6
+  4,000 | 13.6  |  3.8  | 11.2  |  7.4  |  9.2  |  5.2 |  6.4 |  3.2 | 7.5
+  4,500 | 14.3  |  5.2  | 14.6  |  8.5  | 11.2  |  1.8 |  7.8 |  3.0 | 8.3
+  5,000 | 21.2  |  6.2  | 12.8  | 10.3  | 10.4  |  2.3 |      |  3.4 | 9.5
+  ------+-------+-------+-------+-------+-------+------+------+------+----
+
+
+_Charts Showing Upper-air Weather Conditions._--It is believed that
+the following charts when examined in connection with the accompanying
+explanation in the text will give the reader something of an outline as
+to the conditions existing in the upper regions of the atmosphere.
+
+
+[Illustration: CHART NO. 1
+
+_Horizontal Projections of the Paths of the Sounding Balloons Liberated
+at Avalon, California, July 23 to August 10, 1913_
+
+    Reproduced from the _Monthly Weather Review_, 42: 423
+
+    This figure shows the horizontal projections as far as the
+    balloon was observed, not the entire distance traveled until it
+    landed.]
+
+
+[Illustration: CHART NO. 2
+
+_Vertical Temperature Gradient, Avalon, California, July 27, 1913_
+
+    Solid line represents the ascent of the recording apparatus,
+    the dotted line the descent. (Verticals 25° C. or 45° F.)
+
+Reproduced from the _Monthly Weather Review_, 42: 412]
+
+
+[Illustration: CHART NO. 3
+
+_Mean Vertical Temperature Gradient_
+
+    Figure reproduced from _Monthly Weather Review_, 42: 413.
+
+    Altitude values are in kilometers at the left, and in miles at
+    the right: Temperature values are in Centigrade at bottom, in
+    Fahrenheit at top.
+
+    Maximum airplane altitude 26,242 feet or 5 miles.]
+
+
+[Illustration: CHART NO. 4
+
+_Diagram Showing Increase of Wind with Elevation Data from Eight
+Meteorographs_
+
+    From the article “Free Air Data in Southern California,
+    July and August, 1913” by Dr. Wm. R. Blair, Professor of
+    Meteorology, in the _Monthly Weather Review_, for July, 1914,
+    it is learned that the wind shifts from west to east rather
+    abruptly at 16 to 20 km. (10 to 12 miles); below this level
+    down to about 5 km. (3 miles) it is quite uniformly from the
+    west. Extremes: Maximum wind velocity 21.2 miles, 5,000 meters
+    elevation, 5 P.M., July 24; minimum wind velocity 0.8 miles,
+    1,500 meters elevation, 5 P.M., July 27.
+
+    The table shows a steady increase in velocity of the wind
+    with elevation, the data being obtained from the eight
+    meteorographs. There were four morning flights (July 31, August
+    3, 7, 8) and five afternoon flights (July 24, 27, August 3, 7,
+    8, 1913), and elevations were computed for nine heights, 1,000
+    to 5,000 meters. Beyond the 5,000 meters the records show that
+    from 2 to 7 miles altitude the wind increases at approximately
+    the same rate that the density of the air decreases.]
+
+
+[Illustration: CHART NO. 5
+
+_Chart Showing Number of Flights and Duration in Hours for the Months
+of July to December, 1915, and January to August, 1916_
+
+    Prepared by the War Department, Signal Corps Aviation School,
+    San Diego, California, and furnished through the courtesy of
+    Col. W. A. Glassford, Signal Corps, U. S. Army, Commanding
+    Officer, September 14, 1916.]
+
+
+[Illustration: FIG. 1. CONGRESSIONAL MEDAL AWARDED WRIGHT BROTHERS
+
+(_Designed by Morgan_)
+
+    This medal was awarded Orville and Wilbur Wright by resolution
+    of Congress, March 4, 1909. Bronze replica in possession of the
+    writer.
+
+_Photographed May 31, 1916, by permission of the Director of the Mint,
+Philadelphia_]
+
+
+[Illustration: FIG. 2. ASCENT OF SOUNDING-BALLOONS AT AVALON
+
+_Photographed July 27, 1913_
+
+    This set was liberated from the base of the U. S. Weather
+    Bureau, Avalon, Catalina Island, California, at 4.57 P.M., July
+    27, 1913, and rose to a height of 23,870 meters in one hour and
+    three quarters when one of the balloons burst and the descent
+    began. This was observed by Carpenter at the theodolite.]
+
+
+[Illustration: FIG. 3. METROGRAPH WHICH MADE THE ASCENT OF JULY 27, 1913
+
+_Photographed August, 1913_
+
+    This meteorograph rose to a height of 23,870 meters (94,716
+    feet), at which height the pressure was 23 mm. (0.906 inches),
+    temperature -52.1 C (-58 F.), relative humidity 21 per cent,
+    wind E. (or more precisely S. 79 degrees E.), velocity 6.1
+    m.p.s. (14 miles per hour), but the minimum temperature was
+    registered at 15,228 meters (49,960 feet) when the thermometer
+    showed -64.7 C. (-85 F.), at which time the pressure was 89 mm.
+    (3.504 inches of the barometer), relative humidity 19 per cent,
+    wind N.W., 3.4 m.p.s. (8 miles per hour).
+
+    The basket was picked up at sea off Oceanside, San Diego
+    County, about 90 km. (145 miles) east of Avalon.
+
+    For the first 6 miles of ascension the balloon moved upward at
+    the rate of 8 miles per hour.]
+
+
+[Illustration: FIG. 4. FIRST FLIGHT OF AIRPLANE CARRYING TWO PERSONS
+
+_Photographed September 10, 1908_
+
+    This photograph was made at Fort Meyer, Virginia, of the
+    original Wright biplane, piloted by Mr. Orville Wright With
+    Colonel G. O. Squier, U. S. A., as first passenger.
+
+    When this photograph was made no fatalities in airplane
+    flight had occurred; the first victim, Lieutenant Selfridge,
+    U. S. A., was killed while riding with Mr. Wright in the same
+    biplane shown above, on the Tuesday following the Saturday this
+    photograph was made, the machine falling to the ground at a
+    spot which is practically the center of the picture, but near
+    the trees which are part of Arlington National Cemetery.]
+
+
+[Illustration: FIG. 5. MOUNT WILSON OBSERVATORY
+
+_Photographed December 24, 1915_
+
+    A special meteorological station of the Weather Bureau was
+    established on Mount Wilson, December 25, 1915, and on April
+    1, 1916, daily reports of temperature, weather, precipitation,
+    relative humidity, fog and other conditions were first
+    telegraphed to the local office of the Weather Bureau at Los
+    Angeles for publication and distribution.
+
+    The photograph shows the location of the meteorological
+    observatory(*) and the valleys below. From the elevation of
+    the observatory (6,000 feet above sea-level), it is possible
+    for the observer to determine the thickness and extent of fog
+    as it is feasible to see as far southwesterly as Point Loma
+    on a clear day, and southerly to Santa Catalina Island. Such
+    observations and reports have been made and forwarded without
+    interruption to date. They have proven of incalculable value to
+    the aviators making cross-country flights.
+
+    The station on Mount Wilson is maintained through the
+    coöperation of the Carnegie Institute of Washington.]
+
+
+[Illustration: FIG. 6. TYPE OF AIRPLANE USED IN 1911 ON NORTH ISLAND
+
+_Photographed October, 1911_
+
+    This photograph of Mr. Glenn Curtiss in his “pusher” airplane
+    was made shortly after the Curtiss School of Flying was
+    established in 1911, on North Island. At his right is Local
+    Forecaster Carpenter.
+
+    Comparison of this machine, which four years ago was the last
+    word in airplanes, with the tractor shown on the opposite page,
+    indicates the rapid progress in design.]
+
+
+[Illustration: FIG. 7. DISCUSSING A FLIGHT
+
+_Photographed October 18, 1915_
+
+    Aviation Instructor Oscar Brindley discussing a flight with
+    Captain Clarke, U. S. A., and other officers at the U. S.
+    Aviation School at San Diego.
+
+    Mr. Brindley is standing by the side of Captain Clarke in the
+    group at the right. After every flight the Instructor reviews,
+    point by point, the features of the flight, showing the pupil
+    his deficiencies and explaining how he may avoid them in the
+    future.
+
+    The officer at the left, Lieutenant Brown, has the regulation
+    leather leggings, coat and helmet, and is ready to go up as
+    soon as the mechanicians (who may be seen at the extreme left)
+    finish inspection and pronounce the airplane fit for the next
+    flight.]
+
+
+[Illustration: FIG. 8. CAPTAIN CULVER AND PARACHUTE
+
+_Photographed October 21, 1915_
+
+    Captain C. C. Culver, U. S. Cavalry, Adjutant, Aviation School,
+    with a parachute in his hand, having word with Captain L. W.
+    Patterson, U. S. A., before the latter’s flight. The object
+    of the parachute is to determine changing wind-direction at
+    different heights.
+
+    The airplane wireless record is now held by Captain Culver. In
+    October, 1916, he sent a message 119 miles from Santa Monica
+    to San Diego, California, while flying at an altitude of 1½
+    miles. He received a radio message from a distance of 11 miles
+    while flying 7,000 feet aloft. He is also the first military
+    aviator to rig up two airplanes so that they could exchange
+    messages while in flight. The radio set used weighed less than
+    forty-five pounds.]
+
+
+[Illustration: FIG. 9. LIEUTENANT GORRELL, U. S. INFANTRY, AS OBSERVER
+
+_Photographed October, 1915_
+
+    The noise of the motor, together with the terrific blast of
+    air, makes conversation impossible between the pilot and
+    observer; for that reason telephones are sometimes installed as
+    noted in this photograph.
+
+    Lieut. Edgar S. Gorrell is shown as the observer in this
+    photograph. He has since qualified as an aviator and made a
+    brilliant record in the Mexican activities in 1916.]
+
+
+[Illustration: FIG. 10. POINT LOMA FROM THE EASTERN SHORE OF NORTH
+ISLAND
+
+_Photographed October, 1915_
+
+    The peninsula of Point Loma rises to an elevation approximating
+    500 feet, and as it lies approximately north and south, it
+    interposes a considerable barrier to the prevailing westerly
+    winds. The eastern side of Point Loma is very precipitous.
+    These factors tend to produce winds called “woollies” which are
+    a distinct menace to all small boats and air-craft, unless the
+    air-craft have an elevation exceeding 3,000 feet on a normal
+    windy day.]
+
+
+[Illustration: FIG. 11. SAN DIEGO, ACROSS SPANISH BIGHT, AS SEEN FROM
+THE U. S. AVIATION SCHOOL AT TWILIGHT
+
+_Photographed October, 1915_
+
+    Contrasted with the photograph of Point Loma on the opposite
+    page, this picture shows the ideal water conditions for trying
+    out seaplanes. Shortly before this picture was taken, one of
+    the pilots of the Curtiss Aviation School, also on North Island
+    drove a big seaplane 100 miles per hour barely skimming the
+    surface of the water.]
+
+
+[Illustration: FIG. 12. INSTRUCTOR BRINDLEY AND METEOROLOGIST CARPENTER
+IN MILITARY TRACTOR NO. 50
+
+_Photographed October 20, 1915_
+
+    Instructor Oscar Brindley and the observer, Meteorologist Ford
+    A. Carpenter, U. S. Weather Bureau, leaving the ground for a
+    flight. In the military tractor used generally by the Army,
+    the observer sits forward while the pilot occupies the after
+    cockpit. This machine, like all others used in the military
+    service, has dual control.]
+
+
+[Illustration: FIG. 13. MILITARY TRACTOR NO. 50. TYPE OF BIPLANE USED
+IN U. S. ARMY SERVICE MADE BY GLENN MARTIN, LOS ANGELES, CAL.
+
+_Photographed October, 1915_
+
+  Motor, horsepower, 80: revolutions per minute, 1,277.
+  Diameter of propeller, 8 feet.
+  Load of 39 gallons gasoline, 2½ gallons oil.
+  Flying radius with normal equipment, two persons, 300 miles.
+  Maximum altitude obtained with this model at San Diego, 13,000 feet.
+  Wing-spread, tip to tip, upper, 38 feet, 10 inches; lower, 34 feet,
+      10 inches.
+  Supporting area, upper, 139 square feet; lower, 165 square feet;
+      total, 364 square feet.
+  Length of fuselage from rear of propeller hub, 21 feet, 6¾ inches.
+  Data from Major F. P. Lahm, Signal Corps, U. S. A.
+  Dated May 9, 1916.]
+
+
+[Illustration: FIG. 14. “TRIMMING” A TRACTOR IN LEAVING THE GROUND
+
+_Photographed October, 1915_
+
+    Military Tractor No. 50 just before leaving the ground. In
+    gusty weather the mechanicians steady the ends of the lower
+    planes, sometimes turning it by holding one edge and pushing
+    the other. In the photograph the mechanicians are giving the
+    airplane steerageway to the right.]
+
+
+[Illustration: FIG. 15. MILITARY TRACTOR NO. 50 JUST LEAVING THE GROUND
+
+_Photographed October, 1915_
+
+    Before attempting to leave the ground there is always
+    considerable jockeying for a favorable head-wind, and the
+    photograph shows Instructor Brindley maneuvering for a
+    favorable pointing.
+
+    After leaving the ground, the wind, so long as it is not gusty,
+    makes no difference to the pilot.]
+
+
+[Illustration: FIG. 16. SAN DIEGO HARBOR AT OVER 2,000 FEET ALTITUDE
+
+_Photographed October, 1915_
+
+    The new municipal wharves are in the middle foreground and to
+    their right may be seen the Santa Fé station. Part of North
+    Island is obscured by cloud.]
+
+
+[Illustration: FIG. 17. THIRTY-FIVE HUNDRED FEET ABOVE SAN DIEGO
+
+_Photographed October, 1915_
+
+    This photograph was made 1,000 feet above the clouds. The
+    wharves of San Diego and Coronado may be seen in the foreground
+    and in the middle distance.]
+
+
+[Illustration: FIG. 18. MILITARY TRACTOR NO. 50 AT 3,500 FEET ALTITUDE
+
+_Photographed October 20, 1915_
+
+    The airplane, in which the pilot, Oscar Brindley and the
+    observer, Meteorologist Carpenter, made their flight, was
+    photographed at the maximum elevation, 3,500 feet above the
+    aviation field.]
+
+
+[Illustration: FIG. 19. FLYING SQUAD’S WIND-DIRECTION PENNANT ON TOWER
+
+_Photographed October 5, 1915_
+
+    The regular observation tower from which all observations and
+    notes on every flight are made is just back of the headquarters
+    building. The station anemometer is on the tower, and the
+    portable anemometer is to the left.]
+
+
+[Illustration: FIG. 20. THE AVIATION SCHOOL MOTOR-BOAT “PRONTO”
+
+_Photographed October, 1915_
+
+    During the flying periods, the motor-boat of the U. S. Aviation
+    School is kept ready for instant service in order to work in
+    conjunction, if needs be, with the Medical Corps emergency
+    truck on land.
+
+    Such is the speed of this boat (exceeding 40 miles per hour)
+    that the water no longer has resiliency, and it is about as
+    comfortable as riding in an old-fashioned stone-boat over rocky
+    pastures.]
+
+
+[Illustration: FIG. 21. U. S. AVIATION FIELD AT THREE THOUSAND FEET
+ALTITUDE
+
+_Photographed October, 1915_
+
+    Part of Coronado and the portion of land called North Island,
+    separated by Spanish Bight. Point Loma may be seen at the
+    extreme upper right-hand corner of the photograph. The
+    flying-machine sheds, buildings of the Aviation School, etc.,
+    may be seen in the immediate foreground. The U. S. Cavalry camp
+    is the white splotch in the center foreground.]
+
+
+[Illustration: FIG. 22. REPAIR SHOP U. S. AVIATION SCHOOL, SAN DIEGO,
+CAL.
+
+_Photographed October, 1915_
+
+    In the repair shop of the U. S. Aviation School at North Island
+    the motors are given a gruelling test, being run twenty-four
+    consecutive hours at a speed greater than that given them in
+    actual practice. After this run they are taken down and each
+    part is spread out on a large drawing-table and is subjected to
+    close scrutiny so as to show any defect. Several airplanes as
+    well as seaplanes have been reconstructed in this shop.]
+
+
+
+
+      *      *      *      *      *      *
+
+
+
+
+Transcriber’s note:
+
+Punctuation and spelling were made consistent when a predominant
+preference was found in this book; otherwise they were not changed.
+
+Simple typographical errors were corrected.
+
+Ambiguous hyphens at the ends of lines were retained; occurrences of
+inconsistent hyphenation have not been changed.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE AVIATOR AND THE WEATHER BUREAU ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

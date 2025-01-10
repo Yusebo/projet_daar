@@ -1,0 +1,1438 @@
+﻿The Project Gutenberg eBook of The violin and the art of its construction: a treatise on the Stradivarius violin
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The violin and the art of its construction: a treatise on the Stradivarius violin
+
+Author: August Riechers
+
+Release date: July 20, 2022 [eBook #68575]
+                Most recently updated: October 18, 2024
+
+Language: English
+
+Original publication: Germany: Franz Wunder
+
+Credits: The Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE VIOLIN AND THE ART OF ITS CONSTRUCTION: A TREATISE ON THE STRADIVARIUS VIOLIN ***
+
+  THE VIOLIN
+
+  AND THE ART OF ITS CONSTRUCTION.
+
+  A Treatise on the Stradivarius Violin
+
+  by
+
+  AUGUST RIECHERS,
+
+  Bow and Violin Maker.
+
+  [Copyright of the German and English Editions.]
+
+  With four lithographed plates.
+
+
+  GOETTINGEN.
+  CARL SPIELMEYER’S NACHFOLGER.
+  FRANZ WUNDER.
+  1895.
+
+  Copyright entered at Stationers Hall, London.
+
+
+
+
+  To his highly revered Friend and Patron
+
+  DR. JOSEPH JOACHIM
+
+  this work is humbly dedicated
+
+  by
+
+  THE AUTHOR.
+
+
+
+
+PREFACE.
+
+
+The highly esteemed author of this treatise, a renowned violin maker
+and clever repairer, of old instruments, having been denied the
+pleasure of publishing the same himself, death intervening on January
+4th, 1893, his work on the violin and the art of its construction is
+now published, in accordance with his last wishes.
+
+This treatise will, no doubt, be all the more welcome to professionals
+and amateurs alike, as to my knowledge no such work has yet been
+published treating the subject in such an able and thorough manner.
+
+May, therefore, the valuable labours of the deceased author meet with
+that universal acknowledgment, which in a very high degree they deserve.
+
+  _Göttingen_, April 1895.
+
+  The Editor.
+
+
+
+
+Index.
+
+
+  Introduction                                                 Page 7
+
+  I. Of the Wood                                                 ” 10
+
+  II. Of the Construction                                        ” 11
+
+  III. The Ribs                                                  ” 12
+
+  IV. The Back and Edges                                         ” 12
+
+  V. The Belly                                                   ” 13
+
+  VI. The Arching                                                ” 13
+
+  VII. The Purfling                                              ” 14
+
+  VIII. Working-out the Thicknesses of the Belly and Back        ” 15
+
+  IX. The F-holes                                                ” 16
+
+  X. The Bass-bar                                                ” 16
+
+  XI. The Head or Neck                                           ” 18
+
+  XII. The Dimensions, Length of Neck and Body                   ” 18
+
+  XIII. The Finger-board and Nut                                 ” 21
+
+  XIV. The Position of the Neck                                  ” 21
+
+  XV. The Tail-piece                                             ” 22
+
+  XVI. The Pegs                                                  ” 24
+
+  XVII. The Bridge                                               ” 24
+
+  XVIII. The Sound-post                                          ” 25
+
+  XIX. The Strings                                               ” 27
+
+  XX. The Varnish                                                ” 28
+
+  XXI. The Cleaning and Care of the Violin                       ” 32
+
+  XXII. The Bow                                                  ” 32
+
+
+
+
+INTRODUCTION.
+
+
+In giving publicity to this treatise on the construction of the violin,
+I believe I am only meeting the wishes of many, both professionals and
+amateurs, who are desirous of learning more particulars concerning the
+construction of their instruments, but am also giving a few practical
+hints to my younger comrades in the art of violin-making. I hope also
+to induce some of my older colleagues to give forth other works of the
+same kind, which may serve to ennoble and promote our art.
+
+Times without number I have been asked by friends of the violin, during
+my 40 years’ work as a violin maker, to recommend books giving more
+exact information on the construction of that instrument, but the only
+answer that I have been able to give has been that German technical
+literature on the subject is very meagre, and that information from
+foreign works is mostly impoverished by feeble translations.
+
+Very few authors understand the general build of the violin thoroughly,
+they pay most attention to individual points, those most calculated
+to attract the attention of amateurs; for example, the proportions of
+single parts, their size, etc. There is only one work I can recommend
+which forms an exception to this rule and that is “The Memoirs of
+Antonio Bagatella” (Padua 1786) which has been published in a German
+translation by Franz Wunder at Göttingen.
+
+It contains not only rules for the construction of violins, violas,
+violincellos and basses, as well as distinct instructions for the
+restoration of the outline of the belly and back of these instruments,
+but also enters into particulars concerning the adjustment and
+renovation of the same.
+
+Just as the celebrated violin makers of the last century took the
+work of Amati as their model, I have found my master, to whom I, in
+common with all my colleagues, look up with admiration, recognising in
+him not only the gifted artist, but also the industrious workman and
+far-sighted observer--I mean Antonio Stradivarius. Even as a boy I was
+very fond of listening to the tales told me by my father, who was a
+musician in Hanover and as an autodidact occupied himself with violin
+work, tales in which he described to me the wonderful productions
+of the old Italian masters and more particularly those of Amati,
+Stradivarius, and Guarnerius. He regarded it as a great distinction
+shewn to him, and often referred to the fact, that he was allowed
+to open and repair the Guarnerius violin of Paganini. After a time,
+however, he altered his tone and cursed the Italian as well as his
+violin, for the great artist, although he praised my father’s work and
+expressed himself perfectly satisfied with it, objected to the payment
+of three Thalers for the repairs, considering it an exorbitant charge,
+and this, coupled with similar experiences at the hands of others, so
+incensed my father that he would not give his consent to my earnest
+wish to enter the violin factory; consequently I was apprenticed at the
+age of 13 years to a pianoforte manufacturer with whom I remained for
+two years, in spite of having shown aptitude in the other direction by
+constructing a violin with my own hands at the age of 12 years.
+
+Being released from my apprenticeship at the beginning of my fifteenth
+year, I wandered away to Markneukirchen, there to study violin-making
+under Hans Ficker; later on I was occupied for a longer period as
+assistant to Ludwig Bausch, senior, in Leipsic, to whom I owe a great
+deal, for he strengthened me in my love of the art and settled my
+belief in the unequalled excellence of Stradivarius. My admiration for
+this great master increased even more and more, and in my fifteenth
+year, when I began to work for myself in Hanover, I learned even
+more of his works and had the happiness to find that my reverence
+for him was shared by my friend and patron Dr. Joseph Joachim. Ten
+years later, the latter exchanged Hanover for Berlin, and as I was
+no longer contented in the former town after his departure in 1872,
+I gladly responded to a call from him to prosecute my work in the
+Prussian capital and to continue to study the works of Stradivarius,
+in order to handle them more worthily and to infuse his ideas into my
+own productions. I venture to hope that I have succeeded in the first
+part of my undertaking, for, a great number of instruments have passed
+through my hands in the course of years, including the incomparable
+violins belonging to Dr. Joachim. The second part of my task I do
+not consider accomplished. I am ever taking more and more trouble in
+working, in the hope of bringing my attempt nearer and nearer to the
+hitherto unattained excellence of Stradivarius. I therefore beg my
+readers to regard the following chapters with a favourable eye and
+to accept them in a friendly spirit as the result of long years of
+experience, the confirmation or rectification of which I shall accept
+with joy.
+
+
+
+
+I. OF THE WOOD.
+
+
+There can be no doubt whatever that a correct knowledge and choice of
+the wood for the construction of violins is of the utmost importance.
+Both these qualifications, however, can only be gained by experience,
+since that alone can prove which kind of wood is the most suitable and
+produces the best results.
+
+The back, the ribs, the neck, and the head should be of maple, and
+neither too hard, nor too soft, nor yet too deeply grained. In every
+case light wood should be selected, and I consider Hungarian maple the
+best for the purpose. For the belly, the so-called white fir or pine
+should be used, as both kinds of wood possess sufficient resonance, and
+are easily manipulated. These woods too must be as light as possible,
+and should have neither very narrow nor very broad, but regular and
+well-formed concentric circles. The Tyrol and the neighbouring cantons
+of Switzerland produce the best wood for this purpose. It is to be
+observed that the pieces used must be split and not cut.
+
+In my opinion, the much praised American pine is too soft and
+resinous, and neither do I consider the American maple qualified for
+the construction of violins. The wood used by myself is obtained from
+Schoenbach, near Eger, in Bohemia, where large supplies for the needs
+of instrument makers are always on hand to be selected from. The age
+of the wood I consider of only very small importance; if it has been
+laying by for five years, ready cut or split, as the case may be, for
+the construction of a violin, it will then be sufficiently dry and will
+need no further preparation. I have exactly ascertained the weight
+of wood which had been laid by for drying for five years, and then,
+having weighed it again at the end of twenty years, have found it had
+not become perceptibly lighter. All the violins made by me, some 1600
+instruments, have always weighed from 260 to 275 grammes, without the
+pegs, finger-board, and tail-piece, a weight which I have generally
+found to be that of the violins constructed by Stradivarius.
+
+
+
+
+II. OF THE CONSTRUCTION.
+
+
+For the space of thirty years I have worked upon the plan of
+Stradivarius solely, for I consider that his instruments and their
+proportions are the most perfect that can be found. Why, therefore,
+should I have taken any other as my model? I have repaired at least
+three hundred undoubtedly genuine violins constructed by this great
+master, besides having seen and handled many others, and consequently
+have had frequent opportunities of thoroughly studying his work, and of
+gauging and copying his most beautiful instruments. As the creations
+of this incomparable maker seem perfect in every detail, I have never
+attempted to make any additions of my own, but have strictly adhered to
+specimens produced by him in his prime (1700 to 1720) as my models, and
+have found that they differ but very slightly from one another. In Fig.
+1., I have given the outlines of a violin of this period (1713) with
+the blocks.
+
+
+
+
+III. THE RIBS (Fig. 1. a).
+
+
+The ribs should be 1¹⁄₂ m/m. thick, and very neatly and evenly planed;
+the height should be about 30 m/m. at first. The ribs are curved to
+their correct form by means of a hot bending iron, or still better by
+a copper clew, and then glued to the blocks. After this, the ribs next
+to the back are to be made true to receive the linings. The latter must
+be 8 m/m. high, 2¹⁄₂ m/m. thick, and must be made of lime-wood. The
+middle linings are to be let into the blocks, so that they cannot break
+loose. The blocks must also be made of lime-wood. The edges of the ribs
+and the surface of the rim, before being glued on to the prepared back,
+must again be very carefully adjusted, so that they appear like one
+even surface. This being done, the superfluous wood of the blocks must
+be cut away to the shape of the mould (_see_ Fig. 5). The ribs from the
+bottom block to the side blocks are then regulated to a height of about
+30 m/m., and from the side blocks to the top block (Fig. 3) they are
+gradually decreased by 2¹⁄₂ m/m., that is, until 27¹⁄₂ m/m. is reached.
+This diminution in the height is most practically thought out and
+executed by Stradivarius, the belly obtaining thereby a tension which
+offers the necessary resistance to the neck. The upper linings must be
+adjusted to the ribs in the same way, and as a matter of course, they
+must be curved to the shape of the ribs. The superfluous wood of the
+blocks being cut away, the mould is removed.
+
+
+
+
+IV. THE BACK AND EDGES.
+
+
+It is not of importance whether the back be made in one or two pieces;
+nevertheless, Stradivarius seems to have given the preference to a
+divided back. I also consider it more advantageous, as, being joined,
+it offers greater resistance, and is not so easily pressed outwards on
+the sound-post side, as is the case with violins having the back cut in
+one piece. The edges of the mid-rib and corners should be 4 m/m. thick,
+whereas the upper and lower edges of the back (Fig. 1 ee/ee), gradually
+decreasing from the corners, become 1 m/m. thinner.
+
+
+
+
+V. THE BELLY.
+
+
+The belly must be composed of two parts, and has to be joined together
+so exactly that the narrow year-rings are in the middle of the same;
+the outer ring which should not be more than 2 m/m. broad and very
+equally disposed, may run towards the edges. The edges must be of the
+same thickness as those of the back.
+
+
+
+
+VI. THE ARCHING.
+
+
+It does not seem to me probable that Stradivarius acted without
+mature deliberation in making the arch of the back and belly, taken
+together, of the same height as the ribs, viz.: 30 m/m.; of course,
+I am speaking now of the violins made during his prime. If the back
+and belly are placed one upon the other, the height will amount to 30
+m/m., the entire external diameter, therefore, must be 60 m/m., since
+the ribs, as already stated, have a height of 30 m/m. I am certainly
+of the opinion, that Stradivarius substantiated these proportions
+by experiments. There are, however, exceptions; the greatest of the
+deviations from this rule which has come under my notice, consisted in
+the middle line measuring 70 m/m., reckoning from the upper edge of the
+belly to the lower edge of the back. No doubt, this violin, made in
+1710, was an experiment, the average measurement being considered to
+be from 58 to 62 m/m. Now and again, Stradivarius made the arch lower,
+whether intentionally or from want of wood, I am not in a position to
+say. In this case he makes the ribs correspondingly higher, so that
+the above-mentioned measurement may still be 60 m/m. Stradivarius has
+also occasionally made the arch of the back less than 15 m/m., and by
+way of compensation, in this case, has increased the arch of the belly.
+I am of opinion, however, that these deviations are to be ascribed
+more to experiment than to accident. He never trusted to chance in
+his work, but in the most careful way reflected upon it and took into
+consideration all circumstances in connection with it. The arch given
+as an example in Fig. 6, is taken from a Stradivarius violin of the
+year 1713, and as the belly and back are both of equal height, viz.: 15
+m/m., the entire height amounts to 60 m/m.
+
+
+
+
+VII. THE PURFLING.
+
+
+The purfling is always placed 4 m/m. from the edge and is 1¹⁄₂ m/m.
+wide. It consists of three parts, the two outermost of which are
+prepared from maple and stained black, while the middle part is made of
+the same kind of wood, but unstained. It is of the utmost importance
+that the purfling should only be inserted to the depth of one-third
+of the thickness of the edges, otherwise the edge will very easily
+break off. In the work of Stradivarius, one finds continually on the
+back, both above and below, a peg of maple-wood, by means of which he
+fastened the back to the block, and the half of this peg is inserted
+in the purfling. In violins having a divided back, one finds another
+purfling on the bottom block, along the joint of the ribs, but with
+backs made in one piece it scarcely ever occurs, because then the under
+ribs, as far as the middle rib, are prepared in one piece. The purfling
+is not to be regarded as an embellishment, as many suppose it is. It
+considerably strengthens the back and the belly towards the edges, and
+at the same time offers a protection, especially for the belly, against
+cracks, if the instrument, for example, should be opened for repairs
+by an inexperienced workman. I will even go so far as to assert that
+if the purfling were not employed, old violins could not exist without
+numberless cracks, for any violent blow would cause cracks, without
+the additional strength given by the purfling, and the greater number
+of old and costly violins would come down to us spoilt, or at least
+damaged.
+
+The purfling also has this advantage that if perchance the edges get
+broken off, they can easily be replaced and the good appearance of the
+instrument restored without much trouble.
+
+
+
+
+VIII. WORKING-OUT THE THICKNESSES OF THE BELLY AND BACK.
+
+
+The thickness of the breast in the back amounts to 4 m/m. at the spot
+where the sound-post stands and remains the same to a distance of 50
+m/m. towards the bottom block, and 60 m/m. towards the upper block,
+while it decreases to 3 m/m. towards the middle rib. The cheeks must
+be 1 to 2 m/m. thick. I have assured myself by numberless measurements
+that Stradivarius often changed the thickness of the back; and has even
+gone so far as to make it 6 m/m., while the belly which he made from
+the soundest and most perfect wood, with very evenly disposed grain,
+measured always exactly 2¹⁄₂ m/m.
+
+
+
+
+IX. THE F-HOLES.
+
+
+A well-formed and proportioned F has a great deal to do with enhancing
+the appearance of a violin. The F represented in Fig. 7 is a most
+perfect specimen of what it should be. Anyone wishing to cut the
+F-holes in the belly, should take Fig. 7 and place it in such a way
+that the line a/a be exactly 195 m/m. from the outer and upper edge,
+and _b b_ almost upon the point of the belly. This will give the right
+position of the F-holes and at the same time the measurement of the
+body. The greatest width of the opening of the F-holes must be 6 m/m.
+The width of the breast between the two upper excisions must never be
+narrower than the width of the bridge. In the accompanying illustration
+these are very wide apart and might without disadvantage be placed 2
+m/m. nearer together. On violins where this distance of the F-holes
+is less than 40 m/m., either a narrower bridge must be used or the
+bass-bar must be cut out a little, so that the latter may lie close
+on to the upper F-hole. The lower lobes of the F-holes are always
+slanted outwards by Stradivarius, thus presenting a more symmetrical
+appearance. Both incisions are small, but clearly cut.
+
+
+
+
+X. THE BASS-BAR.
+
+
+After the F-holes have been cut out, the bass-bar can be fixed. It is
+made of pine and should be prepared in such a way that the year-rings
+lie perpendicularly to the belly. The height of the bass-bar under the
+bridge is 10 m/m. and at the two ends 4 m/m. The bass-bar must be 6
+m/m. thick in the middle, decreasing in thickness by 1 m/m. towards
+the ends. The length should be 280 m/m. The bass-bar must be glued
+on so that it lies 35 m/m. from the bottom edge and 40 m/m. from the
+upper one. In order to determine exactly the position of the beam,
+the width of the bridge should be precisely marked as 40 m/m. on the
+inside of the belly and the bass-bar should then be placed to coincide
+exactly with the G-foot of the bridge, giving it at the same time such
+a slanting position as to bring its upper end within 4 or 6 m/m. of the
+middle line of the belly, while its lower end should, on the contrary,
+be purposely placed farther away from it. (_See_ illustration).
+
+In order that the bass-bar may obtain the right tension, the side of
+it lying next the belly must be slightly curved, sufficiently so for
+both ends, before they are glued, to stand away about 2 m/m. In the
+process of glueing, the ends must be firmly pressed down. The height
+of the bass-bar under the bridge should be 8 m/m., while at the ends
+the measurement should amount to 4 m/m. It is scarcely necessary to
+remark that the proportions of the bass-bar vary in different violins,
+according as they are smaller or larger, high or flat, strong or weak.
+A few examples are given here. In a violin of the ordinary type, no
+matter whether it be large or small, the proportions will be found to
+coincide with the above statement, while a highly arched violin has
+a less slanting and less tightened beam than the latter. In the case
+of wood of a thickness less than 1¹⁄₂ m/m., the beam should be 1 to 2
+m/m. more towards the interior, and also be placed from 3 to 5 m/m.
+more slanting, and must in that case also be from 1 to 2 m/m. thicker.
+A bass-bar under strong tension gives a sharp and clear tone, while
+one of less tension gives a fuller and softer one. With bass-bars of
+the height of 12 and even 15 m/m. (so-called acoustic bass-bars), it
+is not possible to achieve any success. The fixing of the bass-bar
+completes the interior construction of the violin, and consequently the
+glueing-on of the belly can now be proceeded with.
+
+
+
+
+XI. THE HEAD OR NECK.
+
+
+In Fig. 8 we have a very beautiful model, representing as it does a
+perfect specimen of Stradivarius. Its form can be obtained by exactly
+copying the external outline and the measurements I-XV. The inner
+curve of the head must be worked out as shewn in Fig. 8 _b_. The back
+at the head (Fig. 8 _c_) should be 4 m/m. thick on the upper side and
+gradually increase by 3 m/m. towards the under side, so that at this
+point it reaches a thickness of 7 m/m. The peg-holes must be placed
+exactly as shewn in the model. If they have short heads, they can be
+placed a few millimetres nearer together from A to G without destroying
+the appearance of the instrument. The wood for the head and neck must
+always be so chosen that the grain and surface lie horizontally.
+
+
+
+
+XII. THE DIMENSIONS, LENGTH OF NECK AND BODY.
+
+
+None of the old violin makers have attached more importance to the
+right position of the F-holes than Stradivarius; hence we gather that
+he fully recognised the importance of the dimensions of the body, and
+in his violins we always find that the same measurement is retained
+between the interior incision of the F-holes and the upper edge. We
+shall see later on the great advantages that would accrue to the
+musician, if all violin makers would observe the same rules in the
+adjustment of the dimensions. I repeatedly have cut off the necks
+of hundreds of violins, and by correcting the proportions have made
+the possessors of them entirely contented. How many a student has
+drudged on through life with a badly proportioned instrument, and in
+consequence has never succeeded in obtaining that certainty on his
+instrument after which he has diligently striven. We must now, however,
+enter rather more into particulars.
+
+I hope that what is to follow, may enable everyone to judge and prove
+for himself, whether his violin has the correct dimensions or not. We
+will adhere to the measurement accepted by Stradivarius (_see_ Fig. 1
+_a a a_), which is exactly 195 m/m. from the upper edge to the incision
+of the F-hole, and call it the normal measurement. From this we learn
+that the length of the neck, that is to say, the distance from the
+lower edge of the nut (the point where the finger-board begins) to the
+upper edge of the belly (_b b_) should be exactly 130 m/m., and the
+whole length of the body should bear the same proportion to the length
+of the neck, as 195 m/m. bears to 130 m/m., or to put it still more
+plainly, if we take the total of the two lengths, namely 325 m/m., and
+divide it by five, the length of the body should be equal to three
+of these parts and that of the neck to two of them. Should a violin
+have a longer or shorter body measure than that given above, the neck
+must still be in proportion with it of two to three, that is to say,
+if the whole measure be divided into five parts, two of such parts
+will give the length of the neck. By these means, correct dimensions
+will be obtained, and a performer will easily accustom himself to the
+proportionate position of the neck, and forthwith obtain certainty of
+execution. If only the proportion of the neck to the body be correct,
+a performer will scarcely notice, whether the whole measure from the
+bridge to the upper nut is 5 to 10 m/m. longer or shorter. Great care
+must be taken in placing the upper end of the finger-board; it should
+be placed exactly at right angles with the under curve of the head
+(_a_), a point which is often paid very little attention to, and yet is
+one which is of the utmost importance. For instance, if the upper nut
+be placed too far beyond the angle (_a_), the hand must of necessity
+be stretched backwards in an uncomfortable position, or the fingers
+will fall too high upon the strings. On the other hand, if the nut be
+placed too low, the hand has no certain position upon the curve of the
+neck, and consequently will play flat in the first position and sharp
+in the third. It has often been said to me by musicians, and especially
+amateurs, that their violins played sharp in the first position and
+flat in the higher ones, and the contrary also has often come under my
+notice. The sole cause of these imperfections is the disproportionate
+relation in the length of the body and the neck, for whatever may be
+the distance between the bridge and the nut, whether long or short, the
+position of the different tones themselves is exactly determined by
+the laws of acoustics, and always remains in the same relation to the
+vibrating string.
+
+I have given in Fig. 12 the exact position of the tones on the
+A-string, according to the normal measurement of 325 m/m. given above.
+The first tone played (B flat) is always exactly the eighteenth part of
+the whole length of the string from the nut to the bridge; the second
+tone is the eighteenth part from the first tone, and so on. If the
+finger-board is 268 m/m. long, the high E on the A-string will coincide
+with the lower end of the same. The above-mentioned imperfection is
+also caused by the neck being either too long or too short; in the
+first case a performer would play too sharp in the third position, and
+too flat in the second; in the higher positions also, he would have
+difficulty in finding the correct place for the fingers.
+
+
+
+
+XIII. THE FINGER-BOARD AND NUT.
+
+
+Both these portions of the instrument must be made of ebony (Fig. 12).
+Before the finger-board is glued, the surfaces to be joined must be
+made particularly smooth. The length is 268 m/m. in an instrument of
+normal size, and in those which are longer and shorter, the necessary
+proportion is easily determined. The width of the upper end, near the
+nut, is 24 m/m., while at the lower end it measures 45 m/m.
+
+The curve at the nut should be the same as the curve of the bridge, the
+thickness being from 4 to 5 m/m. Whilst the centre of the finger-board
+should form a straight line lengthways, it must be hollowed out under
+the E-string equally to the depth of 1 m/m., and under the G-string to
+1¹⁄₂ m/m., in order to prevent the jarring and rattling of the strings.
+The thickness of the nut must be 5 m/m. on the under side and 4 m/m. on
+the upper. The distance between the two outer string-grooves must be
+from 16 to 18 m/m. The strings lie at the nut (_a_) in the case of E,
+A, and D-strings at a distance of ¹⁄₂ m/m. from the finger-board, the
+G-string 1 m/m. The thickness of the neck, including the finger-board,
+is 18 m/m. at the upper curve (Fig. 8_b_ I.) for a hand of ordinary
+size, and 24 m/m. at the lower curve (Fig. 8_b_ II); but this thickness
+can be altered according to the wish of the performer.
+
+
+
+
+XIV. THE POSITION OF THE NECK.
+
+
+The neck of the violin must be regulated according to the width of
+the finger-board. It must be cut about 7 m/m. longer than the length
+required, when in position, in order to allow for its insertion in the
+block; the entire length of the neck from the nut to the end should
+measure 135 m/m. When this has been duly arranged, the neck can be
+fitted into the block. The small semi-circular elongation of the back
+of the violin, in common with the upper block, serves principally to
+support the neck and keep it in position, at the same time giving the
+performer a correct hold.
+
+The finger-board having been glued to the neck, it is of the utmost
+importance that the latter should be fitted in very carefully, so that
+it protrude 5 m/m. from the belly (Fig. 8_e_).
+
+If the gauge be placed on the centre of the finger-board in the line
+_a a_ (Fig. I and II), the end _a_ (Fig. 9, third plate) should fall
+exactly on the line of connection between the innermost excisions of
+the F-holes, having its centre under the place where the bridge stands,
+so that the finger-board may exactly coincide with the measure.
+
+This arrangement gives us not only the correct position of the
+finger-board, but also, as we shall see later on, the right height of
+the bridge, 35 m/m., and also the suitable position of the strings
+according to their height. The measurement marked upon the gauge (Fig.
+9), viz.: from _a_ (beginning of the nut) as far as the upper edge
+of the belly _b_ (end of the neck) and thence to _a_ (place of the
+bridge) must be in such proportion to one another as to give the violin
+practical dimensions and height of bridge.
+
+
+
+
+XV. THE TAIL-PIECE (Fig. 11).
+
+
+This part of the instrument exercises a great influence on the tone,
+although the fact is doubted by a great many performers. I will
+endeavour to briefly demonstrate my idea upon the subject. In the
+first place, I would remark in reference to the shape and size of the
+tail-piece that the upper curve must resemble the curve of the bridge.
+
+The semi-circular ridge at the upper end is called the saddle and
+must project about 1 m/m. The upper and movable end of the tail-piece
+is not arranged at right angles with the middle line of the same,
+but inclines about 1¹⁄₂ m/m. towards the G-string. This is done in
+order to balance, so to speak, the crooked position of the tail-piece
+which has been occasioned by the greater tension of the E-string in
+comparison with the G-string, and also to keep the upper edge of the
+tail-piece parallel with the upper edge of the bridge, which is very
+necessary to the elegant appearance of the lower portion of the violin.
+The space between the incisions for G and E-strings should be 30 m/m.
+The length of the strings below the bridge from the upper edge of the
+same to the saddle on the tail-piece should be 55 m/m., and then the
+A-string behind the bridge will give the high E. If the proportion of
+the tail-piece to the bridge be changed, that is to say, lengthened or
+shortened by the use of a larger or smaller tail-piece with the same
+length of the tail-piece fastener, the tension of the strings also
+becomes altered, and the tone and vibrations are thereby affected.
+
+If, for instance, the tail-piece is so constructed that the portion of
+the A-string behind the bridge gives F, the other strings must also be
+correspondingly slackened, for the tension of a string reaches not only
+from the bridge to the nut as many suppose, but from the tail-piece
+to the peg. In consequence of this, the pressure of the strings on
+the instrument can be increased or lessened by means of a longer or
+shorter tail-piece, whereby the tone is correspondingly modified.
+The gut for the tail-piece should be from 1¹⁄₂ to 2 m/m. thick.
+The before-mentioned variations of tone can also be obtained by the
+lengthening or shortening of the gut of the tail-piece.
+
+The rest, over which the gut passes, must be made of ebony and be 40
+m/m. long by 5 m/m. wide, and must rise 3 m/m. from the belly. The
+button, round which the gut passes, must also be made of ebony, and has
+to be inserted into the centre of the lower block.
+
+
+
+
+XVI. THE PEGS.
+
+
+These are generally made of ebony, and care must be taken that they are
+inserted exactly in the places marked in Fig. 8. The distance of the
+pegs from the upper edge of the outer side of the violin head should
+not be more than 10 m/m. The holes in the pegs, through which the
+strings pass, should be 2 m/m. from the inside of the head. The outer
+ends of the pegs should be level with the sides of the head and be
+slightly rounded off.
+
+
+
+
+XVII. THE BRIDGE (Fig. 10).
+
+
+The bridge is made of maple and should be 40 m/m. wide and 35 m/m.
+high, at the bottom it should be 4 m/m. thick, on the top 1¹⁄₂ m/m. The
+width of the feet is not to exceed 9¹⁄₂ m/m. (Fig. 10 _a_).
+
+The feet must be fitted exactly to the belly and towards the back
+should be sloped sufficiently, so that on the lower side of the bridge
+they form an exact right-angle with the centre line of the belly.
+
+It is advisable to powder the feet a little with chalk to prevent the
+bridge from being so easily displaced as would otherwise be the case.
+
+The feet of the bridge should stand exactly on the line of connection
+between the notches of the F-holes (Fig. 7 _a a_) and at an equal
+distance from them on either side. The notches on the bridge for the E
+and G-strings are to be 34 m/m. apart.
+
+The lower end of the E-string should not be more than 4 m/m. from the
+finger-board at the very most, that of the G-string about 6 m/m., but
+never more. The height of the strings is, however, very often adjusted
+to the wish of the performer. Herr Joachim, the great violinist, always
+adopts the above measurements on his violins.
+
+A highly arched violin does not require so high a bridge as a flatter
+one, whilst an instrument with a thin belly needs a thicker bridge
+than one of stronger make. These proportions must be carried out very
+precisely, as well as the measurements with regard to the hardness or
+softness of the wood and the strength or weakness of the bridge.
+
+If the bridge be thick below and thin above, the tone will be clearer
+than it would be if these conditions were reversed. If the heart in the
+bridge be cut rather small and high up, the tone is rendered harder,
+a large heart cut in the surface of the bridge will make the tone
+fuller. The use of hard wood for the belly necessitates soft wood for
+the bridge, and loosely grained and soft wood needs a hard wood for the
+latter.
+
+
+
+
+XVIII. THE SOUND-POST.
+
+
+The sound-post must be made of pine; in a violin with a belly of normal
+thickness its diameter should be 6 m/m. and show by its year-rings an
+age from 10 to 12 years. With a thicker belly it should be made about
+1 m/m. less in diameter. It must also be shaped so that both ends
+exactly fit the arch of the violin. When the sound-post has been placed
+in position, its year-rings should be at right angles with those of the
+belly, and furthermore, it should be of such a height as to raise the
+belly ¹⁄₂ m/m.
+
+The sound-post must be placed upon the belly under the outer edge of
+the E-string foot of the bridge, but it should rest upon the back from
+2 to 4 m/m. nearer the centre. In its normal position the sound-post
+must be placed nearer to the tail-piece than the bridge by about 2¹⁄₂
+m/m., that is to say, by about the thickness of the belly.
+
+If one wishes to procure any other tone than that obtained by the
+above-mentioned position, the latter should not be altered, at most,
+by more than 1 to 2 m/m. A sound-post only ¹⁄₂ m/m. longer, renders
+the tone sharper and thinner, while if it be approached nearer the
+bridge, the tone becomes clearer and more acute. If the sound-post be
+moved more towards the centre of the instrument, the G-string sounds
+clearer and firmer, but the E-string on the other hand grows slacker
+and softer; if the sound-post be moved from its normal position about 1
+m/m. further below the bridge, the tone will be softer, but at the same
+time more muffled.
+
+I should like to warn very strongly all performers, whether
+professionals or amateurs, against attempting to alter the position of
+either the sound-post or the bridge themselves, for such attempts will
+in most cases be endless, and very seldom lead to the desired end. I
+could adduce proofs of this in many cases, but I will give only one
+here by way of example. The celebrated violinist Ole Bull who, after
+the loss of all his property in America in the year 1860, took up his
+residence with me in Hanover, could not play for an hour together,
+without experimenting with his violin, it having become a perfect
+passion with him to be always altering the position of the bridge and
+the sound-post. Indeed, these experiments often lasted until quite a
+short time before the beginning of a concert, and usually ended with
+a malediction on himself and his otherwise precious “Josephi” (Joseph
+Guarnerius del Gesù).
+
+Still, I must confess that I learned a great deal from his many
+researches by dint of observation. When Ole Bull was playing at the
+Theatre in Hanover in cold weather, he always breathed a few times into
+the F-holes of his violin before the curtain rose, in order to warm the
+air in the interior of the instrument, as he was of opinion that in
+consequence the violin spoke better. He may have been right. He also
+carried E-strings in his waist-coat pocket during wet weather, because
+he maintained, and perhaps justly, that they then lasted better.
+
+
+
+
+XIX. THE STRINGS.
+
+
+It is very difficult to decide on the quality of the strings; their
+being light or dark-coloured has no influence on their durability. The
+natural colour of the strings is dark, those of a lighter shade having
+been sulphured to render them so. The Italian strings are at present
+unrivalled, but care should be taken that they do not feel too hard.
+The choice of strings according to their thickness really depends on
+personal preference, but as a rule those only of medium size should be
+chosen, which according to the French measurement of strings would be
+14 degrees for the G-string, 23 for the D-string, 14 for the A-string
+and 12 for the E-string.
+
+The larger the violin is, the weaker should be the strings. The notion
+that a half-sized violin should be thin-stringed, is quite erroneous,
+it should, on the contrary, have strings as strong as a full-sized
+violin, for owing to the shorter length, the strings, if they be a
+weak set, become too loose and do not give a true sound, and offer
+insufficient resistance under the pressure of the bow.
+
+
+
+
+XX. THE VARNISH.
+
+
+There has been for many years a warm and to a certain extent undecided
+discussion going on, as to whether the varnishes used by Italian
+violin makers were oily and slow-drying ones or spirit varnishes. To
+investigate this matter still further, and to arrive at a correct
+decision, will have to be left to the future.
+
+I am, however, of the opinion that the old masters made use of spirit
+or turpentine-oil until the middle of last century, but never of
+linseed-oil or turpentine-oil varnish, as has been often asserted.
+
+My opinion is supported by the following fact. In the year 1860 I had
+the good fortune to buy a real Nicolas Amati lute which, although very
+much knocked about, still retained a thick varnish of a most beautiful
+gold colour. For my information I took the varnish off, in order to
+submit it to the analysis of a clever chemist who, being a talented
+amateur violinist and also a pupil of Spohr, showed great interest in
+the matter and communicated to me, as the result of his investigations,
+this fact that among the quantity of varnish which I had placed at
+his command, there was not a trace of evidence which could lead to
+the conclusion that linseed-oil varnish had been employed. In my own
+researches I found that the varnish was immediately dissolved in spirit
+of only 90 per cent., while in oil of turpentine and linseed-oil it was
+scarcely affected, and by boiling only a small portion was removed.
+Again, it is not probable that Stradivarius, in whose workshops about
+3000 violins were constructed, would have employed linseed-oil varnish,
+seeing that it would have required, in each case, six months for the
+violin to get thoroughly dry.
+
+There are many resins which can be dissolved in spirit or oil of
+turpentine and used as a varnish, but the preference is generally
+given to spirit-varnish, as it dries more quickly. If the spirit or
+turpentine-oil has evaporated, only the resin remains.
+
+The greatest attention must be paid to the relative hardness of the
+resin and the wood, for both should be of equal density. Hard resin
+hinders the vibration of the wood, and consequently the quality of tone
+suffers.
+
+In my opinion shellac is quite useless for varnishing, it being much
+too hard, but nevertheless it has been employed from 1770 until the
+present day, in spite of the fact that the best Italian instrument
+might be completely ruined by being varnished with it. In all
+Italian instruments the old varnish is always very porous and soft,
+and can easily be dissolved by the application of spirit, while,
+on the contrary, it requires great labour to effect the same with
+turpentine-oil.
+
+Many people affirm that the art of mixing the old Italian varnish which
+so charms us with its brilliancy and transparency, is no longer known,
+in fact that it is for ever lost. I am, however, of a different opinion
+and maintain that our modern varnishes are quite equal to the old, but
+what we have until now been unable to produce scientifically, is the
+golden-brown underground which the wood of older violins has acquired
+through age and other influences. The proof of this I have practically
+demonstrated by varnishing old instruments with new varnish, in
+imitation, with such success as to arouse the wonder of connoisseurs,
+the varnish being quite as transparent and brilliant-coloured as that
+used for violins in the last century.
+
+To one other point I should like to call the attention of the reader.
+In repairing old instruments of the time of Stradivarius, I have found
+that an extraordinary cleanliness and lustre is obtained by rubbing
+them with fine glass-paper, which is not the case with Tyrolean and
+German violins of the same period. At a later period this peculiarity
+was not met with so frequently and from the year 1750 not at all.
+This fact I primarily attribute to the action of the resin on the
+wood, being also of opinion that the fine dust of the same gets firmly
+embedded in the pores of the wood, and in this way, in course of time,
+a more or less thick coating is formed.
+
+For one of these practical experiments I took a violin which I had
+made myself and the tone of which, through years of constant use,
+was therefore quite familiar to me, and gave it a coating of melted
+resin on the inside. After this was thoroughly dry and hardened, I
+polished the interior and remarked the before-mentioned smoothness
+and brilliancy, the obtaining of which firmly convinced me that I had
+discovered the truth of the matter. Although, after the glueing-on of
+the belly, all the former conditions of the violin remained unchanged,
+yet I was astonished to find what a common-place squeaking tone the
+instrument had acquired, thus proving to me that with the melted resin
+I had obtained in the end exactly the opposite effect to that which
+I had hoped for. I was obliged to rest contented with my failure for
+a long time, when a lucky chance came to my help. It was this. I
+received a real Caspar da Salo violoncello to repair, which had never
+been opened and seemed to have been very little played upon, for on it
+I found an old bridge which I kept as an ornament and curiosity, and
+which, on closer examination, I found was varnished.
+
+When I opened the cello, it was proved without a doubt that the
+interior had also received a coating, probably to protect it from dust,
+etc. The celebrated old violin makers, in so doing, have pursued the
+right course. This discovery also corroborated my own supposition,
+that the old masters varnished both the interior and bridge of the
+instruments they made.
+
+Now, in order to obtain a ground-priming, I paint the violin, when
+the wood of which it is constructed is in its natural state, three
+times with pyroligneous acid, with which a golden-brown underground
+is obtained, then follows a single coating of spirit and balsam of
+Peru in equal proportions, and after this one or two coats of a weak
+solution of gamboge or anotta, and finally, over all this I lay on 20
+or 30 coats of varnish, according to the thickness required, and which
+I prepare as follows:--
+
+Dissolve three parts of sandarac and one of mastic in spirit, and in
+order that it may be laid on more easily, add to each half a litre[1]
+of varnish, ten drops of oil of turpentine. The colouring of the
+varnish I obtain from turmeric and bright red sandal-wood by means
+of spirit, using more or less of it, according as to the lighter or
+darker tone required; if a brown varnish is required, some soot from
+turpentine-oil must be added to the spirit.
+
+I have made innumerable experiments with other resins and colouring
+matters, but in the end I always return to those mentioned above as the
+best to be used. Dragon’s-blood must not be employed, the colour not
+being fast.
+
+When the varnish is dry, it must be very carefully polished with finely
+powdered pumice-stone and linseed-oil, applied with a piece of felt.
+
+[1] Half a litre is very little less than a pint.
+
+
+
+
+XXI. THE CLEANING AND CARE OF THE VIOLIN.
+
+
+The instrument must always be kept thoroughly clean and after use
+should be carefully wiped with a silken duster. If any dirt should
+adhere to it in spite of this precaution, it can be easily removed by
+gently rubbing it with a piece of linen, moistened with water, and
+afterwards wiping it over with oil of turpentine. The resin which
+accumulates on the finger-board and strings can in case of necessity be
+removed by the application of a little spirit, or better still, by that
+of Eau de Cologne, but great care must be taken in the application, so
+that the spirit does not touch the varnish of the belly. Spirit will
+also clean the strings and remove from them the effect of perspiration;
+the bridge may also be cleaned with it from time to time, but as stated
+before, it must be done cautiously, especially in the case of old and
+valuable instruments of the time of Stradivarius. The more recently
+constructed violins are mostly varnished with shellac, and consequently
+are not at all or, at most, very little affected by the application of
+spirit.
+
+The interior of a violin should also sometimes be cleaned; this can be
+done by putting through the F-holes two or three handsfull of coarse
+kitchen salt; these should then be covered with a cloth and the salt
+well shaken about, as it will thus collect all the dust, resin and
+other dirt which may be in the violin, and when shaken out will carry
+all these impurities with it. The strings need not be taken off in
+order to effect this.
+
+
+
+
+XXII. THE BOW.
+
+
+The rank of François Tourte among violin-bow makers is as prominent a
+one as that of Stradivarius among violin makers. Each has supplemented
+the other. Tourte died in Paris in the year 1835 at the age of 88,
+after a life of usefulness almost as long as that of Stradivarius. He
+brought the making of bows for stringed instruments to such perfection,
+that those bow makers who have succeeded him, have never deviated very
+far from the models he left.
+
+I shall here make a few observations on the characteristics of real
+Tourte bows which have crossed my path.
+
+The quality, as well as money value, of a bow seems entirely to depend
+upon its shape, whether the stick is round or angular. The whole length
+of the bow from the point to the end of the nut should be 73 to 74
+centimetres. The length of the hair from the lower part of the head to
+the nut should measure 63 to 64 centimetres; the height of the head,
+including the stick and little plate, should be 23 m/m.; the height of
+the nut with the stem to the outer ring where the hair begins 26 m/m.;
+the breadth of the hair on the nut should be 11 m/m. and on the head 10
+m/m. Tourte used from 80 to 100 hairs for each bow, but now from 150 to
+160 are taken.
+
+The stick is made of pernambuco-wood and the nut of ebony; tortoise
+shell is however sometimes used for the latter. The decoration may
+be in German silver, silver or gold, according to the taste of the
+possessor.
+
+The stick must be cut straight and lengthwise with the year-rings, and
+is manipulated in such a way that the side-view of the bow shows the
+horizontal lines. In this condition the prepared stick must be held
+over a charcoal fire, be gradually and equally heated, until it can be
+scarcely retained in the hand, and then it must immediately be bent
+across the knee to such a degree, as to allow the hair of the finished
+bow to lie upon the stick. To accomplish this successfully, a certain
+amount of practice and caution is required. The weight of a bow when
+finished should not exceed 54 to 57 grammes.
+
+Tourte never polished nor varnished his bows, but only rubbed them
+smooth with pumice-stone and linseed-oil. If varnish or polish of any
+kind is ever found on one of his bows, it has been put there by other
+hands than his.
+
+It has often been asserted that Tourte only left the bows unpolished
+and unvarnished from indifference, and I must confess that I also was
+once inclined to this opinion until experience taught me better. About
+30 years ago I bought a beautiful Tourte bow which I handed to Herr
+Joachim to test.
+
+It seemed to him a little too heavy and I, in my want of experience,
+imagined that I could easily meet the wish for diminished weight by
+a little work. I therefore commenced to work with a file upon this
+master-piece, but I found the outer layer of the wood as hard as iron,
+so that I had a great deal of trouble to lessen the circumference of
+the stick. This circumstance surprised me at the outset of the work,
+as in the making of new bows it never occurred to me before. I was in
+great fear, however, at the conclusion of my troublesome work, for I
+found that the bow had lost all elasticity and power.
+
+Later on, the opportunity presented itself to me of proving that
+pernambuco-wood when exposed to the air hardens very rapidly, and I
+am therefore convinced that this fact was known to Tourte and that
+consequently he only rubbed his bows with linseed-oil, in order to
+leave them open to the influence of the air, so that the sticks might
+become hardened and strengthened.
+
+If an old bow has become slightly twisted, which may happen with bows
+of the best make, this fault can be rectified by cautiously bending
+it back to its original form over a charcoal fire, and the bow will
+regain its former elasticity.
+
+If any of my readers desire to study more closely the history of
+stringed instruments, I can recommend to them very highly the work upon
+the subject from the pen of Julius Rühlmann.
+
+
+Göttingen, Druck der Dieterich’schen Univ.-Buchdruckerei von W. Fr.
+Kästner.
+
+
+
+
+Transcriber’s Notes
+
+The figures referenced throughout the text are not present in the
+original English edition. You can find them in the original German Die
+Geige und ihr Bau on Google Books.
+
+The numbering of the chapter on the back and edges was corrected to IV.
+instead of VI. in the table of contents.
+
+Page 10: “intsrument makers” changed to “instrument makers”
+
+Page 28: “My opininon” changed to “My opinion”
+
+Page 34: “opon this master-piece” changed to “upon this master-piece”
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE VIOLIN AND THE ART OF ITS CONSTRUCTION: A TREATISE ON THE STRADIVARIUS VIOLIN ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

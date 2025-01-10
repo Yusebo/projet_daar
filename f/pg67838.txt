@@ -1,0 +1,1403 @@
+﻿The Project Gutenberg eBook of Instructions for the Management of Harvey's Sea Torpedo
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Instructions for the Management of Harvey's Sea Torpedo
+
+Author: Frederick Harvey
+
+Release date: April 15, 2022 [eBook #67838]
+                Most recently updated: October 18, 2024
+
+Language: English
+
+Original publication: United Kingdom: E. & F. N. Spon
+
+Credits: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK INSTRUCTIONS FOR THE MANAGEMENT OF HARVEY'S SEA TORPEDO ***
+
+[Illustration: Plate 1.
+
+‘Royal Sovereign’ ‘Camel’
+
+TRIAL OF HARVEY’S SEA TORPEDO.
+
+Kell Bros. Lith. London.]
+
+
+
+
+                              INSTRUCTIONS
+                                 FOR THE
+                               MANAGEMENT
+                                   OF
+                          HARVEY’S SEA TORPEDO.
+
+                                 LONDON:
+                   E. & F. N. SPON, 48, CHARING CROSS.
+         PORTSMOUTH: J. GRIFFIN & CO. DEVONPORT: J. R. H. SPRY.
+                                  1871.
+
+     LONDON: PRINTED BY WILLIAM CLOWES AND SONS, STAMFORD STREET AND
+                             CHARING CROSS.
+
+
+
+
+INSTRUCTIONS FOR THE MANAGEMENT OF HARVEY’S SEA TORPEDO.
+
+
+To impart a thorough knowledge of the management of such an arm as the
+sea torpedo is a matter of easy accomplishment by personal explanation;
+especially so, when the arm is in the water, and practised with under
+conditions that would obtain in its application to the disabling of, or
+to the destruction of vessels against which it may be employed.
+
+But in the absence of such mode of instruction, the following directions
+are offered, with a hope that they will prove sufficiently explanatory of
+an arm, which, like other arms, requires skill and aptitude in using it
+effectively.
+
+By the instructions here given, it must be understood, there are two
+torpedoes; though both are of the same kind, they differ in construction,
+by reason of the difference in the position of their respective planes,
+so that one may diverge to port, and the other to starboard; the
+direction of the divergence is known by the position of the slings and
+rudder. There is a like difference in the exploding bolts; the bolts
+which respectively belong to the port and starboard torpedoes are known
+by the direction of their safety keys.
+
+[Illustration: (A)
+
+STARBOARD TORPEDO.]
+
+[Illustration: (B)
+
+PORT TORPEDO.]
+
+The sea torpedo has the advantage of exploding only when in hugging
+contact with the vessel attacked; the levers by which it is exploded are
+so placed in relation to the tow-rope, that either the side or top lever
+is found invariably to act effectively in forcing down the exploding
+bolt at the instant of contact; this has been ascertained by the result
+of many experimental trials.
+
+The shape is an irregular figure, which can be best understood by
+reference to the drawings (p. 4). The dimensions of exterior case are as
+follows:—
+
+                             ft.  in.
+
+                  ⎧ Length    5   0
+    Large Torpedo ⎨ Breadth   0   6⅛
+                  ⎩ Depth     1   8¾
+
+                  ⎧ Length    3   8
+    Small Torpedo ⎨ Breadth   0   5
+                  ⎩ Depth     1   6
+
+[Illustration: (C)
+
+SECTION (C).]
+
+The exterior case is made of well-seasoned elm 1½ in. thick, iron bound,
+and screwed together with water-tight packing between the joints, also
+cemented with pitch. The interior case is made of stout sheet copper;
+the case has two loading holes corresponding in size to two holes in the
+deck, or top of the exterior case. These holes are made sufficiently
+large to load with gun-cotton discs, if preferred. The loading holes
+are fitted with corks, which are inserted before screwing on the brass
+cap, to prevent any chance of accident through friction in screwing on
+the cap; the bushing has the thread of the screw on the outside for
+the same reason. If thought necessary, the cork can be cemented over
+before screwing on the cap, which will render the joint doubly secure
+from leakage. The centre of the copper case has a stout copper tube,
+which is soldered to the top and bottom surfaces of the copper case, the
+charge being all round it; into this centre tube is screwed the priming
+case. It should be understood that both the exterior and inner cases are
+thoroughly water-tight, so that in the event of the outer case being
+damaged, still the charge in the interior case is preserved perfectly
+dry, the cases being altogether independent of each other.
+
+The capacity of the copper case of the large torpedo is such that it will
+contain 77 lbs. of water; the capacity of the small one, 28 lbs.; from
+these can be determined the quantity of any explosive agent with which it
+may be desired to charge either torpedo.
+
+The charges of various powders the torpedoes will contain are as follows:—
+
+                                Large Torpedo.  Small Torpedo.
+                                     lbs.            lbs.
+    Glyoxilin                         47              16
+    Schultze’s blasting powder        60              22
+    Compressed gun-cotton             60              22
+    Picric powders                    73              26
+    Rifle grained powder              76              27
+    Horsley’s original                80              28
+    Horsley’s blasting powder         85              30
+    Nobel’s dynamite                 100              35
+
+The above must be considered an approximation, since much will depend
+upon the labour expended in packing the torpedo.
+
+Some of the powders named have not yet been manufactured on a large scale.
+
+The priming case is made of stout sheet copper, and contains a large
+bursting charge, which may be either rifle grained powder or a stronger
+explosive, which is recommended.
+
+[Illustration: (D)
+
+SECTION.]
+
+[Illustration: (E)]
+
+In the centre of the priming case is a brass tube in which the exploding
+bolt works, and at the bottom of this tube is a steel-pointed pin, which
+pierces the capsule on the muzzle of the exploding bolt, when the bolt is
+forced down. At the side of the brass tube, and near the base of the pin,
+is a small hole, covered with thin brass foil, which will allow of an
+escape of water into the priming case, should any have collected at the
+bottom of the tube. The loading hole of the priming case is at the bottom
+of the case, and arranged with cork and cap upon the same principle as
+the loading holes for main charge. A powerful spanner is provided for
+screwing in the priming case and caps of main loading holes, which are
+fitted with leather washers to form a water-tight joint. The priming case
+can be stored separate from the torpedo if preferred, but there is no
+necessity for so doing unless it is charged with a dangerous compound.
+When the torpedoes are being stored, a wooden plug is inserted into the
+brass tube of the priming case; there is a cavity in the plug at the
+lower end; the cavity is filled with a greasy composition, into which
+runs the pin of the priming case when the ping is in its place; the pin
+is thus protected from corrosion, and the tube of the case secured from
+any foreign matter getting accidentally into it.
+
+The exploding bolt is fitted to work with a pressure of about 50 lbs. on
+the head of the bolt for the large torpedo, and 20 lbs. for the small.
+
+[Illustration: (F)]
+
+On account of the great proportional length of the stuffing box, it is
+quite impossible for water to enter into the tube, and the pressure can
+be regulated to the greatest nicety by the quantity of thread wound on.
+The bolts are easily kept in order by turning them round occasionally in
+their tubes, stored as they would be in the bolt magazine (see p. 20,
+Fig. Y). The best lubrication for them is hog’s lard free from salt,
+beeswax, neat’s-foot oil, in proportion 3, 1, 1. The bolt has several
+grooves for the thread stuffing to be wound on, and in the event of its
+working too easy, a few turns of whity-brown thread on the two lower
+stuffings will suffice; should it work too stiff, revolve it in the
+magazine tube until it works with the desired amount of pressure, which,
+after a little practice, is well known by the hand. In the event of a few
+drops of water entering the tube, which has never occurred, a provision
+is made for its escape (see priming case), that it may not impede the
+descent of the bolt. The cavity in the bolt for containing the exploding
+composition is, in length and diameter, sufficient to contain a charge
+that will of itself explode the torpedo (see Fig G), without depending
+upon the priming case. The bolts are all the same size, and differ only
+in the direction of the slot for safety key, being port or starboard
+bolts accordingly.
+
+[Illustration: (G)]
+
+[Illustration: (H)]
+
+The muzzle of the exploding bolt stands one inch off the pin when in
+safety position, that is, when the safety key rests on the brasswork of
+the priming case. This can always be ascertained before entering the bolt
+(if thought necessary) by a wooden gauge forced down until it touches the
+point of the pin, which measurement transferred to the bolt will show the
+distance of the muzzle when forced down to the safety position.
+
+The safety key is secured in the slot of the exploding bolt by eight or
+nine parts of strong whity-brown thread secured to the key, as shown
+in Fig. J (p. 10), passed round the bolt, and securely knotted in this
+manner; the parts of the thread come away with the key when drawn,
+in order that none of the parts may be worked down the tube by the
+exploding bolt.
+
+[Illustration: (I)]
+
+[Illustration: (J)]
+
+In the event of the large torpedo being cut away in deep water after
+withdrawal of the safety key, it will explode by pressure on the head of
+the bolt at about sixty fathoms depth. The small one at about thirty.
+
+The brass guard for the exploding bolt is an extra precaution (suggested
+by Capt. A. Hood, R.N., Director-General of Naval Ordnance) should any
+person by mistake attempt to place the bolt into the torpedo without
+the safety key in its place. It is placed over the head of the bolt and
+pushed down until the thumb-screw on the side works into a small hole in
+the shoulder of the bolt.[1] The manner in which this guard is fitted
+ensures its removal before launching, since the after lever cannot be
+placed until it is. It also makes a convenient handle for turning the
+bolt in the magazine.
+
+[1] As the certainty of explosion depends mainly upon the exploding
+bolt being properly charged, the inventor takes entire charge of this
+important detail.
+
+[Illustration: (K)]
+
+The explosive composition in the bolts is powerful and safe; so packed
+that no amount of concussion can explode it; the bolt must be pierced
+through the capsule at the muzzle for that purpose. The bolts are
+hermetically sealed at the muzzle by a metallic capsule, and can be
+stored for an indefinite length of time without chance of deterioration.
+The exploding point of the composition in the bolt is 420° Fahrenheit.
+
+[Illustration: (L)]
+
+The side and top levers are so arranged, that when driven close into
+the torpedo, the bolt is down to the shoulder; and, since there are
+three explosions to take place, it is calculated the torpedo will be in
+hugging contact when the main charge explodes, and exploded by a powerful
+discharge in the centre, thereby disposing of the explosive force to the
+greatest advantage.
+
+The torpedo must be closing to the ship when the levers are acting and
+the bolt descending; no experiment for the force of explosive agents,
+with a cushion of water intervening, is required. The amount of explosive
+agent, when in contact, is all that is required, and the torpedo can be
+manufactured to contain a larger charge, if thought necessary, with a
+very small increase of dimensions; but the present size is convenient for
+handling and launching; and if loaded with any of the powerful blasting
+powders, would, in all probability, prove sufficient to bilge or destroy
+the largest iron-clad.
+
+[Illustration: (M)]
+
+[Illustration: (N)]
+
+The lanyard or side-lever is permanently secured to the short arm of the
+lever; the end is rove under the fair lead on the deck of the torpedo
+up through the brass oval hole in the after top lever, then down under
+the fair lead (abaft the first turn), and across the deck of the torpedo
+to the handle, and secured with a round turn and two half-hitches. Care
+should be taken that the short arm of the lever is brought close into
+the fair lead, and the lanyard should be set up sufficiently taut to
+give a slight spring in the after top lever by the strain brought on it.
+This lever has a steel fish on the top, in order to prevent it taking
+a permanent bend. If the side-lever lanyard is properly set up, the
+bolt will spring down about one-eighth of an inch when the safety key
+is withdrawn, owing to the spring in the lever and shrinking of the
+lanyard; this brings the muzzle one-eighth of an inch nearer the pin
+without disturbing the side lever. The lanyard should be made up like a
+reef-point; it should be well-greased immediately before launching.
+
+[Illustration: (O)]
+
+[Illustration: (P)]
+
+[Illustration: (Q)]
+
+To secure the fore top lever to the after, in order that a back hit
+may not separate them, the small lanyards, with an eye in one end, and
+whipped at the other, are first placed over the eyes in the fore top
+lever, then rove through the brass hole in the after top lever, in
+opposite directions, passed up through the eyes in the fore top lever,
+and knotted over it. The distance from the eyes in the fore top lever
+to the hole in the after top lever is so arranged that it will not
+interfere with the descent of them. The fore-locks for the various bolts
+which fix the levers are made of fishing-line. After knotting them, the
+ends should be secured together by a seizing of thread.
+
+[Illustration: (R)]
+
+[Illustration: (S)]
+
+The handles, formed of iron straps passing under the torpedo, and
+terminating in four eyes above the deck, are principally for handling it;
+one of the foremost eyes is made use of as a fair lead for the safety-key
+lanyard, and to stop it to; the other foremost is made use of to secure
+the side lanyard to Fig. N (p. 12).
+
+The ballast is composed of iron and sheet lead; the former, a fixture
+to the wooden bottom of the torpedo; the latter, screwed on with long
+screws into the iron. A thin sheet of lead is always kept on the
+bottom, affording a soft material for moving them about on, removing
+the objection that may be made to the friction caused by an iron bottom
+in the moving of them in the torpedo-room. By taking out these screws,
+several more thicknesses of sheet-lead can be screwed on, the same
+screws binding all together. On leaving the manufacturers, there is
+sufficient lead placed on the bottom for a speed between three and ten
+knots. A very large increase of ballast would require another buoy to be
+strung on over and above the usual complement.
+
+[Illustration: (T)]
+
+The proper adjustment of the slings is most important, as the divergence
+depends upon it. The after legs of the slings, when stretched out
+alongside the torpedo, should extend one foot beyond the stem iron of
+the torpedo for the large torpedo, and eight inches for the small one;
+the distance on the slings being reckoned from the seizing round the
+thimble. This first adjustment is near enough if within two inches of the
+regulation.
+
+The thimble of the slings is made suitable for wire or hemp rope, the
+fore surface of it being bell-mouthed, to prevent chafe of the tow-rope;
+the thimble is so constructed that the parts of the slings cannot escape
+from the groove should the seizing become slack; it will be observed that
+by this arrangement the edge of the thimble is not brought in contact
+when rounding the stem or stern of a vessel, the nip after leaving the
+tow-rope coming direct on to the fore span, and thence to the projecting
+curve of the side lever.
+
+When all four legs are pulled out, in direction of the tow-rope, they
+bear an equal strain; the junction of the four legs should be on a level
+with the upper towing-irons, at the same time the upper fore span should
+make an angle between 80° and 85° with the near side of the torpedo.
+This arrangement gives the best divergence with the least strain on the
+tow-rope, and is suitable when the torpedo is kept at short scope, as
+well as when a long length of tow-line is out. The slings are made of
+the best Italian hemp (not laid up too hard), the rope being of the same
+strength as the tow-rope; for although in towing four legs divide the
+strain, yet during collision the strain might be brought on one or two.[2]
+
+[2] It may be here remarked, the small rudder on the stern of the torpedo
+is not for the purpose of increasing the divergence, but to control the
+direction of the torpedo when the tow-rope is suddenly slacked.
+
+[Illustration: (U)]
+
+[Illustration: (V)]
+
+The tow-rope for large torpedo can be of 2½ in. or 3 in. hemp, or 1½ in.
+flexible galvanized iron wire. For small torpedo, 1½ in. to 2 in. hemp,
+or ⅞ in. wire.
+
+The buoys are made of solid cork (such cork only being used as will
+ensure great floating power after being immersed for a time), it is built
+up on a galvanized iron tube, running longitudinally through; on the
+ends of the tube are screwed wooden cones, which bind all together and
+render the buoy indestructible. The iron tube gives great facility for
+stringing on the number of buoys required.
+
+[Illustration: DRAWING (W).
+
+SECTION ON A B.]
+
+Two buoys are generally used for the large torpedo, and one for the
+small. The buoy-rope is of hemp, about five or six fathoms in length and
+two inches circumference, an eye being spliced in the end nearest the
+torpedo; to this eye is bent the tow-rope with a single or double sheet
+bend, forming the knot by which the torpedo is towed; the other end of
+the buoy-rope is passed through the large or small ring in the stern
+(according to whether working in deep or shallow water), then through the
+tube of the first buoy, an overhand knot made in the rear; then through
+the next buoy, and a knot in the rear of that.
+
+[Illustration: DRAWING (X).]
+
+[Illustration: DRAWING 1.]
+
+The brakes are used for the purpose of controlling the tow-ropes; they
+can be fixed by screws into the deck at the most convenient place for
+command, and, in a properly-constructed vessel, would be worked below the
+water-line to prevent exposure of the men. They are so arranged as to
+admit of the tow-rope being quickly veered, and at the same time powerful
+in bringing the torpedo to the surface when required. Success greatly
+depends on the skilful handling of these brakes, for in conjunction with
+the cork buoys they give the operator command of the depth at which
+the enemy is to be struck. The handles on the leather straps are for
+the purpose of lifting the strap off the drum when veering suddenly,
+that there may be no friction to interfere. The handles for winding
+up would rarely be used in real action, and never should be on when
+veering. Unless a very high rate of speed is required, one handspike
+will control the tow-rope; the other strap can be thrown off the drum,
+and the handspike allowed to lie on the deck ready to be thrown into
+gear, if necessary. The surface of the drum in contact with the strap
+should be powdered with rosin to increase the friction. The tow-rope
+should be so reeled up, that in veering the reel may revolve towards the
+men at the handspike (see Plate 2). The spindle will contain several
+tow-ropes, that, in the event of one torpedo being cut away, another can
+be immediately bent.
+
+The brake for small torpedo requires only one drum and handspike. It can
+be fitted to a steam-launch by placing an extra thwart across near one of
+the others.
+
+[Illustration: DRAWING 2.]
+
+The drawing shows a small brake fitted for the electric torpedo, having
+a hollow central spindle, through which the end of the tow-rope carrying
+the insulated wire is rove, after passing out at the axle; a swivel
+connection is made with the battery. The brakes, both large and small,
+are so made as to ensure durability, they being considered a part of the
+ship’s furniture.
+
+Brake for safety-key line is a small reel on the same principle. When
+going a slow speed, it may not be necessary, as the safety-key line can
+be attended by hand; but when going ten or eleven knots, it will be found
+of considerable advantage, both in keeping the light of the safety-key
+line from dragging astern, thereby lessening the divergence of the
+torpedo, and also in drawing the safety key when a strong stop is used.
+The ordinary deep-sea lead line can be used for a safety-key line, or any
+hemp-rope from three-quarters to an inch circumference. It should be new
+and of good quality; for in the event of its carrying away before the
+stop, it would necessitate the recovery of the torpedo.
+
+[Illustration: DRAWING 3.]
+
+[Illustration: (Y)]
+
+The magazine for exploding bolts is fitted with exactly the same size
+brass tubing as in the priming case; therefore, if the bolts are kept to
+work with the proper pressure when in the magazine, they will do so in
+the torpedo. This magazine should be kept apart from the torpedo-room,
+and care should be taken that the tube is clear before forcing the loaded
+bolt into it. The torpedoes are then no more dangerous than any other
+powder case, and, being very strongly made and sealed, are probably less
+so.
+
+[Illustration: Plate 2.
+
+Kell Bros. Lith. London.]
+
+
+ARRANGEMENTS REQUIRED FOR LAUNCHING AND TOWING.
+
+A yard across either the main or mizen mast of a torpedo vessel, from ten
+to fifteen feet above the water-line, is a very convenient method for
+launching and towing. The leading block on the yard, through which the
+tow-rope is rove, may be fitted to a traveller on the yard with an inhaul
+and outhaul, that the distance out from the ship’s side may be regulated
+as convenient.
+
+In a large vessel, the leading block for tow-rope can be fixed to the
+end of the quarter-boat’s davits. The brakes for commanding the tow-rope
+should be screwed firmly to the deck. In a vessel properly constructed
+for the service, they would be on the lower deck, the tow-rope having
+been led along the yard, and down each side of the mast.
+
+A leading block for the tow-rope is placed on the deck by span or bolt
+a few feet in front of the brake. The safety-key reel, if used, must be
+fixed in a convenient position on deck, that the man attending it can see
+how to control it; in a properly-constructed vessel he would be in the
+pilot-house. The safety-key line leads through a small leading block on
+the ensign-staff or some convenient point abaft the lead of the tow-rope,
+that it may be kept well clear of it. The leading block on the yard may
+be fitted with a lizard, if thought necessary. A sharp instrument should
+be kept by the brakes ready to sever the tow-rope.
+
+
+PREPARATIONS FOR LAUNCHING AND TOWING.
+
+[Illustration: (Z)]
+
+The torpedoes, port and starboard, loaded and ballasted, having been
+hoisted out of the torpedo-room, are placed on the deck on their own
+sides, with their heads forward under the leading block, and the number
+of buoys required for each, placed abaft them, strung together as
+directed (p. 17); the necessary number of exploding bolts having also
+been taken from the bolt magazine, are now entered into the torpedoes,
+and forced down until their safety keys rest on the brasswork, taking
+care that each safety key points in the direction of the eye through
+which its lanyard has to pass; the brass guard is now taken off, and
+after top lever placed in the crutch of the exploding bolt; the fore top
+lever is now placed on the shoulder of the after one, and the two levers
+secured by their lanyards, as directed in pages 12 and 13. The eye at
+the end of the buoy-rope is now rove through the large or small ring
+in the stern end of the torpedo (see p. 17). The tow-rope having been
+previously rove through the leading block on the deck and on the yard, is
+rove through the thimble of the slings from forward aft, and bent, with a
+single or double sheet bend, to the eye of the buoy-rope. The safety-key
+line having been previously rove through the leading block on the
+ensign-staff, and the lanyard on the safety key having been led through
+the eye of the handle, making a fair lead with the slit in the bolt, are
+bent together with a double-sheet bend, and stopped to the eye by a split
+yarn of suitable strength, the yarn having been secured outside the bend.
+It can also be stopped with another split yarn to the slings near the
+thimble of the slings. The torpedo is now ready for launching.
+
+
+LAUNCHING THE TORPEDO.
+
+The crew having been stationed at their respective posts, the handles
+having been shipped on the tow-reel, the tow-line is then reeled up until
+the torpedo will launch clear, and swing out under the leading block on
+the yard. Hold the torpedo by the handspikes, and take off the handles of
+the brake. In swinging out, care should be taken that in starting from
+the deck the fore slings do not foul the fore top lever. The stern of the
+torpedo can be steadied by keeping a slight strain on the buoy-rope. The
+safety-key line must be kept clear, and not checked, or it might break
+the stop and draw the safety key before intended.
+
+The buoys must be placed in a proper position, and hands stationed by
+them to launch them overboard the instant the torpedo takes the water.
+It would be better to stop the screw, if circumstances would allow of it,
+when lowering the torpedo and buoys into the water, to prevent the chance
+of the buoys fouling the screw. The torpedo, on reaching the water, will
+_immediately_ diverge clear of the ship; the buoys being launched, as the
+strain comes on the buoy-rope, they will be towed clear away from the
+screw, and full speed may be put on at once. The men at the handspikes
+must veer steadily, occasionally checking the torpedo, that it may be
+kept near the surface, and not allowed to dive, which it will do if the
+tow-rope is slacked up altogether, and then a sudden strain brought on it.
+
+[Illustration: DRAWING 4.]
+
+Eventually it will come to the surface, when the bow is pointed up by
+the strain on the tow-rope; greater the speed the more quickly will it
+be brought to the surface. In shallow water this should be particularly
+attended to, as in diving it might strike the bottom and injure the
+levers; and if the safety key has been withdrawn, explode; moreover it
+brings an undue strain on the tow-rope. The torpedo can now be gradually
+veered out to the distance required, the safety-key line so attended,
+that a sufficient strain is kept on it as not to allow of a long bight
+of line dragging astern of the torpedo; at the same time having due
+regard to the strength of the yarn by which the line is stopped to the
+handle of the torpedo. The distance veered must depend upon the nature
+of attack. The tow-line should be marked with knots every ten fathoms;
+under some circumstances the torpedo would be close to the ship until
+passing the enemy (_see_ Tactics); at other times veered to 40 fathoms it
+will be found most suitable. The full divergence of 45° is obtained up
+to 50 fathoms, beyond that the bight of the tow-rope in the water drags
+the torpedo astern unless the tow-rope is triced much higher up, which
+has its disadvantage; 40 to 50 fathoms of tow-rope gives the best command
+of the torpedo, veering 2 or 3 fathoms of tow-line suddenly will always
+sink the torpedo some feet below the surface. Should it become necessary
+to use the torpedoes with a stern-board they can be so used, but in
+this case the port torpedo is used on the starboard bow and starboard
+on the port; all other arrangements being exactly the same. In rough
+weather, advantage should be taken of the roll, and the torpedo allowed
+to swing out from the yard, and be let go by the run, checking the
+tow-rope immediately the torpedo is in the water. It is not absolutely
+necessary to ease the vessel when launching, the torpedo can be launched
+at full speed. In the event of its being found necessary to cut adrift
+the torpedo, in consequence of coming suddenly across a friendly vessel,
+the tow-rope should be cut near the brake, and if the buoy-rope has been
+rove through the large stern-ring, the torpedo will sink and be lost, the
+buoy only remaining. If the buoy-rope has been rove through the small
+stern-ring, the torpedo will be suspended by the buoy-rope; and should
+the safety key not have been withdrawn, can be recovered with safety.
+In the event of wishing to recover it when the buoy-rope has been rove
+through the large ring, a toggle must be lashed on the tow-rope abaft the
+leading block on the yard, when it can be recovered by the buoy-rope; as
+a general rule, it will however be found best to expend the torpedo, and
+not attempt its recovery. By slacking the tow-rope roundly and stopping
+the vessel, a friendly ship can pass over the bight of the tow-rope
+without striking the torpedo; but this is rather a delicate operation,
+particularly if the safety key has been withdrawn.
+
+
+RECOVERING THE TORPEDO.
+
+Should the safety key have been withdrawn, great caution must be used.
+
+[Illustration: DRAWING 5.]
+
+Tongs, for going round the upper part of the bolt, to take the place of
+the safety key, when once clasped and secured round the bolt, render the
+torpedo safe to handle; this could only be done from a boat. With the
+safety key in, there is no danger in hooking it inboard again by its own
+tow-rope, and hoisting up the buoys at the same time with a grapnel.
+
+
+TORPEDO ARRANGED TO EXPLODE BY ELECTRICITY.
+
+To substitute the electrical method of firing the torpedo for the
+mechanical one, all that will be necessary is to unscrew the priming
+case from the centre hole of the mechanical torpedo, and screw in the
+electrical arrangement which contains McEvoy’s patent circuit-closer,
+especially adapted by him to suit this particular torpedo.
+
+The electrical arrangement has its own exploding bolt, which differs
+from the other only below the safety key, which key is fitted and worked
+in the same manner as the mechanical one, in order that the electrical
+arrangement might not be disturbed by an accidental blow when launching.
+The insulated conducting wire is carried along the whole length of
+the tow-rope in the centre, forming a core. The tow-rope, as in the
+mechanical one, is bent on to the hemp buoy-rope by a sheet bend, the
+strands at the end are then unlaid, sufficiently so to form a connection
+between the insulated wire in the tow-rope and that projecting from
+the centre hole of the torpedo; this connection can be best made with
+McEvoy’s patent jointer. The other end of the tow-rope on the barrel of
+the brake passes through the hollow spindle of the brake at one extremity
+and is connected with the constant battery, which must be suitable for
+heating platinum at the distance of 100 fathoms, the return circuit being
+by the water. The levers act in the same manner as in the mechanical one,
+forcing down the bolt and thereby closing the circuit through the fuze
+and exploding the torpedo.
+
+This system of exploding the torpedo may be preferred in rivers or
+shallow water, where it would be considered dangerous to leave a
+mechanical torpedo at the bottom; but it cannot be reckoned upon with
+the same certainty as the mechanical one. It is necessarily more costly,
+complicated, and delicate; the two latter conditions rendering it
+unsuited for the rough work it will have to encounter.
+
+The torpedo being provided with this centre tube in addition to the
+usual priming case, admits of its being used upon an emergency, special
+ones not being at hand, for various other purposes, _viz._ clearing
+away obstructions; as land torpedoes; as stationary torpedoes, provided
+they are not to remain a very long time in the water. In these cases
+the ordinary insulated wire and jointers are all that is required. If
+required to be fired at will, it will be only necessary to force down the
+bolt sufficiently to close the circuit through the fuze and then secure
+it. If to be self-acting, leave the bolt up in its position, as when
+working at sea, to be acted upon by pressure.
+
+
+DESCRIPTION OF CAPT. C. A. MCEVOY’S CIRCUIT-CLOSING ARRANGEMENT FOR
+HARVEY’S SEA TORPEDO.
+
+[Illustration: _Fig: 1._ _Fig: 2._
+
+London: E. & F. N. Spon, 48, Charing Cross.
+
+Kell Bros. Lithrs.
+
+FIG. 1.—An exterior tube, _a a_; screw-head, [= _a_]; interior tube,
+_b_; intermediate tube, _d_; firing bolt, _e_; spindle, _f_; long brass
+spiral spring, _g_; short spiral spring, _h_; socket for spindle, _i i_;
+insulated wire from battery, _k k_; insulated terminal, _l_; electric
+fuze, _m_; priming space, _n n_; charging hole, _o_; insulated bridge,
+_p_; metal bridge, _u_.]
+
+The electric wire _k k_ passes through the screw-head [= _a_] of external
+tube _a a_, and winding spirally around the intermediate tube _d_,
+terminates in a connection with the insulated bridge _p_ at _s_. The
+intermediate tube _d_ is attached to the head of the spindle _f_ at _t_.
+When pressure is brought to bear on the firing bolt _e_, the spindle _f_
+is forced down, and carries with it the insulated bridge _p_, until the
+bridge touches the insulated terminal _l_. It will be seen that the
+long spiral spring _g_ and short spiral spring _h_ serve to support
+the spindle _f_, and keep the bridge _p_ off the terminal _l_ until
+they are forced into contact. Whilst the insulated bridge _p_ remains
+above the insulated terminal, the former is in constant contact with
+the metal bridge _u_; but this contact is broken when the metal bridge
+moves downward and before it makes contact with the insulated terminal
+_l_. When the insulated bridge _p_ is in contact with the metal bridge
+_u_, the electric fuze is out of circuit; and a current sent through
+the torpedo will return by way of the earth without firing the torpedo;
+but when contact with the metal bridge _u_ is broken, and contact with
+the insulated terminal _l_ is made, the current is directed through the
+electric fuze, and the torpedo fired.
+
+The priming in the tube is sufficient to rupture the tubes and ignite the
+charge in the torpedo.
+
+Fig. 2 shows a section of the circuit-closer, with the spiral spring
+slightly compressed, and the insulated bridge in contact with the
+insulated terminal, and the circuit closed. By dispensing with the
+electric fuze, and using in its place a piece of copper wire, any number
+of experiments may be made with an uncharged torpedo without adjustment
+or manipulation of any kind; it only being necessary to attach to the
+return wire near the battery a galvanometer or electric fuze to indicate
+the time of the impact.
+
+    The torpedoes here described are manufactured by J. Vavasseur
+    and Co., at the London Ordnance Works; at which establishment
+    the inventor has every facility in the supervision of the
+    various details in the construction of the torpedoes, buoys,
+    and brakes. Such supervision of the torpedoes and their
+    equipments is highly essential to secure safety and efficiency.
+
+
+
+
+TACTICS.
+
+
+Torpedo vessels should, as a rule, attack under the cover of darkness. By
+the experience gained in blockade running in the late American conflict,
+we are assured that a vessel in rapid motion can, when it is dark, pass
+with impunity close under the fire of hostile vessels, armed with cannon.
+
+In the more early stage of the torpedo, the tactics of vessels armed
+with torpedoes embraced modes of attack that are not now entertained. So
+general is becoming the use of torpedoes as a means both of defence and
+offence, that vessels, which may be at anchor or moored in a harbour or
+roadstead, would be protected by stationary torpedoes; the use of which
+admits also of vessels, when at anchor or moored, protecting themselves
+by placing a web of torpedoes in such manner as to render the attack
+of a hostile vessel or boats extremely hazardous, and therefore not
+likely to be attempted. But in the event of a vessel being at anchor in
+a harbour or roadstead unprotected, she could be attacked, as shown in
+the illustration of Tactics, under such conditions. As, however, vessels
+armed with torpedoes are intended to work the arm against vessels at sea
+or in motion, the management of the torpedo in so attacking vessels is
+the more important part of the code of Tactics.
+
+It should be here remarked, that with a view to simplicity, the
+explanations will be confined to a single steamer, the attacking vessel
+adapted to the service of the arm in question, and confined also to a
+single vessel, the object of attack.
+
+
+
+
+CASE 1.
+
+ATTACKING A VESSEL MOORED HEAD AND STERN.
+
+
+In this case the torpedo vessel steers in for the bow or quarter of
+the vessel attacked, according to the direction of the current, and on
+the side approached launches the torpedo between the moorings as at A;
+leaving the tow-rope slack, the torpedo vessel proceeds ahead or astern
+against the current, and when at a sufficient distance off, the tow-rope
+is held fast, which will cause the torpedo to diverge into contact with
+the vessel attacked, as shown by the drawing.
+
+[Illustration: Plate 4.
+
+Kell Bros. Lith. London.
+
+CASE 1.—ATTACKING A VESSEL MOORED HEAD AND STERN.]
+
+
+
+
+CASE 2.
+
+ATTACKING A VESSEL AT ANCHOR BY CROSSING THE BOW.
+
+
+In this case, the torpedo is sufficiently diverged when near to the
+vessel with a good scope of tow-rope out. After having crossed her bow,
+proceeding onwards, the tow-rope will be brought obliquely across her
+cable, and the torpedo will swing into her, as shown in the drawing. It
+may be here remarked that, in all cases, the depth of explosion can be
+obtained by the sudden slacking of the tow-rope; and the tow-rope, once
+under the keel, causes the torpedo to be hauled down near to it before
+exploding.
+
+[Illustration: Plate 5.
+
+Kell Bros. Lith. London.
+
+CASE 2.—ATTACKING A VESSEL AT ANCHOR BY CROSSING THE BOW.]
+
+
+
+
+CASE 3.
+
+ATTACKING A VESSEL AT ANCHOR BY PASSING ON EITHER SIDE DETERMINED UPON,
+COMING UP FROM THE STERN.
+
+
+In this case, the torpedo is launched when on the quarter of the vessel
+attacked, as at A, the tow-rope left slack. After steaming ahead some
+distance, hold fast the tow-rope, when, by continuing to steam on,
+the torpedo will diverge into contact with the bottom of the vessel
+attacked, as shown in the drawing. _When skilfully performed_, the total
+destruction of the enemy is certain, since the torpedo is springing
+from a depth to the surface, and will, in consequence, strike near the
+keel. The torpedo vessel can pass at her greatest speed, and, if thought
+necessary, near enough to clear away any of the ordinary obstructions,
+such as booms, nets, &c.
+
+[Illustration: Plate 6.
+
+Kell Bros. Lith. London.
+
+CASE 3.—ATTACKING A VESSEL AT ANCHOR BY PASSING ON EITHER SIDE.]
+
+
+
+
+CASE 4.
+
+ATTACKING A VESSEL AT ANCHOR BY COMING UP RIGHT ASTERN AND THEN PASSING
+ON EITHER SIDE.
+
+
+In this case, having determined upon the side it is desirable to pass,
+a torpedo is launched accordingly. When near the vessel, the torpedo is
+sufficiently diverged, and the torpedo vessel passing onwards ahead, the
+torpedo is brought under the run or bottom of the vessel attacked, as
+shown by the drawing.
+
+[Illustration: Plate 7.
+
+Kell Bros. Lith. London.
+
+CASE 4.—ATTACKING A VESSEL AT ANCHOR COMING UP FROM ASTERN AND THEN
+PASSING ON EITHER SIDE.]
+
+
+
+
+CASE 5.
+
+PASSING DOWN BETWEEN TWO LINES OF VESSELS AT ANCHOR, AND DESTROYING THEM
+ON EITHER SIDE.
+
+
+In this case, it would be impossible to fire at the torpedo vessel for
+fear of injury to their friends. Two or more torpedo vessels following
+each other with preconcerted signals would cause great destruction.
+
+[Illustration: Plate 8.
+
+Kell Bros. Lith. London.
+
+CASE 5.—PASSING BETWEEN TWO VESSELS AT ANCHOR.]
+
+
+
+
+CASE 6.
+
+ATTACKING A VESSEL IN MOTION BY COMING DOWN FROM RIGHT AHEAD.
+
+
+In this case, two torpedoes are launched, port and starboard, each
+diverging to its full extent; when passing the vessel attacked, one
+or the other of the tow-ropes is brought across the cut-water, and by
+the simultaneous motion of the two vessels in opposite directions,
+the torpedo is brought alongside of or under the bottom of the vessel
+attacked, as shown by the drawing. The torpedo vessel should keep the
+masts of her enemy in one until close to, when either torpedo will be
+used, according to the movement of the enemy. At the time of the tow-rope
+taking the cut-water, the brake is suddenly eased up; the tow-rope will
+then pass under the bottom, when, by checking the tow-rope, the torpedo
+will be hauled under the bottom.
+
+[Illustration: Plate 9.
+
+Kell Bros. Lith. London.
+
+CASE 6.—ATTACKING A VESSEL IN MOTION COMING DOWN FROM AHEAD.]
+
+
+
+
+CASE 7.
+
+ATTACKING A VESSEL IN MOTION, COMING UP TO HER FROM RIGHT ASTERN.
+
+
+In this case, two torpedoes are launched and diverged, as in Case 6;
+and in this case it is assumed that the torpedo vessel can outspeed the
+vessel attacked, which will enable her to bring a torpedo under the run
+of the vessel attacked, as shown by the drawing.
+
+[Illustration: Plate 10.
+
+Kell Bros. Lith. London.
+
+CASE 7.—ATTACKING A VESSEL IN MOTION COMING UP FROM ASTERN.]
+
+
+
+
+CASE 8.
+
+IF CHASED BY A HOSTILE VESSEL, AND IT IS DEEMED UNADVISABLE TO FACE HER
+AND PROCEED AS IN CASE 6.
+
+
+In this case, veer a torpedo astern, having first obtained a position
+a little on the bow of the chasing vessel. When it is known, by the
+length of the tow-rope out, that the torpedo is about abreast of her bow,
+hold fast the tow-rope, which will cause the torpedo to diverge, and be
+brought into contact, as shown in the drawing. As a last resort, drop
+spanned torpedoes.
+
+[Illustration: Plate 11
+
+Kell Bros. Lith. London.
+
+CASE 8.—CHASED BY A HOSTILE VESSEL.]
+
+
+
+
+CASE 9.
+
+ATTACKING A VESSEL IN MOTION BY CROSSING HER BOW.
+
+
+In this case, the torpedo being diverged when near, will, after crossing
+the bow, be dragged into contact, as shown by the drawing.
+
+Torpedoes can be used with a stern-board, if necessary. The port torpedo,
+in this case, will be launched on the starboard side, and the starboard
+on the port side.
+
+[Illustration: Plate 12
+
+Kell Bros. Lith. London.
+
+CASE 9.—ATTACKING A VESSEL IN MOTION BY CROSSING THE BOW.]
+
+
+
+
+In conclusion, it should be stated that a dark night and tempestuous
+weather are in favour of the attacking torpedo vessels; and these
+conditions are especially advantageous when attacking large, long,
+unwieldy vessels, and the greater the number of them together, the
+more easily can they be disabled or destroyed, by reason of consequent
+confusion. Though the sea torpedo can be used in the light of day, or
+darkness of night, by vessels of the present navies, armed with cannon,
+it is nevertheless earnestly advised that fast vessels be built of
+comparatively small size and cost, adapted to the service of and armed
+with torpedoes, by reason that such vessels can keep at sea for long
+periods without replenishing supplies of coals and provisions; and
+in conflict upon the ocean, can easily destroy or render unseaworthy
+vessels, how large soever they may be, and armed with any cannon and
+projectiles at present known. Hence the necessity of being prepared
+with vessels suited to the change in naval warfare, and with officers
+well practised in an arm which, sooner or later, will be adopted by
+all Maritime States, by reason of its economy and efficiency. In the
+tactics, here attempted to be rendered intelligible, it is presumed that
+the various modes of attack are by small handy vessels adapted to the
+service, and armed with torpedoes, against large unwieldy vessels, armed
+with cannon. When it shall have been clearly demonstrated, in actual war,
+that large vessels can be disabled or destroyed by small vessels, with
+something like impunity, torpedo warfare will then take another form,
+that of torpedo vessels against torpedo vessels, whose tactics will, in
+due time, be a subject for another study.
+
+                                                        FREDERICK HARVEY,
+                                                        _Commander R.N._
+
+
+
+
+THE SUBJOINED IS A REMARK UPON THE DESCRIPTION OF VESSEL ADAPTED TO THE
+SERVICE OF THE SEA TORPEDO.
+
+
+Vessels adapted to the service of the sea torpedo should be about 400
+tons burthen; her extreme length, over all, from taffrail to figure-head,
+about 150 feet. The form of body to be such as to attain the greatest
+practicable speed.
+
+Speed being the essential condition of a torpedo vessel, a perfectly
+flush upper or weather deck, without any bulwarks, is advisable; instead
+of bulwarks, life-lines, supported by stanchions, supply their place
+to prevent accidents of falling overboard. Thus fitted, there would be
+nothing to hold wind that could retard speed, as there is in vessels of
+ordinary build. So covered in, the vessel would not, under any condition
+of weather, ship water; she would not, from such cause, be in any danger
+of foundering.
+
+The height of the weather-deck above the water-line at midships, 9 feet;
+the height of the main deck above the water-line, 18 inches; leaving
+a clear height between decks of 6 feet 6 inches. There should be two
+water-tight bulkheads, one about 50 feet from the stem, and the other
+about 20 feet from the stern-post; the two water-tight bulkheads come
+up to the under side of the main deck, with which the bulkhead form
+perfectly water-tight compartments. In the fore compartment, empty
+water-tight cases would occupy the lower part, over which would be stowed
+the cork buoys and some light resisting material, rendered uninflammable,
+so that in the event of the fore body being ripped open below the
+water-line, there would be no space for the admission of water; the
+trim of the vessel would therefore be preserved. The after compartment
+would be similarly stowed. There would be a capacious engine-room to
+allow of powerful engines to work twin screws; there would also be
+capacious coal-bunkers and a coal-hold before the engine-room; and
+before the coal-hold a small hold for the stowage of cables and various
+articles. There would also be a pilot-house, in which would be protected
+the officer in command, who would be so placed as to have his orders
+immediately obeyed. The torpedo-room, to contain about one hundred
+torpedoes of various destructive powers, the weight of which may be
+about 10 tons, would be in the after body, and as low down as may be
+convenient. Upon the orlop deck, which covers the magazine, would be the
+towing gear, and machinery for working such gear. On the orlop deck would
+also be a steering wheel, by which the vessel would be steered when in
+action. The space between the decks of the entire length of the vessel
+would afford ample accommodation for officers and crew, embracing, also,
+stowage for provisions and means of cooking. Ventilation and light would
+be obtained by hatchways, fitted with skylights; and there would also be
+side scuttles, which, from their height above water, would admit of their
+being generally open. The rig would be that of a three-masted schooner,
+having fore, main, and mizen gaffsails, with a fore staysail and two
+jibs, inner and outer. When going into action, the sails would be lowered
+and stowed; the vessel would then be entirely under steam. To each mast
+there would be a yard of suitable dimensions, for the double purpose of
+towing the torpedoes and setting flying square sails. The rigging would
+not be rattled; the ascent to the masthead would be by a Jacob’s ladder
+before the mast; there would be a small top to each masthead, principally
+for the use of the look-out men. The crew would be stationed upon the
+orlop deck, each man being provided with a life-belt. With regard to
+boats, there may be a small stern boat, and two larger boats, stowed on
+deck; and upon going into action, gripes or lashings should be cast off
+so that the boats would instantly be disengaged from the vessel.
+
+Torpedo vessels for foreign service should, under the present
+difficulties of keeping iron from oxidizing and fouling, be built
+of timber. For home service, vessels constructed of iron would be
+preferable, and with very reduced masts, to enable them to pass under the
+yards of a vessel. One or two light guns, to bring-to an unarmed vessel,
+and for signal purposes, on the weather-deck, and fired over all.
+
+[Illustration: Plate 3.
+
+Kell Bros. Lith. London.
+
+AN IRON CLAD FLEET SURPRISED AT SEA BY A SQUADRON OF TORPEDO CRAFT ARMED
+WITH HARVEY’S SEA TORPEDOES.]
+
+
+LONDON: PRINTED BY WILLIAM CLOWES AND SONS, STAMFORD STREET AND CHARING
+CROSS.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK INSTRUCTIONS FOR THE MANAGEMENT OF HARVEY'S SEA TORPEDO ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

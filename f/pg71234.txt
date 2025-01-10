@@ -1,0 +1,1261 @@
+﻿The Project Gutenberg eBook of Some possible bearings of genetics on pathology
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Some possible bearings of genetics on pathology
+
+Author: Thomas Hunt Morgan
+
+Release date: July 20, 2023 [eBook #71234]
+
+Language: English
+
+Original publication: United States: Press of the New Era Print. Co
+
+Credits: Bryan Ness and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/Canadian Libraries)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK SOME POSSIBLE BEARINGS OF GENETICS ON PATHOLOGY ***
+
+
+
+
+
+
+                          SOME POSSIBLE BEARINGS
+                                    OF
+                          GENETICS ON PATHOLOGY
+
+                            THOMAS HUNT MORGAN
+    Professor of Experimental Zoology, Columbia University, New York.
+
+           Middleton Goldsmith Lecture delivered before the New
+              York Pathological Society on February 3, 1922.
+
+                                 PRESS OF
+                       THE NEW ERA PRINTING COMPANY
+                              LANCASTER, PA.
+                                   1922
+
+
+
+
+SOME POSSIBLE BEARINGS OF GENETICS ON PATHOLOGY
+
+THOMAS HUNT MORGAN, PROFESSOR EXPERIMENTAL ZOOLOGY, COLUMBIA UNIVERSITY.
+
+
+It has been pointed out in derision that modern genetics deals, for
+the most part, with the inheritance of abnormalities and disorders
+of various kinds—albinos, brachydactyls, cretins, dwarfs, freaks,
+giants, hermaphrodites, imbeciles, Jukes, Kallikaks, lunatics, morons,
+polydactyls, runts, simpletons, twins, and Zeros: in a word, with
+pathological phenomena in a very broad sense. This statement, intended
+as a reflection on genetics, carries with it an implication that a study
+dealing with such material cannot be of first rate importance. Such
+condemnation will probably be received by pathologists with the kind of
+smile it deserves, and I feel that I am not likely to be called upon
+here to answer such an indictment. Nevertheless, I am going to ask your
+indulgence, for a moment, since this slightly malicious statement should
+not be allowed to pass unchallenged, both because it is inaccurate, and
+because, even were it true, the result of such work might still be of
+more importance than its critics seem to realize. The source of this
+criticism is not without significance. It comes almost always from those
+whose interests lie in the field of evolution—in the old-fashioned use of
+that word. Now the articles of all evolutionary platforms include a plank
+about heredity. This plank is for the most part an ancient article that
+has been worn pretty thin. It is difficult to replace it (or at least it
+is supposed to be difficult to replace it) with the new wood of Mendelian
+genetics. Hence, I think, originates the criticism referred to.
+
+It is true that the student of Mendelian heredity does not often
+trouble himself about the nature of the character that he studies. He
+is concerned rather with its mode of inheritance. But the geneticist
+knows that opposed to each defect-producing element in the germ-plasm
+there is a normal partner of that element which we call its allelomorph.
+We can not study the inheritance of one member of such a pair of genes
+without at the same time studying the other. Hence whatever we learn
+about those hereditary elements that stand for defects, we learn just
+as much about the behavior of the normal partners of those elements. In
+a word, heredity is not confined to a study of the shuffling of those
+genes that produce abnormal forms, but is equally concerned with what is
+going on when normal genes are redistributed. This method of pitting one
+gene against the other furnishes the only kind of information relating to
+heredity about which we have precise knowledge.
+
+In man and in domesticated animals we find that individuals appear
+occasionally that are defective in one or another respect. Some of the
+defects are inherited. Rarely a new one appears that has not been seen
+before. But the majority of them are reappearances of characters that
+have been carried under the surface as recessive genes in the germ-plasm.
+Today we recognize that each of these modifications, if recessive, has
+first arisen as a mutational change in a single gene before it appeared
+on the surface as a character by the coming together of two such genes.
+Mendelism has furnished some information as to the way in which these
+hidden genes may get dispersed in the race. An example will serve to make
+this clear, Fig. 1.
+
+If a fly with vestigial wings, a recessive character, is crossed to a
+wild fly with long wings, all the offspring (F₁’s) will have long wings.
+If these are bred to each other the offspring will be of two kinds, like
+their grandparents, in the ratio of three long winged to one vestigial
+fly. The extracted vestigials will breed true to vestigial. The fact that
+the gene for vestigial has been carried by long winged F₁ parents has not
+affected the gene in any way, for the second generation of vestigials has
+wings as short as those of their grandparents.
+
+I have brought forward this case not so much to illustrate Mendel’s law
+of segregation as to use the facts for another purpose.
+
+[Illustration: FIG. 1. Cross between long-winged (wild type) _Drosophila
+melanogaster_ and vestigial-winged fly, producing long-winged offspring
+(F₁), which if bred to each other give in the next generation 3 long to 1
+vestigial. In the middle of the diagram, the pair of chromosomes that are
+involved in this cross are represented. The chromosome with the factor
+(gene) for long wings is here black; that for vestigial is open (v).]
+
+[Illustration: FIG. 2. Cross between long and vestigial wings, giving
+long in F₁. The long-winged hybrid F₁ female is then represented as
+out-bred to a wild-type male, giving long-winged offspring again—half
+pure-long and half hybrid-long. The last are represented as again
+out-bred to wild type, giving long-winged offspring again and of the same
+two genetic kinds as above.]
+
+When the vestigial fly was crossed to normal the mutant character
+disappeared in the hybrid. If such a hybrid is out-bred to normal all
+the offspring are again normal, but half of them carry the vestigial
+gene. If these are out-crossed again still only normal flies appear,
+Fig. 2. If such out-breeding is continued the vestigial gene will become
+widely distributed without ever showing itself at the surface, so to
+speak. If, however, at any time two hybrid flies mate, then a quarter
+of the offspring will have vestigial wings. It might seem then that the
+character had appeared for the first time in the race, if one did not
+know its past. In reality its gene may have been there for some time.
+Probably many of the recessive defects and malformations that appear
+in the human race—at least those due to hereditary factors—have had
+representative genes in the germ-plasm for several generations before
+they have appeared on the surface.
+
+We do not know how widespread recessive genes are in the human
+germ-plasm. The fact that defective individuals appear in certain
+communities may be safely interpreted to mean that individuals bearing
+the same gene have at last come together. On the other hand, the absence
+of such individuals from the community, at large, may only mean that the
+chance of suitable combinations is small, and does not mean necessarily
+that the gene in question is confined to the community within which the
+defects have been recorded.
+
+My illustration may give, however, an entirely erroneous idea as to
+the chance of a recessive character contaminating the race. If one can
+control the matings, so that out-breeding takes place each time, the
+result would undoubtedly be like that in our diagram; but what chance
+is there for a recessive character, that is neither beneficial nor
+injurious, if left to itself, to contaminate widely the race with its
+gene? The answer is that for any one defect there is hardly any chance
+at all. On the other hand, there is always a possibility that a defect
+_may_ become widespread despite the chances against each in turn. If a
+recessive _character_ is selected against each time it appears on the
+surface, the chance is extraordinarily small that the gene for such
+a character could ever become widespread in a race. If the recessive
+character is advantageous, its chance is somewhat better, but still the
+chance that it may be lost is very great.
+
+Let us turn for a moment to the inheritance of a Mendelian dominant
+character, and to simplify the situation let us first assume that the
+character itself is neither advantageous nor disadvantageous.
+
+It is popularly supposed that if a trait is dominant it will be expected
+to spread more widely in the race than will a recessive character.
+This is owing largely to a verbal confusion. Colloquially we think of
+dominance as meaning spreading. A dominant nation, for example, is
+one that is spread widely over the face of the earth. But a Mendelian
+dominant should carry no such implications. A dominant gene, if crossed
+into a race, will stand the same chances of being lost as a recessive
+gene, Fig. 3.
+
+The situation is similar in many ways to the inheritance of surnames in
+any human population. A new surname introduced is likely to disappear
+after a few generations. There is a bare chance, however, that it may
+spread.
+
+[Illustration: FIG. 3. Mating of short-fingered and normal individual
+(the short-fingered character is dominant), giving in F₁ normal
+and short-fingered individuals in equal numbers. If the latter is
+out-bred to normal again, half the next generation is normal and half
+short-fingered.]
+
+Of course if a dominant _character_ is advantageous in itself, it
+will have a better chance of spreading through the race, than will an
+advantageous recessive character, because every hybrid that carries
+one dominant gene shows also the character, which increases the chance
+that it will propagate and spread the genes. But, on the other hand,
+if a dominant character is injurious it will have a smaller chance of
+spreading than will an injurious recessive character; for, the recessive
+may be carried by the hybrid without showing itself, and therefore will
+not place the hybrid individual at a disadvantage.
+
+An excellent illustration of dominance is that recently published by
+Mohr. He has traced, through five generations of a Norwegian family, the
+inheritance of a shortened first digit. In the history of this case there
+is one record that is extraordinarily interesting. A child was born that
+was so completely crippled that it died in infancy. One parent was short
+fingered; the other, a cousin, was probably also short fingered. It is
+possible that the child had a double inheritance of this character; it
+was a pure dominant. If this is true, then it appears that this character
+can survive to maturity only in the hybrid condition. As a matter of
+fact, in other animals there are some well-recognized cases of this sort.
+That of the yellow mouse is the best known. Yellow is a dominant and in
+double dose it kills; therefore when yellow is bred to yellow all the
+pure yellows die. The hybrid yellows and the pure blacks (in Fig. 4)
+survive. Here yellow is discriminated against in the embryo; but, being
+dominant, it still appears twice as frequently in each generation as does
+the alternate character (here black). In the fly, Drosophila, we have at
+least 25 dominant lethal characters, but as yet we have no knowledge as
+to why such a high percentage of dominant characters should be lethal
+when homozygous.
+
+In man there are no certain cases known of lethal dominants unless some
+of the short-fingered types come under this heading.
+
+Dominant and recessive characters have been so much discussed in modern
+Mendelian literature that it is popularly supposed that all Mendelian
+characters must be either dominant or recessive when bred to the
+type. This is not the case. The hybrid (or heterozygote) is frequently
+intermediate. In fact, it might be said, almost without exaggeration,
+that the heterozygote nearly always shows some traces of its double
+origin. Sometimes the hybrid character is nearly midway between the
+parent types, sometimes more like one, or like the other. The important
+fact, however, is that in the germ cell of such intermediate hybrids,
+there is the same clean separation of the parental genes. In consequence,
+we find in the second generation the two grandparental types in pure form
+and an array of intermediates connecting them.
+
+[Illustration: FIG. 4. Yellow mouse (YB) crossed to yellow mouse (YB)
+produces here black and yellow offspring, in the ratio of 2:1. These
+yellow are again hybrid, and if bred to each other give the same result
+again. Pure yellow (YY) offspring die at early stage. They constitute one
+quarter of all the offspring.]
+
+In connection with the question of spreading of mutant genes in the race
+there is another consideration, seldom referred to, that may occasionally
+have some weight in accounting for the dispersal of genes. In _some_
+combinations the hybrid may be more vigorous and more fertile than either
+parental race. Hence it may have a better chance of survival than an
+individual of either parent stock. It is a difficult question, that we
+cannot answer at present, whether a mixed strain has a better chance
+of survival than one or another of the strains of which it is made up.
+The possibility that some hybrid strains may be better than either pure
+strain is enough to put one on his guard against the popular doctrine of
+racial purity so-called. Whatever advantages some kinds of pure races of
+mankind may have, from a political, religious or militaristic viewpoint,
+this should not blind us to the possibility of the biological advantages
+that certain mixtures may bring about. I emphasize the statement
+that _certain_ mixtures of races _may_ have a biological advantage.
+It is equally possible that other combinations may have a biological
+disadvantage. We are far from being able to state at present what
+combinations are beneficial and what are biologically injurious. It is an
+interesting problem, one of deep significance I think for the future of
+the human race, but mixed up as it is at present with difficult social
+and political questions it is a problem that only a light-hearted amateur
+or a politician is likely to be dogmatic about.
+
+Before we take up the main questions before us this evening, I must speak
+of one other form of heredity. In many instances we have evidence that
+a character is the product of more than a single _mutant_ gene. I say
+“mutant gene” because in fact every character is no doubt the product
+of the combined action of many genes, but in addition to this general
+relation there are many cases now known where there are several specific
+genes whose _chief_ effect is on one character. Size differences furnish
+abundant data of this sort. One of the clearest cases is that of the size
+of the ear of corn. Some races of corn have short ears (and cobs), some
+long. If two such races are crossed, the hybrid is intermediate with a
+considerable range of variation. If the hybrid is self-fertilized, the
+progeny in the next generation shows a still wider range of variation,
+extending from that of the shorter grandparent to that of the longer.
+Both grandparental cobs have reappeared, but also many intermediate
+grades, Fig. 5.
+
+[Illustration: FIG. 5. Cross between long- and short-eared corn. Samples
+of two original types shown in upper part of figure, hybrid offspring in
+the middle of figure, and samples of 2d generation in the lower part.
+(After East and Hays.)]
+
+Such cases were formerly spoken of as blended inheritance. It was
+supposed that the materials of the two parents have, as it were, fused
+in the offspring and have remained fused. Today we have a better
+explanation. It is this. Besides two major factors that here determine
+cob length, there are other _minor_ factors, some of which make the
+short cob longer, others that make the long cob shorter. These go over
+into the first generation hybrids, and are sorted out in the germ cells
+of the hybrid. Consequently, when the F₁’s are inbred, there are all
+sorts of recombinations of the minor factors. This explains the greater
+variability of the second generation.
+
+It is probable that in most of our domesticated animals, including man,
+much of the variability is due to multiple factors, which makes a study
+of inheritance in these groups extremely difficult, especially when, as
+in the case of man, the number of offspring from a pair is small, and
+critical combinations for study can not be made.
+
+If then it is highly improbable that any particular defective trait could
+ever become widely spread in the human germ-plasm, how does it come about
+that such defects as feeblemindedness and insanity are so widespread in
+the racial inheritance? There are several possibilities here to keep in
+mind, but I think we ought not to pretend that we can give a completely
+satisfactory account of the situation.
+
+First. While the chance is heavily against any one defect establishing
+itself, there is always the possibility that some one defect may
+establish itself. It must be remembered that while many defective strains
+may be lost, one would notice only those that had taken root. It is the
+presence of these that may give us an exaggerated idea of the generality
+of such occurrences.
+
+Second. If the human germ-plasm is continually mutating to produce one or
+another kind of specific defect, this will increase the chance for any
+recurrent defect to finally establish itself. That particular mutations
+do recur in other animals is now abundantly established by evidence that
+comes from several sources.
+
+Third. There is a growing impression that a good deal of feeblemindedness
+and insanity are environmental rather than hereditary traits; poverty,
+malnutrition, and especially syphilis are said to play a considerable
+rôle in their production. It is unsafe therefore to conclude that the
+human germ-plasm is as badly contaminated as some pessimists seem to
+think.
+
+If we turn now more directly to special kinds of human inheritance
+we shall find a great deal of evidence showing that the same laws of
+inheritance that hold for animals and for plants apply to man. It would
+be surprising if this were not the case.
+
+On the other hand, when we scrutinize the pedigrees that have been
+published to illustrate heredity in man, we shall find many of them very
+unsatisfactory in two main respects. (1) The number of offspring in a
+family is usually too small to serve as a sample of the germ-plasm of the
+parents. (2) Therefore, since recourse must be had to many families for
+sufficient data, it is essential that the diagnosis of the defects of the
+parents and of the children is correct. A single mistake may throw the
+result into confusion. In cases where the defect is structural, a correct
+classification may be possible, but in other cases, especially where
+psychological defects are involved, the diagnosis is difficult and the
+results, in consequence, less certain. Often the best that we can do in
+the case of man is to try to find the simplest Mendelian formula to which
+the evidence will fit. If one factor-difference will not suffice, then
+two must be tried; if two will not do, then three must be tried, etc. Now
+I need hardly point out that we can explain almost anything if we are
+allowed enough factors. It is, at best, a dangerous practice, one to be
+used only with great caution and the conclusion stated as provisional and
+checked in every possible way.
+
+I propose now to pass in review some characters in man known to be
+inherited, choosing preferably those that come nearest to the field of
+pathology, or belonging to it. I shall begin with comparatively simple
+cases, about which there can be little doubt, and pass to more and more
+difficult situations. I am taking the risk of reaching an anticlimax,
+but nevertheless such a procedure will, I hope, serve our purpose this
+evening if I can point out where the evidence is satisfactory and where
+it is deficient.
+
+My first illustration of inheritance in man may be said to be a
+physiological one, mainly because we do not know at present any
+structural or chemical basis for the reaction.
+
+[Illustration: FIG. 6. Inheritance of color blindness of man which
+is sex-linked (i.e., the factor for color blindness is carried in
+the X-chromosome). This X-chromosome is stippled in the figure while
+the X-chromosomes for normal eyes are represented by black X’s. The
+color-blind eye is also stippled, and the normal eye (which distinguishes
+between red and green) is here represented by an eye half black and half
+cross-lined. The 1st generation offspring (F₁) are normal eyed. In the 2d
+generation offspring, half the sons are color blind.]
+
+Color-blindness in man is clearly a case of sex-linked inheritance.
+It conforms to the general scheme of inheritance in other animals; in
+Drosophila, for example, we have about sixty mutant characters which show
+this form of inheritance.
+
+A color-blind man married to a normal woman has only normal daughters and
+sons; all of the daughters, however, transmit color-blindness to half of
+their sons, Fig. 6.
+
+Color-blind women are rare, because they can never arise unless a
+color-blind man marries a woman who is color-blind, or else marries a
+normal woman who had a color-blind father, or had a mother heterozygous
+for color-blindness, Fig. 7.
+
+[Illustration: FIG. 7. Reciprocal of the cross shown in Fig. 6. Here a
+normal-eyed male marries a color-blind female, giving all color-blind
+sons and normal daughters. When two individuals like these marry, the
+expectation is for half of the daughters and half of the sons to be color
+blind, and half of the daughters and half of the sons to be normal eyed.]
+
+The pedigrees of color-blind families—and they are many—leave little
+doubt as to the mode of inheritance of this character.
+
+Accepting this evidence as on the whole satisfactory, there is still
+something more to be said. As is well-known there are many grades
+of color-blindness. We do not know whether these grades are due to
+fluctuating (individual) variations—assuming it to be due to one gene:
+or whether there are several genes that differ in the degree to which
+they produce the defect. In fact we know now of a good many cases in
+other animals where there are several mutations of the same gene.
+For instance, in Drosophila there is a series of ten such multiple
+allelomorphs for eye colors that range from pure white to deep wine-red.
+There is still another possible interpretation of the different kinds
+of color-blindness—one which _a priori_ would seem to be the most
+probable—namely, that the differences are due to other modifying genes
+that affect the extent to which the character develops.
+
+While in the great majority of cases, the scheme of color-blindness is
+that shown by the diagram, we know that occasionally the machinery may
+be changed to give a somewhat different result. It is possible, for
+example, that a color-blind man married to a perfectly normal woman may
+rarely produce a color-blind son. A few years ago such a result would
+have appeared to upset the entire scheme of sex-linked inheritance, today
+we understand how such cases may arise through a process that is called
+non-disjunction, which is best illustrated by numerous cases well worked
+out in Drosophila.
+
+My second illustration has a more obvious chemical basis. Hemophilia is
+also sex-linked in inheritance. It is known to be much more common in
+men than in women, the explanation for this is the same as in the other
+case. In affected individuals the blood fails to coagulate quickly and
+the difference in chemical composition of the blood is, in contrast to
+normal, the inherited character.
+
+[Illustration: FIG. 8. Representing the kinds of individuals expected
+when an individual of the blood group type AaBb marries individual of the
+same blood type, namely AaBb. Sixteen kinds of individuals are possible
+in the ratio of 9:3:3:1. These belong to four blood types, namely, class
+IV that contains at least one A and one B; class II that contains at
+least one A but no B; class III that contains at least one B but no A;
+and class I that contains neither A nor B.]
+
+One of the most remarkable cases of heredity in man is found in the
+so-called blood groups. As first definitely shown by Von Dungern and
+Hirschfeld in 1910, the inheritance of the four blood groups conforms to
+Mendel’s laws. So consistent is this relation that, as Ottenberg pointed
+out in 1921, the evidence might be used in certain cases to determine
+the parentage of the child. Since this statement has recently been
+disputed by Buchanan, from an entirely wrong interpretation of Mendel’s
+principles, I should like to point out that on the Mendelian assumption
+of two pairs of factors, all the known results are fully accounted for.
+If we represent one pair of genes by A and a and the other pair by B
+and b, and if we represent an individual with the genetic constitution
+AaBb mating with another individual of like constitution (AaBb), then
+each will contain four kinds of germ cells, viz., AB, Ab, Ba, and ab. The
+sixteen possible combinations formed if any sperm may fertilize any egg
+are shown in Fig. 8.
+
+These sixteen individuals fall into four groups according to whether they
+have both A and B, or only A, or only B, or neither A nor B (_i.e._, ab)
+in the proportion of 9AB:3A:3B:1ab. These four genetic classes correspond
+to the four recognized blood types IV, II, III, I, as indicated in
+the diagram. Now these sixteen kinds of individuals are found in all
+populations, so far studied, although in somewhat different proportions
+in different “races.”
+
+It is very simple to tell what the kinds of genetic offspring will be
+where any one of these sixteen individuals marries any other one. These
+possibilities are summarized in the following statement taken from
+Ottenberg:
+
+        Unions of   I and   I  give I
+                    I      II }
+                              }      I, II
+                   II      II }
+
+                    I     III }
+                              }      I, III
+                  III     III }
+
+    Unions of II  and III give I, II, III, IV.
+              IV      I        I, II, III, IV.
+              IV      II       I, II, III, IV.
+              IV      III      I, II, III, IV.
+              IV      IV       I, II, III, IV.
+
+Two actual pedigrees, one of them carried through three generations, will
+serve to illustrate particular cases, Fig. 9.
+
+From a knowledge of the blood group to which the child belongs it is
+possible to predict to what groups its parents may have belonged, and in
+certain cases it is possible to state that an individual of a certain
+group could not have been the parent of a particular child.
+
+[Illustration: FIG. 9. The upper pedigree gives the children from the
+family in which types I and IV were the parents. The offspring belong to
+types II and III (two of the four possible kinds of offspring).
+
+The lower pedigree represents three generations. The grandparents are I
+and II and I and III, respectively, while the parents are II and III.]
+
+In the transfusion of blood from one individual to another, that is
+sometimes necessary, it is essential that the blood corpuscles of the
+donor are not agglutinated by the serum of the recipient. Thus it is a
+matter of great importance to select a donor that does not bring about
+such a catastrophe. The simple rules are that individuals belonging to
+the same blood group (I, II, III, or IV) do not agglutinate each other’s
+blood, but the blood corpuscles of an individual represented by AA or Aa
+will be precipitated if the donor contains the agglutinin represented
+by aa, and conversely the blood corpuscles of an individual represented
+by BB or Bb will be precipitated if the donor contains the agglutinin
+represented by bb. Inspection of the diagram will show that group II
+(with serum bb) precipitates III and IV, and group III (with serum aa)
+precipitates II and IV. Further the serum of group I (aa bb) precipitates
+all of the other groups; while the serum of group IV precipitates none of
+the others.
+
+My fourth illustration has probably in some cases a glandular basis,
+and in this sense has probably also a quantitative chemical background.
+Height or stature in man is, in part, an hereditary trait. It is
+sometimes said that short is dominant to tall, because short parents may
+have both tall and short children, but tall parents produce only tall
+children. This is probably an overstatement, or at least a rather loose
+generalization. Height may be due to long legs, or to a long body, or
+to a long neck or to time of reaching maturity or to any combination of
+these; and these differences may themselves be due to independent factors
+in inheritance. The best that we can do with height at present is to
+refer it to a multiple factor basis, the actual factors being little
+understood.
+
+In addition to these differences in stature, all of which we call normal
+differences, there are certain extreme conditions superimposed on these
+as a background, in which the endocrine glands probably play an important
+rôle. While it may well be that many of these cases are caused by
+tumors of one of the glands, more especially of the pituitary, thyroid,
+or testis, it is quite possible that there may be actual inherited
+differences in the size and activity of these glands.
+
+So far as I know there are no thoroughly worked out cases of the
+inheritance of such differences in man or in mammals, but in the case of
+certain races of birds I have been able to show both by breeding tests
+and by castration experiments that glandular differences are inherited
+according to the Mendelian scheme.
+
+[Illustration: FIG. 10. Above (A) normal adult hen-feathered Campine
+cock. Below (B) castrated cock about one year after operation. The
+castrated bird has developed the secondary sexual characters of
+cock-feathering.]
+
+There is a race of fowls known as Campines in which there are two
+kinds of males, hen-feathered males and cock-feathered males. If the
+hen-feathered male is castrated, the new feathers that develop are the
+long feathers of the cock-feathered male, Fig. 10. In another race of
+fowls, Sebright bantams, only the hen-feathered males are known. If
+these are castrated, the new feathers that develop are the long feathers
+characteristic of all other races of poultry, Fig. 11.
+
+[Illustration: FIG. 11. To left (a) hen-feathered Sebright cock. To
+right (b) castrated Sebright cock that has developed characteristic
+cock-feathering.]
+
+If the Sebright male is out-crossed to a hen of another breed in which
+only cock-feathered males occur, it will be found that all the first
+generation males are hen-feathered. If these are now bred to their
+sisters there are produced, in the second generation, three hen-feathered
+males to one cock-feathered male, showing that the difference between the
+two races is inherited, Fig. 12.
+
+[Illustration: FIG. 12. Cross between hen-feathered Sebright cock and
+black-breasted game female belonging to a race with cock-feathered males.
+The offspring (F₁) are hen-feathered males and normal hens. These inbred
+give 3 hen-feathered to 1 cock-feathered son.]
+
+Now in this case we can perhaps go further. An examination of sections of
+the testes has shown that in the hen-feathered Sebright male there are
+certain kinds of cells, called luteal cells, while these are absent in
+the sections of the testes of normal cocks. These same luteal cells are
+like those present in the stroma of the ovary of all female birds. If we
+assume that they make an internal secretion that prevents the development
+of cock-feathering, both in the normal hen and in hen-feathered cocks, we
+have a complete explanation of all the facts. This explanation is made
+more probable by the results of removing the ovary of the hen, when,
+as Goodale has shown, the spayed hen develops the full male plumage of
+her breed. Since the luteal cells are present in the hen and in the
+hen-feathered cock, and are absent in the adult cock-feathered male, it
+seems not a far-fetched hypothesis to assume that these cells (or their
+secretions) are those involved.
+
+The next illustration carries its into a more debatable field. Many human
+defects are connected with the nervous system, and it is interesting
+to find that many of them are believed to be inherited; even when no
+corresponding structural basis in the brain can be made responsible for
+the defect.
+
+Feeblemindedness, insanity, and even some types of criminality have
+been _said_ to be inherited according to a simple one-factor Mendelian
+difference. Owing to the difficulty of diagnosis it is obvious that
+the student of genetics would be expected to approach these problems
+with the utmost caution. The data, on which some rather sweeping
+conclusions have been based, sometimes show, on closer scrutiny, obvious
+contradictions. Take, for example, the case of feeblemindedness which has
+been represented as though it differed from the normal (whatever that may
+be) by a single Mendelian factor difference. The evidence for this is far
+from convincing, and all that can be safely said, I think, is that there
+are types of imbecility that may possibly be due to multiple factors, but
+until the relation of imbecility to various disorders of the glands and
+to syphilis has been thoroughly studied, even my cautious statement may
+seem to go too far. Curiously enough no one has as yet had the temerity
+to suggest that some of the high-grade imbecile types—the moron, for
+example—might represent an ancestral stage of the human race. If this
+were true, intelligence would then be looked upon as an innovation in
+the race, that has not yet spread to all of its members. I am aware
+that a similar suggestion has been made with respect to the criminal.
+Lombroso’s “criminal type” is notorious. The criminal has been painted
+as the ancestral brute from which the more docile human animal has arisen
+through loss of “wild-type” genes. I need not state, perhaps, that no one
+takes such speculations seriously today from a genetic standpoint.
+
+Immunity and resistance to disease are subjects of great interest to
+geneticists as well as to pathologists.
+
+Setting aside, of course, cases where the immunity is due to some
+_temporary_ physiological state (little understood at present, I
+believe), and also setting aside immunity acquired by recovery from
+attack or inoculation, there still remain races that have, as we say, a
+constitutional resistance.
+
+The best ascertained cases in this field are those worked out by Tyzzer
+and Tyzzer and Little. A carcinoma that originated in Japanese waltzing
+mice grew in practically every individual of the race when implanted. It
+failed to grow in “common” mice. The hybrid mice from these two races
+were also susceptible in nearly every case.
+
+When the F₁’s were back-crossed to “common mice” the offspring were not
+susceptible. When the F₁’s were back-crossed to the Japanese waltzer all
+were susceptible. When the F₁’s were inbred only about 2.5 per cent. of
+the offspring were susceptible, Fig. 13.
+
+These results show at least that there must be more than one, two or
+three factor differences between the two races that are concerned with
+tumor susceptibility.
+
+Tyzzer and Little suggest in fact that 12 to 14 independently inherited
+factors are involved. Larger numbers of tests will be necessary before
+it is possible to state how many factors are needed. A curious feature
+of the case should not pass unnoticed. Many or all of the factors for
+_susceptibility_ must be assumed to be dominant. It is not generally
+known, but there is some evidence that the so-called Japanese waltzer
+originated from Asiatic house mice, which according to some writers
+belong to a distinct species or at least a distinct variety. The
+results suggest that we may be dealing here with species or varietal
+differences, hence the large number of factor differences involved. It
+may be necessary to work with a simpler situation where fewer factors are
+involved; possibly such a case as that of the Jensen tumor will furnish
+proper material, but it will be necessary to work with pedigreed material
+rather than with “Danish,” “French,” “German,” or even English breeds of
+mice.
+
+[Illustration: FIG. 13. Diagram showing inheritance of immunity to
+cancer. (From Tyzzer and Little.)]
+
+In plants also the inheritance of immunity of wheat to rust has been
+studied. Biffen’s results with wheat are those best known. An immune race
+crossed to a susceptible race gave first generation plants that were
+attacked. This means that immunity is a recessive character. In the next
+generation there were 64 immune and 194 affected plants (a 1:3 ratio). If
+the immune plants are self-fertilized, they yield only immune plants in
+later generations.
+
+Nilsson-Ehle and Vavilov think that such simple relations are rather the
+exception than the rule. Vavilov found that Persian wheat, immune to
+mildew, crossed to different susceptible species produced offspring that
+were immune in 13 combinations. In these cases immunity is dominant.
+
+In the next generation several degrees of resistance were noted—and a few
+plants were even more susceptible than their grandparents.
+
+It is interesting again to note that susceptibility and immunity are
+species and variety characters in these cases, but this does not
+mean that the differences are not Mendelian. It suggests however the
+possibility that several or many factor differences are often involved.
+
+There is no more interesting field in which genetics and pathology meet
+than that of cancer. I realize how careful we on our side must be in
+discussing this question with you who are experts, nevertheless there are
+certain aspects of the problems of cancer from the genetic side that I
+may be allowed briefly to mention—not, however, without some misgivings.
+
+Suppose all men over seventy-five died of arteriosclerosis. Could one say
+that hardening of the arteries is inherited? I think that it would be
+proper to use the word heredity to include such a case, but we would not
+know how it was inherited unless there existed another race of men who
+never died of the malady, and suitable matings were made between the two
+races.
+
+Suppose again that all old men died of pneumonia. Could we say that
+susceptibility to pneumonia, after eighty, is inherited? Again, yes!
+But again we could get no information as to the way in which this
+susceptibility is inherited without crossing to an immune race.
+
+Now suppose there are strains of mice all of which die of cancer after
+their first year. Could we say that in them cancer is inherited? The
+answer would depend in part on what connotations the word _inherit_
+carries with it, for, either susceptibility might be meant, or the
+“spontaneous” development of cancer might be meant. The latter
+interpretation is, I think, generally implied, which carries with it
+two further implications. First implication, viz., that when a certain
+age is reached, a certain inherited complex leads to the development of
+cancer in one or more regions of the body. Here some such process as that
+of the hardening of the arteries seems to be vaguely implied. Second
+implication, viz., that a change in method of growth (a release from the
+ordinary restraining influences) suddenly occurs, beginning in a single
+cell of some particular tissue. Stated in this second way, the appearance
+of spontaneous cancer suggests at once a comparison with the mutation
+process that is known to occur in somatic cells as well as in germ cells.
+
+Now if the first interpretation is to be placed on the word heredity,
+when applied to cancer, there is nothing more to be said, except that
+the only way such a situation can be studied as a genetic problem is to
+out-cross the strain of cancer mice in question to another that never
+develops spontaneous cancer. But if the second interpretation is implied,
+then the whole situation is put in a very different light. Let us examine
+this a little more closely.
+
+Suppose, as a theoretical possibility, that spontaneous cancer is due
+to a recurrent somatic mutation of a specific gene to a dominant one
+that leads to cancer. Then the proportion of individuals that develop
+spontaneous cancer in such a strain will depend on the frequency of
+mutation of this specific gene. Consequently, if such a strain is
+out-crossed to another race (that introduces the allelomorph of the
+postulated gene), the number of F₁ offspring that develop the specific
+cancer would be half as numerous as in the original cancer strain
+(since the gene in question occurs only half as many times as in the
+original complex). In the F₂ generation the frequency for the extracted
+double dominant will be that of the original strain, that of the F₂
+heterozygotes will be the same as that of the F₁, and the extracted
+double recessive class will not develop cancer at all. Now, if it is not
+possible to distinguish between these different F₂ classes by inspection,
+the difficulty of finding out how cancer is “inherited” would be very
+great. In such an imaginary situation, the ratio of cancer-developing
+mice may not appear to correspond to any of the known Mendelian ratios,
+because superimposed on the genetic situation there would be added
+results depending on the frequency of mutation when a specific gene is
+present.
+
+Other complicating conditions will also suggest themselves to any one
+familiar with genetic and mutation processes; for, the possibility that
+the mutation itself is more or less likely to occur in one or another
+genetic complex must be reckoned with, as well as the likelihood of the
+mutation showing itself or developing in any tissue or only in cells of
+specific tissues, etc.
+
+I am far from wishing to suggest that spontaneous cancer is a mutational
+process, despite certain rather obvious resemblances to mutational
+effects in plants and animals, but I should like to insist that the
+appearance of spontaneous cancer is in its nature so peculiar that one
+can not afford to ignore such a possibility in any discussion as to
+whether spontaneous cancer is or is not “inherited.”
+
+There are several cases of inheritance of tumors in our Drosophila
+material. Here I am on safer ground. One of them, discovered by Dr.
+Bridges, worked out by Dr. Stark, I should like to speak about, because
+it shows how linkage of characters can be used in the study of heredity
+of a character and conversely in its elimination. In a certain culture
+one fourth of the maggots develop one or more black masses of pigment in
+the body; such maggots always die. They are always males. Consequently
+there are twice as many daughters as sons in such a strain. The gene
+is carried by the X-chromosome and its inheritance is like that of all
+sex-linked characters as shown in Fig. 14.
+
+[Illustration: FIG. 14. Diagram showing inheritance of a sex-linked
+recessive lethal (“tumor”) factor in _Drosophila melanogaster_. Here, in
+the center of the diagram, the sex-chromosome that carries the lethal
+factor is represented by the black rod. A female with the tumor-factor,
+normal wings and red eyes, in one of her sex-chromosomes and with the
+factors for yellow wings and eosin eyes in the other is bred in each
+generation to a male with yellow wings and eosin eyes. In the next
+generation there are twice as many daughters as sons, since all the sons
+that carry the black chromosome die. The half of the daughters (_i.e._,
+those not yellow eosin) that carry the black chromosome repeat the same
+history. The linkage of yellow and eosin enables one to pick out in each
+generation those daughters that carry the tumor-factor.]
+
+All males that get their single X with this tumor-gene will die;
+therefore, since no adult males carry it, normal males must be used
+for mating in each generation. They are mated to females that are
+heterozygous for the chromosome carrying the tumor genes. Such matings
+as I have said always give two daughters to one son. But since half the
+daughters are normal and half carry the gene for tumor it is desirable
+to be able to pick out the latter from the stock. Therefore we have made
+use of a trick we call “marking the chromosome,” which means that we use
+a male whose sex chromosome carries a known gene near the tumor locus.
+By using this type of male in successive generations we get two types of
+daughters: one type like their surviving brothers in eye color that do
+not carry the tumor-gene and the other daughter with normal eyes that
+carries it. We use only the latter to continue the stock, but we could
+eliminate the tumor from the stock at once by using the other kind of
+daughters.
+
+Curiously enough the tumor no longer appears in the inbred stock but
+reappears again on out-breeding. Nevertheless the sex-ratio in the inbred
+stock continues as before, and since the missing males are those with red
+eyes we know that the tumor-gene is still present and doing its deadly
+work—only now the young male larvæ die even before they reach the age at
+which the tumor is due to appear.
+
+So far I have spoken of heredity as though that term had become
+synonymous with Mendelian heredity. Those of as who are at work on
+Mendelian inheritance are often criticized as too narrow. It is said that
+we do not recognize that any other kind of inheritance takes place. I do
+not think the criticism is quite fair, because, in the first place, the
+very great number of variations studied has been shown to conform to the
+Mendelian principles or at least to be capable of such interpretation.
+There are, however, a few exceptional cases. In certain albino plants
+it has been shown that the inheritance of albinism can be traced to the
+behavior of the chlorophyll bodies in the cytoplasm. The chlorophyll
+bodies are known to divide and to be distributed to the two daughter
+cells at each division independently of the nuclear division and of the
+maturation process in the egg.
+
+Why, then, it is asked, may not there be present in the cytoplasm
+of the cell other self-perpetuating bodies that are responsible for
+certain kinds of inheritance? Why not go further and ask, why, since the
+cytoplasm appears to be handed down from cell to cell, may it not furnish
+also a different medium for inheritance of characters? Theoretically
+such an argument is logical. No student of Mendelism would I think deny
+such a possibility. But, as a matter of fact, it is not going too far
+to say that, at present, there is little evidence that such inheritance
+takes place, except in a few special cases, like that of the chlorophyll
+bodies. It is safe, I think, to say that if cytoplasmic inheritance
+played any important rôle in heredity in the higher animals and plants,
+we should expect, by now, to have found many cases of it. None are known
+to us.
+
+Whether Mendel’s laws of heredity apply to unicellular animals, to
+bacteria and to similar types, in which the mechanism for this type of
+inheritance has not been shown to exist, can not be affirmed or denied
+from the evidence at hand.
+
+There are at present three outstanding cases in the higher animals, in
+which an induced variation is said to be inherited afterwards. These
+cases are of great interest to pathology. We can not afford to pass them
+over. First, there is Brown-Sequard’s claim that injuries to the nerve
+cord or to the cervical or sciatic nerves of guinea pigs produce effects
+that are transmitted.
+
+Second, there are the cases of the inherited effects caused by alcohol in
+guinea pigs discovered by Stockard.
+
+Third, there is Guyer’s evidence that an effect on the eye, caused by
+foreign serum, is transmitted.
+
+Brown-Sequard’s experiments have been repeated several times; almost
+always with negative results. Today his claims are practically forgotten.
+
+Stockard’s results with guinea pigs, unlike those of Brown-Sequard, have
+been done under carefully controlled conditions. He has guarded against
+abnormalities in his stock by using pedigreed material. The malformations
+that reappear in successive generations are general rather than specific.
+Such organs as the eye are those hardest hit, but this is supposed
+to be rather a by-product of the general debility of the individual.
+Stockard points out that the alcohol has affected the germ cells, and it
+is through these that the effects are transmitted. Now if one or more
+genes had been permanently changed we should expect to have evidence of
+Mendelian inheritance. The results do not show convincingly that the
+inheritance is not Mendelian, but it does not appear to be so. There is
+another possibility. Recent results have shown that rarely entire blocks
+of genes—pieces of the chromosomes—may be duplicated (owing to imperfect
+separation) or pieces may be lost. Here the effects on the organism are
+more far-reaching than when a single gene is changed. It remains to be
+discovered whether, in some such way as this, Stockard’s remarkable
+results may be brought into line.
+
+Guyer injected the crushed lens of rabbits into fowls. From the blood of
+the fowl he obtained serum that was injected into pregnant rabbits. The
+offspring of these rabbits whether male or female often had defective
+eyes and lenses. The defect was even transmitted to later generations.
+Here also the germ cells of the embryo may be changed by serum that at
+the same time affects the development of the eyes of the embryo in utero.
+
+If this is the case we should expect, as Guyer pointed out, that the germ
+cells of the pregnant mother (into which the serum was injected) would
+also show effects. It should have been a simple matter to show this by a
+proper test. The test that Guyer made, namely by out-breeding the mother
+and finding no defective F₁ young, was quite inadequate if, as appears to
+be the case, the character is a recessive.
+
+It is important to keep clearly in mind that there are two distinct
+questions involved in these three cases. Genetics has to deal with only
+one of them. There is first the question of the action of environment
+on the germ cells. Genetics has nothing to do with this question. There
+is then to be determined whether, if variations may be induced in
+these ways, they fall into one or another of the Mendelian moulds. This
+is for the geneticist to determine, but he finds himself in a curious
+predicament, for it can not be claimed that any of these three cases have
+been shown to give a direct Mendelian result—but neither can it be denied
+that they may possibly come under the scheme, or some modification of it.
+There we must leave the matter at present.
+
+If I have appeared at times overcritical concerning the application of
+genetics to pathology, it is not because I do not sympathize with the
+attempts that have been made to apply genetics to pathology. I realize,
+of course, that from the nature of the case much of this work is pioneer
+work, where rough and ready methods have often to be resorted to. So
+long as this is kept in view, no harm can be done in attempting to find
+how far Mendel’s principles can apply to heredity in man. But I want to
+enter a protest against the danger of premature conclusions drawn from
+insufficient evidence. In our enthusiasm in applying Mendel’s laws, we
+should be careful not to compromise them.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK SOME POSSIBLE BEARINGS OF GENETICS ON PATHOLOGY ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

@@ -1,0 +1,1395 @@
+﻿The Project Gutenberg eBook of The Kansas University Science Bulletin, Vol. I, No. 2, February, 1902
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: The Kansas University Science Bulletin, Vol. I, No. 2, February, 1902
+
+Author: Various
+
+Release date: June 8, 2017 [eBook #54868]
+                Most recently updated: October 23, 2024
+
+Language: English
+
+Credits: Produced by Larry B. Harrison, Paul Marshall and the Online
+        Distributed Proofreading Team at http://www.pgdp.net (This
+        book was produced from images made available by the
+        HathiTrust Digital Library.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE KANSAS UNIVERSITY SCIENCE BULLETIN, VOL. I, NO. 2, FEBRUARY, 1902 ***
+
+ Transcriber's Notes:
+
+  Underscores "_" before and after a word or phrase indicate _italics_
+    in the original text.
+  Small capitals have been converted to SOLID capitals.
+  Typographical errors have been silently corrected but other variations
+    in spelling and punctuation remain unaltered.
+  The quotations in German appear to have some errors, but these
+    quotations have been reproduced exactly as in the original paper.
+
+
+
+
+               THE KANSAS UNIVERSITY SCIENCE BULLETIN.
+
+                  (VOL. I, NO. 2—FEBRUARY, 1902.
+                   Whole Series, Vol. XI, No. 2.)
+
+
+                              CONTENTS:
+
+           SPERMATID TRANSFORMATIONS IN GRYLLUS ASSIMILIS,
+              WITH SPECIAL REFERENCE TO THE NEBENKERN.
+                                           —_W. J. Baumgartner._
+
+                    PUBLISHED BY THE UNIVERSITY,
+
+                           LAWRENCE, KAN.
+
+                   Price of this number, 30 cents.
+
+   Entered at the post-office in Lawrence as second-class matter.
+
+                 KANSAS UNIVERSITY SCIENCE BULLETIN.
+
+           VOL. I, NO. 2.   FEBRUARY, 1902.   {WHOLE SERIES,
+                                              {VOL. XI, NO. 2.
+
+
+
+
+                      SPERMATID TRANSFORMATIONS
+
+   In Gryllus assimilis, with Special Reference to the Nebenkern.
+
+
+             (Thesis for the degree of Master of Arts.)
+
+                        BY W. J. BAUMGARTNER.
+
+                       With Plates II and III.
+
+              I.—METHODS.
+             II.—MATERIAL.
+            III.—OBSERVATIONS.
+                    (_a_) NUCLEUS.
+                    (_b_) Cytoplasmic Structures.
+                           1. Nebenkern.
+                           2. Acrosome.
+                           3. Axial Filament.
+                           4. Centrosome.
+                           5. Cell Body.
+                    (_c_) The Spermatozoon.
+             IV.—COMPARISON OF RESULTS.
+              V.—SUMMARY.
+
+It is the object of these studies to follow carefully the spermatid
+transformations, and, if possible, to get a complete series of
+changes occurring therein. I do not pretend that I have as yet found
+all the stages, but in the present paper will publish observations
+made on _Gryllus assimilis_ pertaining chiefly to the nebenkern, of
+which I have found some stages not previously described, as far as I
+know. I shall first describe my own findings, and then compare them
+with the results of others.
+
+
+I. Methods.
+
+While other fixing agents were used, Flemming’s chromo-acetic-osmic
+mixture (strong) proved the best. Its fixation was satisfactory in
+all but a few stages, where the chemical changes going on in the cell
+are such that it seems difficult, probably impossible, to secure
+good, clear results; at least, neither Gilson’s nor Zenker’s mixture
+did any better on cells in these stages.
+
+Heidenhain’s iron-hæmatoxylin stain gave the best results, although
+Flemming’s three-color method was very satisfactory.
+
+Most of the observations are made from sectioned material, but smear
+preparations were used for advanced spermatozoa.
+
+
+II. Material.
+
+The first observations were made in January of the present year on
+some material prepared by Professor McClung, to whom I wish here
+to make most grateful acknowledgment for proposing the line of
+investigation, and for many helpful suggestions during the progress
+of the same. The testes were those of adult insects, and showed
+mostly only mature or almost mature spermatozoa. Enough spermatids
+were seen to indicate that their transformation into spermatozoa was
+somewhat peculiar.
+
+The material for the drawings was taken from specimens collected
+under stones and boards on and near the University campus, at
+Lawrence, Kan. Young nymphs of _Gryllus_ were caught as early as
+March 1, but the cells of the testes were all in the spermatogonia
+and spermatocyte stages. During the early part of May, after the
+nymphs had passed their third molt, crickets were secured whose
+testes showed all stages of development and transformation.
+
+_Gryllus assimilis_, the common black field cricket, has paired
+testes lying in the anterior dorsal part of the abdomen. These have
+a whitish transparent appearance, which becomes duller in the adult,
+showing sometimes a slight yellowish tinge. The shape of each is
+that of a somewhat conically rounded body, not unlike a flattened
+strawberry. Each testis consists of a central rachis about 3 mm.
+long, from which extend a large number of curved follicles varying in
+length from 1 to 3 mm.
+
+The follicles are larger toward the blind end and taper toward
+the rachis. Each follicle is divided into cysts, but more often
+transversely than longitudinally, for frequently one cyst occupies
+the whole follicle in cross-section. The cysts toward the rachis end
+of the follicle are much longer and narrower than those of the blind
+end. The cells are not very large and contain twenty-four chromosomes
+in the spermatogonial generations; eleven and twelve were most
+frequently found after the reduction.
+
+The follicles of the cricket testis show the different cell
+generations and the same relative arrangement of them as McClung
+(’00) found in _Hippiscus_, and Sutton (’00) in _Brachystola_.
+The spermatogonia are nearest the blind end of the follicles,
+spermatocytes next, and the spermatids following the latter. The
+cells of a cyst are not, as in _Anasa_ (Paulmier, ’99), “in the same
+stage of development,” but only approximately so, for some cysts show
+cells in the metaphase, while others have reached the telophase.
+Successive cysts, as in _Brachystola_, do not show successive stages;
+for, frequently, growing spermatocytes and late spermatids, or even
+young spermatozoa, were observed side by side. The individual cells
+in division pass through prophases, metaphases, anaphases, and
+telophases—these terms being used according to their usually accepted
+meanings. (See McClung, ’00.) In this paper I shall begin with the
+cell when it has reached the telophase of the second spermatocyte
+division; that is, just after the chromosomes have reached the poles
+of the spindle.
+
+
+III. Observations.
+
+
+(_a_) THE NUCLEUS.
+
+The chromatin in _Gryllus_ behaves very much as Henking (’91) has
+described for _Pyrrhocoris_, and Paulmier (’99) for _Anasa_. At the
+end of the anaphase the chromosomes are crowded together at the
+poles of the spindle. (Fig. 1.) A clear space begins to be formed
+around them, especially on the equatorial side. (Fig. 2.) They then
+separate and are scattered somewhat evenly over the nuclear membrane
+when it is formed, as seen in figs. 4, 5, and 6. Soon protuberances
+appear on the surface of the individual chromosomes, making their
+outlines irregular. At about this time they begin to show a granular
+structure. The chromosomes break up more and more, and soon the
+chromatin appears in irregularly arranged patches or blotches of
+granules of various sizes. (Fig. 8.)
+
+Meanwhile the nucleus has slowly increased in size. It reaches its
+maximum, which is probably about treble its original diameter,
+before the cell begins to elongate. The granules have been breaking
+up into finer and finer pieces, until, a little after the cell has
+reached its maximum, the chromatin has largely disappeared, or, to
+be more exact, has lost its affinity for stains. (Fig. 16.) As the
+cell begins to elongate, the nucleus goes to one end, namely, that
+toward the periphery of the cyst. (Figs. 14 and 15.) The chromatin
+again frequently appears in patches as the cell decreases in size.
+(Figs. 33 and 36.) In many cells the patches never disappear. When it
+has diminished to less than half its maximum diameter, the nucleus
+begins to elongate, becoming elliptical, and finally forms the long,
+tube-like head of the spermatozoon. (Figs. 43 and 45.)
+
+I found here that the nucleus was hollow, or, better, that it
+showed a clear space within. For a long time it contains the many
+chromatin granules, as seen in figs. 39, 40, and 41; but at last the
+walls seem to attract all these granular masses, and the center is
+entirely clear, as in fig. 45. In fig. 44 are shown cross-sections
+of spermatozoa heads, of the stage of fig. 43. In fig. 45 we have a
+mature spermatozoon head.
+
+The _accessory chromosome_ in _Gryllus_ lags behind during the
+spermatogonial divisions, just as in _Xiphidium_ (McClung, ’99),
+and retains its identity all through the growth period, in many
+cases becoming quite large. At first it cannot be distinguished
+in the spermatid, but soon its stronger stain and exemption from
+disintegration make it apparent. (Fig. 4.) It is flattened against
+the nuclear wall and, unlike Paulmier’s “small chromosome,” it
+does not break up but remains intact, as Henking and McClung have
+described. (Figs. 14, 18, 32, 37, and others.) It gets larger and
+then smaller, and is finally lost in the rest of the chromatin, as
+the latter condenses to form the spermatozoon head. I was not able
+to see that it occupied one side of the elongating head, as McClung
+describes it in _Xiphidium_. The darker stain and regular contour,
+and sometimes its greater size, made it in most stages quite evident.
+
+
+(_b_) CYTOPLASMIC STRUCTURES.
+
+It is in the cytoplasmic structures that _Gryllus_ shows some things
+that have not been described, so far as I know; yet I almost hesitate
+to enter the discussion concerning the nebenkern, the mitosome, the
+idiozome, the archoplasm, the attraction sphere, the acrosome, the
+“mitochondrion körper” and other bodies which have been described in
+the extra-nuclear parts of the germ-cell. But because I have been
+unable to find in any of the papers a description of a structure
+like the one in _Gryllus_, I shall proceed to describe the nebenkern
+as I find it. I shall interpret the appearances as far as possible,
+leaving to others, or to later efforts, the complete harmonizing of
+this element with the structures of other species.
+
+Before I proceed, I would add my protest against the name
+“nebenkern,” as voiced by Calkins (’95), Erlanger (’96), Meves (’00),
+and others. It is inapt and not at all descriptive or distinctive.
+But since we have the word, and investigators will use it to mean
+something, I think it would be best to restrict the word, as Calkins
+and Erlanger suggest, to the remaining spindle fibers and connective
+fibers which go to each spermatid and which have an important part
+in forming the tail membrane. I shall retain the name for a further
+reason, which St. George (’97) gives for first using it, “weil
+sie die Frage nach der Herkunft dieses Gebildes offen lässt.” A
+comparison of the literature will convince any one that the origin of
+this element is still a much-disputed question.
+
+
+1.—_Nebenkern._
+
+There are, in _Gryllus_ spermatids, two quite permanent and prominent
+extra-nuclear bodies. The larger of these I shall call _nebenkern_,
+because I believe it originates from the spindle remains, and goes to
+form the tail covering. Its behavior is as follows: At the beginning
+of the telophase the fibers which had connected the centrosomes with
+the chromosomes bulge out like barrel staves, as Henking (’91) has
+described. These break loose from the chromosomes and centrosomes
+as the clear space begins to form around the chromatin mass (fig.
+2); but they are not separated into two rings, as in _Anasa_
+and _Pyrrhocoris_. As the dividing cell membrane is formed, the
+middle portions of the fibers are drawn together and the so-called
+“mid-body” is formed. Some of the fibers unite, producing thicker
+ones, as seen in figs. 1, 2, and 3. In the last-named figure some
+of the central fibers seem to be still united with those of the
+companion spermatids.
+
+As the daughter-cell shortens and the nucleus takes a more central
+position these fibers unite still more, shorten, bend together (figs.
+4, 5, and 6), and finally assume the shape shown in fig. 7. I shall
+call it for the present the “striated condition,” or simply “striated
+nebenkern.” The shape resembles that of an egg with rather sharply
+drawn-out ends. The surface is occupied at intervals with deeply
+staining lines which look much like hoops. In most cases the long
+axis of the nebenkern is at right angles to the axis of the spindle
+from which it was formed, while the striæ, or dark lines, are in
+planes parallel to it, as is seen in figs. 7 and 8_a_. In a few cases
+the lines are parallel to the long axis of the nebenkern, as shown in
+fig. 8_b_. Fig. 9 exhibits a partial end view of the nebenkern, while
+fig. 26 represents a polar view in all planes.
+
+The fibers in figs. 4 and 5 are not all in the same plane, giving
+frequently, with changing focus, the impression that the lines are
+the edges of plates. Even in figs. 7 and 8, the appearances shown
+made me hesitate for some time before I dared say that the lines
+represent striæ on the surface and not plates extending through the
+body. But the end views (figs. 9 and 26) and the two drawings in fig.
+19 show clearly that we are dealing with encircling hoops and not
+dividing plates. Just how or why the fibers bend and assume the shape
+of figs. 7 and 8 I am not able to say, but I am sure it is not an
+artefact, as might be supposed, because I have found them occupying
+whole cysts of several testes, and nearly all of them were as regular
+and definite as fig. 7.[A]
+
+I have found the nebenkern in its perfect condition (fig. 7) only in
+material fixed in Flemming; although Zenker’s fixation showed some of
+the breaking-up stages. This may be due partly to poorer fixation in
+other mixtures and partly to chance, as not so many testes fixed in
+other agents were examined, and the appearance evidently represents
+a very brief stage. These fibers now begin to break up, and we get
+figures that remind one of Meves’s “mitochondrion körper”; that is, a
+darker staining center and radiating lines to the outer ring. (Fig.
+11.) Sometimes stages a little later recall Paulmier’s “blackberry
+stage.” (Figs. 12 and 25.) Fig. 19_a_ is a surface view and fig.
+19_b_ an optical section of a nebenkern that is in the process of
+breaking up. Figs. 20 and 21 have a part of one end cut off, while
+fig. 23 is a polar view. Fig. 22 is probably a forming blackberry
+stage.
+
+All the above are brief stages, and we soon get the appearance of
+figs. 13-16. Here we have the darkly staining central ball surrounded
+by a clear space, enclosed by a ring, as Meves (’00) found it in
+_Pygæra_. The central ball sometimes shows vacuoles (fig. 16),
+but most frequently stains as one mass. In some cysts with cells
+resembling fig. 16, it is difficult to distinguish between nucleus
+and nebenkern, yet the latter’s stain is never as intense as that of
+chromatin. The stages shown in figs. 13 and 14 persist for a long
+time, and it is probable that this is the end of the telophase and
+the beginning of the spermatid transformations. I have treated the
+above more in detail and shown more drawings than its importance may
+deserve, but it is in these stages that _Gryllus_ seems to differ
+from other species, and I have tried to describe and illustrate the
+appearances and changes fully.
+
+As the cell elongates, the axial filament grows out, the nebenkern
+approaches it, and a junction is effected in such a way that the
+axial filament runs over the surface of the nebenkern. (Figs. 18,
+27, 28, and 30.) At first the nebenkern is still almost round, but
+it begins to elongate and the dark inner ball sends out a protrusion
+to the nucleus, and sometimes back to the point of separation
+between the external envelope and the axial filament. The outside
+ring disappears and the dark mass moves down the axial filament.
+(Fig. 31.) In many cases it breaks up into several small drops,
+which appear at intervals on the axial filaments. (Figs. 34 and 36.)
+In fig. 38 is seen such a hanging drop. In this way the nebenkern
+material is distributed over the axial filament and forms a sheath
+around it.
+
+[A] Professor McClung, Mr. Sutton, and Mr. Blackman, of Kansas
+University, and Doctor Child and Mr. Harper, of Chicago University,
+have seen my preparations, and all confirm my statement that the
+appearance is _not_ an artefact.
+
+
+2.—_The Acrosome._
+
+The second extra-nuclear body I shall call the acrosome, as it
+forms the point of the spermatozoon head. I could not trace its
+origin, because the fixation was not definite in some of the early
+stages. Fig. 4 shows a small, darkly staining body, which may be a
+centrosome, but more likely is the beginning of the acrosome, of
+which figs. 7, 9 and 10 show developing stages, and figs. 11, 13 and
+15 more advanced ones. Sometimes the central portion stains darkest
+(figs. 11, 32, and 36), but more frequently there is a small clearer
+space in the center surrounded by a ring or band of darker material.
+(Figs. 10, 13, 27, and 30.) This ring usually stains darker on one
+side, very often on the side toward the nucleus.
+
+The position, which is, with few exceptions, in the angle between the
+nucleus and the nebenkern, induces me to consider the differently
+staining bodies as the same organ of the cell. For some time after
+the nebenkern has disappeared the acrosome keeps its position;
+then it approaches the nuclear wall, flattens against it, and
+later wanders to the apical end, where it forms the tip of the
+spermatozoon. (See figs. 32-36 and 39-42.) Fig. 16 shows the acrosome
+back of the nebenkern. It is not an isolated example, still, I think,
+it is an abnormality. Fig. 37 shows an apparent division of the
+acrosome. I did not see enough instances to consider it a regular
+occurrence.
+
+
+3.—_The Axial Filament._
+
+As the cell is elongating, the axial filament is seen apparently
+growing out of the nucleus. I do not mean to say that it grows out
+of the nuclear substance, but in almost every cell observed, where
+the axial filament was incomplete, there was rather a large mass of
+chromatin gathered at the place where the axial filament was attached
+to the nucleus. It may be that the smaller one of the extra-nuclear
+bodies in figs. 4, 7 and 9 is a centrosome which is passing to the
+equatorial region of the nucleus, where it later develops the axial
+filament. As already noted, the axial filament does not pass through
+the nebenkern, but only over its surface. Fig. 29, _a_, _b_, and _c_,
+shows different cross-sections through the elongating cell. In _b_
+the axial filament was cut at an angle.
+
+
+4.—_The Centrosome._
+
+I have not followed the centrosome through its migrations. In fig.
+2 one of the two bodies is the centrosome, but I did not trace its
+changes farther.
+
+
+5.—_Cell Body._
+
+The cells, up to the stage of figs. 13 or 14, have been scattered
+promiscuously through the cyst; but as the cell begins to elongate,
+the one end becomes the anterior-nuclear end, and it shifts to the
+periphery of the cyst. The central part of the cyst now shows the
+so-called central lumen. As the lengthening goes on the heads of
+the forming spermatozoa are all turned toward the distal end of the
+cyst. The cyst becomes very narrow and long, apparently preparing
+to contain the long, slender spermatozoa. Near the rachis the
+spermatozoa seem much twisted, and I surmise that they turn so as to
+have the head foremost when set free into the _vas deferens_. Fig. 42
+may indicate some such behavior.
+
+
+(_c_) THE SPERMATOZOON.
+
+The mature spermatozoon consists: (1) of a sharp, spear-like
+point; (2) a tube-like head about .02 mm. long, composed of a
+densely staining outer wall and a clearer central cavity; and (3)
+a filamentous tail about .5 mm. long. The point comes from the
+acrosome, the head from the nucleus, and the tail from the axial
+filament and nebenkern. While I do not deny the presence of a middle
+piece, my observations do not warrant me in describing one, although
+fig. 40 would suggest it.
+
+
+IV. Comparison of Results.
+
+Dr. R. von Erlanger (’97, 1, and ’97, 2) and Dr. F. Meves (’00) have
+given excellent discussions of the literature on the nebenkern. I
+cannot do better than direct the attention of other investigators
+to them. Hence, I shall discuss only such authors and such points
+as have special bearing on my own results. The spermatid changes in
+the Gryllidæ have been studied, so far as I know, only by St. George
+(’67) and by vom Rath (’92).
+
+        St. George, in his early paper, described the
+      transformation process in the “Hausgrille” along
+      with other insects. He found the “Nebenkörper,”
+      and saw that it took a part in forming the
+      envelope of the axial filament, a small particle
+      remaining near the nucleus and other drops of
+      it appearing at intervals on the tail. In his
+      paper on _Blatta_ (’86, 1) he accepted Bütchli’s
+      name, “nebenkern,” and traced its origin to the
+      spindle remains. In his paper on _Phratora_ (’86,
+      2) he takes up the description of the nebenkern
+      in the spermatocytes and spermatogonia. In the
+      spermatid, he describes the blackberry stage in
+      these words: “Während das andere (not nucleus)
+      Körperchen weniger lebhaft gefärbt als ein
+      kleiner Fadenknäuel mit unregelmässigem Contour
+      erscheint.”
+
+There can be no true nebenkern in the spermatogonia and
+spermatocytes, as St. George first used the word, and as I have
+limited its application. But St. George found the object, traced its
+origin and fate, and described several of the stages as they appear
+in _Gryllus_.
+
+        Vom Rath (’92) found _Gryllotalpa_ very poor
+      material for following the spermatid changes.
+      However, he described an oval body which he found
+      varied in appearance, depending on the method of
+      fixation. He calls it the “nebenkern” and thinks
+      it goes to help form the tail.
+
+The description is too incomplete for comparison. Judging from
+_Gryllus_, I question its being very poor material.
+
+        Bütschli (’71) studied the spermatid
+      transformations in Acrididæ and Locustidæ along
+      with that of other animals. He saw the object
+      formerly described by St. George and named it
+      “nebenkern.” He saw it divide into halves,
+      elongate, and form the spermatozoon tail.
+
+The dividing of the nebenkern into halves seems to be an appearance
+quite common in insect spermatogenesis. I have myself seen it in
+several genera of Acrididæ—_Hippiscus_, _Arphia_, _Melanoplus_, and
+_Brachystola_; besides Bütschli, St. George, Henneguy, Platner,
+Paulmier and others have described it.
+
+          Platner in his studies has given special attention
+        to the nebenkern. In his first paper on “Pulmonates”
+        (’85) he did not trace the origin of the nebenkern,
+        but described it as consisting of four to six rods
+        of different lengths and irregularly bent. These
+        were connected, forming an irregular polygon. In its
+        later stages he saw it with a mass of protoplasm pass
+        down along the primary tail—an early protrusion of
+        protoplasm. Finally it is lost.
+
+          In his succeeding paper (’86, 1) he studied the
+        “nebenkern” spindle remains—in the spermatogonia and
+        spermatocytes of pulmonates. In the spermatids, as in
+        the former generations of cells, the nebenkern grows out
+        of the nucleus, where it, with the chromatin, had formed
+        the spireme. It appears as a loop, which becomes larger,
+        twisted, and entangled, and finally breaks loose from
+        the nucleus. Later it goes to form the spiral covering
+        of the primary tail, changing it to the axial filament
+        and true tail.
+
+          In his next paper (’86, 2) he describes the changes
+        when the dividing of the protoplasm lags behind in the
+        spermatocyte divisions. His description agrees in so
+        many points with my own, that I shall quote his exact
+        words:
+
+          “Die Spindelfasern hingegen contrahiren sich mehr
+        und mehr nach dem Equator hin, wobei sie mit ein ander
+        verschmelzen und merkwürdiger Weise je weiter dieser
+        Verdichtungsprocess fort schreitet um so mehr an
+        Tinctions fähigkeit speciell gegenüber dem Hämatoxylin
+        gewinnen. Sie stellen jetzt zwei dreieckige oder
+        hakenförmige Gebilde dar, die mit der Spitze noch im
+        Equator zusammenhängen mit der breiten Seite sind sie
+        den zugehörigen Zellen zugewendet. Hier sind ihre
+        Grenzen undeutlicher, verwaschen und zeigen hier auch
+        noch häufig eine streifige Beschaffenheit, welche auf
+        ihren Ursprung hin weist. Zuweilen lassen sich einzelne
+        Fäden noch eine beträchtliche Strecke weit in das
+        Protoplasma hinein verfolgen, welches zwischen ihnen und
+        den sich ausbildenden Zellkernen liegt.”
+
+          The “häkenformige Gebilde” moves away from the
+        periphery, its sides elongate, break, and unite at
+        the nuclear end, thus form the polygonal nebenkern.
+        “Derselbe geht also in diesem Falle direckt aus den
+        Spindelfasern hervor.” When the protoplasm does divide a
+        similar process takes place. The spindle remains divide
+        at an equatorial line and each half forms a nebenkern,
+        and, as he says: “Also auch hier geht der Nebenkern
+        direckt aus den Spindelfasern hervor. Vielleicht geht
+        in den Spermatiden der Nebenkern überhaupt immer
+        aus den Spindelfasern hervor, in dem die langfädige
+        Verbindüngsbrücke, die ihn oft mit dem Kern verbindet,
+        sich wohl als ein noch einige zeit persisttirender Rest
+        der esteren deuten lässt.”
+
+          In his paper on _Limax_ (’89, 1) he followed the
+        nebenkern through all the divisions and thinks it a
+        constant organ of the cell. In the second part of the
+        paper on _Helix_ and _Paludina_ the nebenkern was
+        considered as formed from the remains of the spindlepole
+        and the centrosome. Later Platner (’89, 2) found the
+        nebenkern in the pancreas cells. In reports upon
+        _Pygæra_ and _Sphinx_ he changed the name nebenkern to
+        mitosome. The centrosome lies in front of the nucleus
+        and forms the point of the head. This he calls the
+        nebenkern. From the spindle remains arise two bodies. A
+        large, fibrous one from the equatorial end has a clear
+        space around it and the axial filament passes through
+        it. It soon elongates and forms the tail. This is the
+        large mitosome. The other is much smaller and arises
+        from the polar end of the spindle fibers. It takes its
+        place in the angle between the large mitosome and the
+        nucleus. Here it persists till the nucleus begins to
+        elongate, when it lengthens and surrounds the basal end
+        of the spermatozoon tail. This is the small mitosome.
+
+Platner (’85) saw a true nebenkern. I have already criticized the
+use of the word “nebenkern,” as the name for the spindle remains in
+the spermatocytes. Platner himself later denied the nuclear origin
+of the nebenkern. His results (’86, 2) agree with mine concerning
+the uniting, converging, staining and bending of the spindle-fiber
+remains and their passing to the tail. Again, Platner (’89, 1)
+probably followed the centrosome and attraction sphere, as well
+as the nebenkern, in the second part of the paper on _Helix_ and
+_Paludina_. In the pancreas the body is a result of secretion, and
+is not a nebenkern. In _Pygæra_ Platner’s large mitosome is the real
+nebenkern, as shown by its fibrous structure, its surrounding clear
+space and destiny. His small mitosome is what I have described as the
+acrosome, and he is mistaken as to its final use. The body he called
+centrosome in the nucleus is the persisting accessory chromosome.
+Such would be my interpretation of his figures.
+
+          Henking (’91) has followed the spermatid changes
+        in _Pyrrhocoris_ quite carefully. He finds that the
+        fibers between the chromatin masses are separated into
+        peripheral fibers and central spindle fibers. The first,
+        a part of the second and the yolk mass, forms the
+        nebenkern, which passes down over the axial filament.
+        The rest of the central fibers form the mitosome. This
+        takes its position at the angle between the nebenkern
+        and the nucleus. On the surface of the nucleus it passes
+        to the anterior end, then back to its original position.
+        A piece now is constricted off and disappears, while the
+        rest, increasing its affinity for stains, again wanders
+        to the anterior pole of the nucleus, and becomes the
+        acrosome.
+
+The large amount of yolk substance is a disturbing element in
+_Pyrrhocoris_, but the nebenkern agrees with that of _Gryllus_ in
+having the same origin and destiny, as does also the acrosome in fate
+and position. Besides, there is much similarity in the stages, as
+seen by comparing Henking’s fig. 63 with my fig. 25, and his fig. 85
+with my fig. 32.
+
+          Wilcox (’95 and ’96) described the spermatid
+        metamorphosis in _Caloptenus_. The interzonal fibers, a
+        long, striated body composed very plainly of distinct
+        fibers, contracts longitudinally, and the corners round
+        themselves off, and this forms the nebenkern. It loses
+        its fibrous structure, comes close to the nucleus, and
+        then grows out into the axial filament. The centrosome
+        moves half way around the nucleus and lies between the
+        latter and the nebenkern. Later the centrosome becomes
+        the middle piece.
+
+This description does not give much detail nor do the drawings show
+the stages clearly. As far as given, the formation of the nebenkern
+is the same as in _Gryllus_; but in _Gryllus_ the axial filament is
+not formed from the nebenkern, as can be plainly seen from fig. 17.
+
+          Erlanger (’96), in a short paper, discusses the use
+        of the term “nebenkern,” and suggests limiting it as is
+        done in this paper. He opposes St. George’s opinion,
+        that the nebenkern comes from the cytomicrosomes. In
+        _Blatta_ the cytomicrosomes are preserved during the
+        whole process of mitosis, and have no connection with
+        the spindle fibers, but during the telophase they
+        collect in reduced numbers around the daughter nuclei.
+
+          In 1897 he called the collection of granules around
+        the centrosome, the centrodeutoplasm. He considers them
+        to be identical with St. George’s cytomicrosomes and the
+        archoplasm (or attraction sphere) of other writers. In
+        order to harmonize results, he suggests that, since the
+        centrosome sometimes wanders around the nucleus, the
+        centrodeutoplasm (or sphere) may unite with the spindle
+        remains in some cases to form one body, as shown by the
+        descriptions of Henking, Henneguy, Meves, and others.
+        He later (’97, 2) describes the so-called “sphere,” and
+        distinguishes between it and the true nebenkern.
+
+I would strongly commend his excellent discussion of literature and
+his careful comparison of the results of investigators. He has shown
+clearly that the nebenkern comes from the spindle remains.
+
+Calkins (’96) finds that the nebenkern comes from the spindle fibers
+and is useless in the cell. But _Lumbricus_ is peculiar in having
+the nebenkern simply disintegrate, for, in many cases, he admits
+that the nebenkern has an important function. I do not have access
+to Henneguy’s or Bolles-Lee’s or Toyama’s works, yet I should judge
+from Erlanger’s and Meves’s criticism that all of these have the
+nebenkern originate from the spindle remains, and Henneguy describes
+it as having a “fibrillar appearance,” and Bolles-Lee as “fibrillar
+structure.” Accordingly, I think that each of these has discovered
+the correct origin of the structure, and I do not doubt that there
+is, at least in the first two, a more or less direct change from the
+spindle remains to the nebenkern.
+
+          Paulmier (’99) finds that in _Anasa_ the nebenkern
+        comes from the yolk mass and remains of the spindle
+        fibers. A part of this mass separates off, while the
+        whole is still in a confused condition, and forms the
+        acrosome. The nebenkern forms the tail sheath, while the
+        acrosome forms the point to the head.
+
+A comparison of Paulmier’s fig. 42 with my fig. 4 suggests the
+thought that they are the same stage, and his fibers are remains of
+the spindle. His fig. 43, of course, agrees with my fig. 25; and fig.
+43 may correspond to figs. 26 or 14, only that his stain is weaker.
+
+Meves’s investigations are the most extensive of the recent ones on
+the nebenkern. He has used _Paludina_ and _Pygæra_ as his objects.
+The consideration of the mitochondrion in the spermatocytes I shall
+pass over, as it is not within the bounds of this paper; yet I hope
+to study the earlier generations of my material, and shall then
+compare the results. In Meves’s description of _Paludina_, I find but
+one point in which it agrees with _Gryllus_. The head of the young
+spermatozoon in _Paludina_ has a clear space in the center filled
+with nuclear fluid, which remains till the head begins to stretch. In
+_Gryllus_ it is hollow until maturity.
+
+          In _Paludina_ the nebenkern in one kind of spermatids
+        is formed from threads made up of mitochondria—small,
+        round bodies identical with St. George’s cytomicrosomes
+        and Erlanger’s centrodeutoplasm. These threads change
+        to vesicles, which, reduced to four, closely surround
+        the centrosome as it lengthens into the middle piece.
+        At first they form a four-cleft cylinder, but finally
+        a single sheath. An idiozome and spindle remains are
+        seen in the spermatid. They persist for awhile, and
+        the former changes into the acrosome. In _Pygæra_
+        Meves finds two kinds of spermatids, distinguished
+        by a small difference in size. The larger forms the
+        typical spermatozoon. The spindle remains form a
+        “Spindelrest körper,” which is soon lost. The ends
+        of the mitochondrion chains form a ring of dark mass
+        surrounding a clear space. The ring is broken by
+        radiating clear spaces. These spaces collect and unite
+        into larger vacuoles, which surround the darker center.
+        Finally there is only a dark ball with a surrounding
+        clear space shut in by a ring. The centrosome with
+        attached axial filament fastens itself to the nucleus;
+        then both begin to grow longer. The axial filament
+        passes over the surface of the ring surrounding the
+        ball—the “mitochondrion körper” or nebenkern. This
+        body elongates a great deal then the darker mass puts
+        forth numerous threads which surround the axial filament.
+
+As to _Pygæra_, the peculiarity is the complete agreement of his
+“mitochondrion körper” and my nebenkern in appearance and behavior
+for a part of the transformation and their complete disagreement in
+the other part. The question with me is, “Do the two bodies whose
+final stages are so similar originate so differently, or has one of
+us mistaken the origin of the body?”
+
+Since reading Meves’s paper I have carefully reexamined my material,
+and I am positive that I am right as to the origin of the nebenkern;
+but, on the other hand, I would not say that Meves is wrong in his
+observations, as in doing so I should fall into the same error which
+I think Meves himself has made. In his discussion of the literature
+he has forced every description to agree with his ideas, or has
+declared that the author has described some extra-nuclear organ as
+a nebenkern which is _not_ a nebenkern. Thus by implication, if not
+by direct statement, he says that a nebenkern never comes from the
+spindle remains. With due respect to his ability and long experience
+as an investigator, I must say that Meves is mistaken in this. St.
+George himself traced the cytomicrosomes back to the spindle remains.
+Besides, the many investigators whom I have cited above cannot be
+mistaken as to the origin of the nebenkern. In my own material I am
+positive that there is a direct passing of the interzonal fibers over
+into the earlier stages of the nebenkern.
+
+That the body which forms the tail covering does not come from the
+spindle remains in all cases, I am willing to admit. Meves has cited
+many investigators, especially on vertebrates, whose results favor
+such an opinion. The spindle remains do not change into a nebenkern
+even in all Arthropods, as Blackman (’01) finds no nebenkern, nor
+anything in anywise resembling it, in _Scolopendra_.
+
+From my study of the results of other investigators, it is evident
+to me that there are at least two general methods for the formation
+of the covering for the spermatozoon tail. One of these plans will
+harmonize Meves’s mitochondrion körper, Erlanger’s centrodeutoplasm,
+Heidenhain’s pseudo-chromosomes, and other similar structures. The
+other will show that Platner’s large mitosome, Paulmier’s blackberry
+stage and my striated nebenkern are only different stages of the
+spindle remains changing into the tail covering.
+
+
+V.—Summary.
+
+1. The chromosomes of the second spermatocytes break up and the
+chromatin becomes diffused all through the nucleus. Later the
+chromatin collects in granules again and finally forms the walls of
+the tube-like spermatozoon head.
+
+2. The spindle fibers break loose as the clear space is formed around
+the chromatin mass. They unite and contract, becoming fewer, thicker,
+and shorter. These bend and form the “striated nebenkern.” The fibers
+break up and sometimes show a blackberry appearance. Soon there is a
+collection of darker material at the center, surrounded by a clear
+space, which is shut off from the cytoplasm by a darkly staining
+membrane which in sections appears as a ring. This stage persists
+for some time; then the nebenkern moves against the axial filament,
+elongates, loses the ring, and the dark mass passes down along the
+axial filament. Often it appears in several small drops.
+
+3. The axial filament does not come from the nebenkern nor from the
+acrosome. It comes apparently from the nucleus; probably from the
+centrosome closely attached to the nucleus. It never passes through
+the nebenkern—only over its surface.
+
+4. The acrosome occupies a position in the angle between the
+nebenkern and the nucleus. It shows a central clear space surrounded
+by a darker mass which stains more intensely on one side. Later
+it passes to the front of the nucleus and forms the point of the
+spermatozoon head.
+
+5. The mature spermatozoon consists of a sharp point, a slender,
+tube-like head filled with a clear fluid, and a long, thread-like
+tail.
+
+    LABORATORY OF ZOOLOGY AND HISTOLOGY,
+           UNIVERSITY OF KANSAS.
+               September 27, 1901.
+
+
+
+
+Bibliography.
+
+
+1. Blackman, M. W., ’01: Spermatogenesis of the Myriapods. Kans.
+Univ. Quart., vol. 10.
+
+2. Bütschli, O., ’71, 1: Vorläufige Mittheilung über Bau und
+Entwickelung, der Inseckten und Crustaceen. Zeitschr. f. wiss. Zool.,
+Bd. 21.
+
+3. —— ’71, 2: Nähere Mittheilung über die Entwickelung und den Bau
+der Samenfäden der Inseckten. Zeitschr. f. wiss. Zool., Bd. 21.
+
+4. Calkins, G. N., ’95: The Spermatogenesis of _Lumbricus_. Journ. of
+Morph., vol. 11.
+
+5. Erlanger, R., ’96, 1: Ueber den sogenannten Nebenkern in den
+männlichen Geschlechtszellen der Inseckten. Zool. Anz., Bd. 19.
+
+6. —— ’96, 2: Die Entwickelung der männlichen Geschlechtszellen.
+Zool. Centralbl., Jahrg. 3.
+
+7. —— ’97, 1: Ueber Spindelreste und den echten Nebenkern in den
+Hodenzellen. Zool. Centralbl., Jahrg. 4.
+
+8. —— ’97, 2: Ueber die sogenannten Sphäre in den männlichen
+Geschlechtszellen. Zool. Centralbl., Jahrg. 4.
+
+9. Heidenhain, M., ’00: Ueber die Centralkapseln und
+Pseudochromosomen in den Samenzellen von _Proteus_, sowie über ihr
+verhältniss zu den Idiozomen, Chondromiten und Archoplasmaschleifen.
+Anat. Anz., Bd. 18.
+
+10. Henking, H., ’91: Ueber Spermatogenese und deren Beziehung zur
+Entwickelung bei _Pyrrhocoris apterus_. Zeitschr. f. wiss. Zool.,
+Bd. 51.
+
+11. McClung, C. E., ’99: A Peculiar Nuclear Element in the Male
+Reproductive Cells of Insects. Zool. Bull., vol. 2.
+
+12. —— ’00: The Spermatocyte Divisions of the Acrididæ. Kans. Univ.
+Quart., vol. 9.
+
+13. Meves, F., ’00: Ueber den von v. la Valette St. George endeckten
+Nebenkern (Mitochondrion Körper) der Samenzellen. Arch. f. mikr.
+Anat., Bd. 56.
+
+14. Paulmier, F. C., ’99: The Spermatogenesis of _Anasa tristis_.
+Journ. of Morph., vol. 15, supplement.
+
+15. Platner, G., ’85: Ueber die Spermatogenese bei den Pulmonaten.
+Arch. f. mikr. Anat., Bd. 25.
+
+16. —— ’86, 1: Ueber die Enstehung des Nebenkerns und seine Beziehung
+zur Kerntheilung. Arch. f. mikr. Anat., Bd. 26.
+
+17. —— ’86, 2: Zur Bildung der Geschlechtsproduckte bei den
+Pulmonaten. Arch. f. mikr. Anat., Bd. 26.
+
+18. —— ’89, 1: Beiträge zur Kenntniss der Zelle und ihrer
+Theilungserscheinungen, I und II. Arch. f. mikr. Anat., Bd. 33.
+
+19. —— ’89, 2: Beiträge zur Kenntniss der Zelle und ihrer Theilung,
+IV und V. Arch. f. mikr. Anat., Bd. 33.
+
+20. Vom Rath, O., ’92: Zur Kenntniss der Spermatogenese von
+_Gryllotalpa vulgaris_. Arch. f. mikr. Anat., Bd. 42.
+
+21. St. George, v. la Valette, ’67: Ueber die Genese der Samen
+Körper. Arch. f. mikr. Anat., Bd. 3.
+
+22. —— ’86, 1: Spermatologische Beiträge, Zweite Mittheilung. Arch.
+f. mikr. Anat., Bd. 27.
+
+23. —— ’86, 2: Spermatologische Beiträge, Vierte Mittheilung. Arch.
+f. mikr. Anat., Bd. 28.
+
+24. —— ’87: Zelltheilung und Samenbildung bei _Forficula
+auricularia_. Festschrift f. A. v. Kölliker.
+
+25. —— ’97: Zur Samen- und Eibildung beim Seidenspinner (_Bombyx
+mori_). Arch. f. mikr. Anat., Bd. 50.
+
+[B]26. Sutton, W. S., ’00: Spermatogonial Divisions in _Brachystola
+magna_. Kans. Univ. Quart., vol. 9.
+
+27. Wilcox, E. V., ’95: Spermatogenesis of _Caloptenus femur-rubrum_
+and _Cicada tibicen_. Bull. of Mus. of Comp. Zool. Harvard., vol. 27.
+
+28. —— ’96: Further Studies on the Spermatogenesis of _Caloptenus
+femur-rubrum_. Bull. of Mus. of Comp. Zool. Harvard., vol. 29.
+
+[B] Nos. 12 and 26 were used when describing the material only and
+not the spermatid transformations.
+
+
+
+
+Explanation of Plate II.
+
+
+All drawings were made by the author with the aid of a camera
+lucida. All figures except 2, 3, 4 and 45 were made with a B. & L.
+1/16 objective and one inch eye-piece, producing a magnification
+of 1340 diameters. Figs. 2, 3, 4 and 45 were drawn with a Leitz
+1/16 objective and a Zeiss compensating ocular No. 12, giving a
+magnification of 2325 diameters. The drawings were not reduced in
+the photo-mechanical reproduction.
+
+FIG. 1. An early telophase, in which the fibers appear like barrel
+staves. Some of the fibers have thickened.
+
+FIG. 2. A later stage, in which the fibers are uniting, the clear
+space is forming, and the chromosomes are beginning to separate.
+
+FIG. 3. A daughter-cell, showing the chromosomes separating and the
+fibers thickening.
+
+FIG. 4. The chromosomes are scattered over the nuclear membrane; the
+fibers appear as a few thick rods. The beginning of the acrosome is
+seen. The accessory chromosome can be distinguished.
+
+FIG. 5. Same as fig. 4, with some of the fibers curved and no
+acrosome.
+
+FIG. 6. Same as fig. 5, but with the acrosome visible.
+
+FIG. 7. The chromosomes are granular; the fibers have bent and formed
+the round “striated nebenkern.” The acrosome is present.
+
+FIG. 8_a_. Same as fig. 7, but the acrosome is not present.
+
+FIG. 8_b_. The fibers run parallel with the long axis of the
+nebenkern.
+
+FIG. 9. Here is shown a partial end view of the nebenkern. The
+accessory chromosome and the acrosome are both prominent.
+
+FIG. 10. The nebenkern shows some of the fibers on the under side. It
+is beginning to break up.
+
+FIG. 11. The nebenkern shows the beginning of the dark center; the
+fibers extend from it to the ring. The acrosome has a peculiar
+appearance.
+
+FIG. 12. The fibers have broken up and the whole has assumed a
+vesicular appearance, resembling a blackberry. The acrosome is
+present.
+
+FIG. 13. This shows a persisting spermatid stage. The chromatin
+appears in patches. The nebenkern is in the ball-and-ring stage. The
+acrosome shows its characteristic clear center surrounded by a ring
+darker on one side. The two dark bodies on the nuclear surface are
+probably artefacts.
+
+FIG. 14. A stage a little later than 13. The dark central ball shows
+some vacuoles. The cell is beginning to elongate.
+
+FIG. 15. Same as fig. 14, with the ball denser.
+
+FIG. 16. The nucleus has become almost clear. The acrosome is behind
+the nebenkern.
+
+FIG. 17. This shows the axial filament apparently growing out from
+the nucleus. There is an aggregation of chromatin at its base.
+
+FIG. 18. The axial filament passes over the nebenkern, which has
+slightly elongated. The accessory chromosome is very plain.
+
+FIG. 19. _a_ shows a surface view, and _b_ an optical section, of a
+nebenkern which is in process of breaking up.
+
+FIGS. 20 and 21 have part of the surface fibers cut off and show the
+dark mass forming within.
+
+FIG. 22. Shows a nebenkern passing from the blackberry stage into the
+ring stage.
+
+FIG. 23. This is an end view of the stage shown in figs. 20 and 21.
+
+FIG. 24. The fainter lines are the fibers on the under side of the
+nebenkern.
+
+FIG. 25. The blackberry stage, showing the mass of vesicles.
+
+FIG. 26. This represents a nebenkern of the stage shown in fig. 7,
+drawn from a polar view, with adjusting focus.
+
+[Illustration: PLATE II.]
+
+
+
+
+Explanation of Plate III.
+
+
+FIG. 27. This shows the nebenkern elongating. The axial filament
+passes over its surface.
+
+FIG. 28. A little later than fig. 27.
+
+FIG. 29. Shows cross-sections of elongating nebenkern; _a_ shows
+axial filament, nebenkern and acrosome; in _b_ the axial filament
+is cut at an angle.
+
+FIG. 30. A little later than fig. 28; the axial filament not so
+plainly shown.
+
+FIG. 31. The ring has disappeared, and the dark mass is passing down
+along the filament. The acrosome is indistinct.
+
+FIG. 32. The nebenkern has disappeared, but the acrosome has kept its
+position.
+
+FIG. 33. The acrosome has flattened against the nucleus. Some remains
+of the nebenkern are seen.
+
+FIG. 34. The acrosome has moved to the side of the nucleus. Some
+nebenkern remains are shown.
+
+FIG. 35. The acrosome is in front of the nucleus.
+
+FIG. 36. A little later stage than fig. 35.
+
+FIG. 37. Shows a divided acrosome. It is not a frequent appearance.
+
+FIG. 38. The nebenkern appears as a hanging drop on the side of the
+axial filament.
+
+FIG. 39. The nucleus has condensed, the walls have thickened, and the
+chromatin appears in granules. The acrosome is pointed.
+
+FIG. 40. A little later stage than 39.
+
+FIG. 41. A little later stage than 40.
+
+FIG. 42. The head is stained intensely, while the acrosome is
+lighter. Probably a middle piece indicated.
+
+FIG. 43. The head shows the clear space.
+
+FIG. 44. Cross-sections of the head, of the stage shown in fig. 43.
+
+FIG. 45. The head and part of the tail of a mature spermatozoon.
+
+[Illustration: PLATE III.]
+
+
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE KANSAS UNIVERSITY SCIENCE BULLETIN, VOL. I, NO. 2, FEBRUARY, 1902 ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+

@@ -1,0 +1,1660 @@
+﻿The Project Gutenberg eBook of Trouble Times Two
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Trouble Times Two
+
+Author: George O. Smith
+
+Illustrator: Raymond
+
+Release date: May 24, 2022 [eBook #68161]
+                Most recently updated: October 18, 2024
+
+Language: English
+
+Original publication: United States: Street & Smith Publications, Incorporated
+
+Credits: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team at http://www.pgdp.net
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK TROUBLE TIMES TWO ***
+
+                           Trouble Times Two
+
+                          By GEORGE O. SMITH
+
+                        Illustrated by Raymond
+
+           [Transcriber's Note: This etext was produced from
+               Astounding Science-Fiction December 1945.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+Thomas Lionel Ph.D., M.M. bounded out of bed with a cheerful bit of
+off-tune song. He glanced at the calendar and then the clock and he
+grinned because life was just too good to be true.
+
+Everything was according to plan. He'd won his first battle. Up to
+now it had been touch and go; at last he had established his right
+to co-occupy the mind along with the engineer. No longer could the
+engineer claim that he was an expensive detriment. He had forced
+the engineer into agreeing that his offering, though not directly
+productive, was a causative factor in the development of success. Then
+to top it all, he retained enough technology to be a necessary item. He
+must be permitted to remain if only for a source of information.
+
+The engineer's trap had been excellent. But the trap had turned and
+caught the engineer. Those reams of data on the poltergeist effect had
+been the basis for an entirely new science that only a real physicist
+could appreciate--and no engineer could hope to thread his way through
+them without a research physicist's assistance.
+
+He stood over the chessboard in the living room for a few minutes.
+The engineer was not making any great moves. Therefore the physicist
+thought that he might best consolidate his position. He castled to the
+queen's side, burying his king behind a bulwark of defenses that would
+defy a master chess player to penetrate in less than ten or fifteen
+moves.
+
+During breakfast, he perused a thin volume of recent publication. He
+did not entirely agree with the theories presented; after all, the book
+had been written for the express purpose of getting reader's viewpoints
+and Thomas knew it. In fact, the book was not too interesting to Thomas
+but he knew that the engineer would fume, fret, and howl at the idea
+of having a well-thumbed volume of "_Theory of Multi-Resonant Wave
+Guides_" in the library.
+
+Thomas wouldn't look at the engineer's volume, laying on the table
+opposite. It was too un-physical. It was un-erudite. It was "_Basic
+Theory in Micro-Wave Transmission_" and the edges of the pages were
+loaded with application formulas, diagrams, and working sketches.
+
+He was near the end of breakfast when the glint of reflected sunshine
+arrowed through the window and caught his eye. He looked, and wondered
+who was landing on his lawn in a helicopter.
+
+Then he did a double take.
+
+"Helicopter" stemmed from Greek, the "helix" or screw plus the "opter"
+a machine. This contrivance did not. It was not operated with air
+screws.
+
+It looked like a three-wheeled coupÃ©. It looked like the industrial
+designer's dream of the Plan For Tomorrow, excepting those three
+wheels. The Plan For Tomorrow should, by all rights, have four wheels.
+And, if the thing is going to fly, it should have some sort of overhead
+vanes, or wings, or engines, or jets, or even a skyhook. But there it
+was, coming down as light as a feather to make a neat landing on the
+back lawn.
+
+By the time the door was open, and the passenger stepped to the ground,
+Thomas was standing before the little sky car, looking somewhat dazed
+at the name:
+
+                              POLTERGEIST
+
+"Like a dream," said the driver of the sky car.
+
+"It should," said Thomas, covering his ignorance with monosyllabic
+agreement.
+
+"Handles well, too. I think we could stand a bit more positivity of
+control, though."
+
+"I'll look into it."
+
+"I wish you would. We've got the jump on the whole world with this.
+We'd like to keep it. But the thing doesn't answer to the wheel too
+solidly."
+
+"Uh-huh."
+
+"The chief engineer said, 'Jim, take that crate over to Lionel and see
+if he will beef up the control force a bit.' So here I am."
+
+"O.K., Jim," said Thomas, offering a prayer for the name that had been
+given unwittingly. The engineer must have been a busy boy! "How are you
+going to get back?"
+
+Jim looked up into the sky. "Jerry is following in the pilot model.
+He'll pick me up and we'll go on back thataway."
+
+Jim nodded skyward, and Thomas looked at the growing speck that must
+have been the pilot model.
+
+Thomas forgot about the pilot model. What he wanted to know was the
+whereabouts of the five tons of equipment that had been an integral
+part of this idea. He looked at the model. He wondered whether the
+engineer had installed the whole thing, stepping up the power and using
+the main part of the power to support the equipment. That did not seem
+possible. Any failure would cause the little sky car to collapse of its
+own dead weight. Besides there was not enough room in the little crate
+to pack all that equipment-tonnage.
+
+The engineer had achieved the impossible. He had done away with the
+main part while retaining the effect.
+
+The pilot model landed. It was not the finished job of the prototype.
+The cabin was squarely functional and the landing wheels were not
+faired into the hull. The rear end, instead of tapering gently into a
+narrow paraboloid of revolution, was a truncated four-sided pyramid.
+
+Jerry did not emerge. He merely tossed the door open and shouted: "Come
+on--we ain't got all day!"
+
+Thomas nodded. "I'll call you when I get it fixed."
+
+_Call who?_ the physicist wondered, and then forgot about it. He wanted
+desperately to dig into the sky car. He wanted to find out where the
+engineer had packed five tons of equipment. He wanted to see what made
+the wheels go around. No doubt the thing could be returned to its
+owners without calling in the police. The thing was probably recorded
+in the precisely kept engineering notebook of the physicist's alter ego.
+
+       *       *       *       *       *
+
+The pilot model was not completely out of sight before Thomas had
+the power cowls off, and the whole model stripped of its servicing
+doors. They had done an excellent job of design; the sky car without
+its servicing panels was but a skeleton frame, with every line, every
+connection, and every control rod open for easy servicing.
+
+And it was then and there that the physicist understood what the
+engineer had been doing.
+
+Instead of the low-voltage high-current supply lines, with their
+attendant heavy busbars, thin pipes ran about the sky car. Seamless
+aluminum tubing carried the energizing current. Or, rather the space
+inside of the tubing carried it. At the generator end, a ten megawatt
+microwave generator supplied high power at ultra high frequency. At the
+terminus, rectifiers brought the ultra high frequency down to direct
+current for operation of the force-field generators.
+
+Thomas nodded. It was not the final tenth of one percent job. It
+was not direct current. The diagravitic force was not constant. It
+operated only seven tenths of the time, and was turned off and on
+fifteen or twenty million million times per second. Nothing short of
+high-definition test equipment would ever tell the difference, however.
+
+Gone were the massive electromagnetic deflection field coils. In their
+place was a set of seventy kilovolt electrostatic plates.
+
+Missing entirely were the variable-speed motor generators. In their
+place was a simple crystalline formation under permanent magnetic
+stress. "Artificial radio-activated crystals," muttered Thomas. "Good
+for a couple of years."
+
+But the feed lines. _The feed lines._ The current carrying ability
+of space itself--not the metallic conductor--did the trick. Using
+the ultra high frequency bands, the busbars had been replaced with
+cylindrical wave guides. The depth of penetration was measured in
+microns at those frequencies--and as long as the guides were properly
+designed, they offered little loss in power. The current went down the
+wave guides by virtue of the magnetic fields created throughout the
+guides--magnetic fields generated in the space inside of the tubular
+guides.
+
+The generator itself was one of the new crystal microwave generators
+and the rectifiers at the receiving end were of the same ilk.
+
+And the five tons of equipment had vanished in a puff of tubular
+guides, electrostatic plates, and intermittent operation.
+
+Thomas hit a snag for a moment. The engineer had answered
+his challenge. So he'd come up with the answer to the
+five-ton-per-fifty-pound answer--and had gone further. Thomas knew
+that there was no apparent limit to the maximum power or lift. It
+merely set a fifty pound minimum--actually it was 49.87 pounds by
+measurement--under which limit no amount of tinkering would produce the
+effect.
+
+He smiled. There must be something beyond. After all, small stones
+moved quietly in natural poltergeist manifestation; they would be able
+to reproduce that eventually. But for now, the engineer was willing to
+accept the limitation whereas the physicist would not.
+
+He knew now. And he'd leave the sky car until the engineer returned.
+Let _him_ beef up the control force. It was _his_ baby.
+
+Thomas put the panels back on the sky car and stood off to admire it.
+It was a neat job, just what the public wanted. The urge to get in and
+drive was a most compelling one, and Thomas succumbed. He sat for a
+moment, inspecting the dashboard until he had the pattern well set.
+Then he snapped on the power, took the wheel and pulled back gently.
+The sky car lifted its nose slightly, and as Thomas pressed the foot
+pedal, it took off on a side-line straight into the sky. He leveled
+off at a thousand feet and he did some scurrying back and forth in
+midair. It did handle a little sloppy but not enough to make the
+physicist uncomfortable. Yet it wouldn't stand any hedge-hopping or
+bridge-undercutting without a prayer on the part of the driver. Butter
+the controls a bit and you could thread a needle with it on the first
+try.
+
+Yes, the engineer had done it again--all of which made Thomas chuckle.
+A bit more of this and the engineer would have such an income that he'd
+no longer worry himself into engineering. Then--
+
+Thomas turned the sky car and drove across the city toward Dr.
+Hamilton's place. He landed on the psychiatrist's lawn and startled the
+doctor out of a week's growth.
+
+"I've won," he told the doctor.
+
+"Good," laughed Hamilton. "Mind if I ask which you are today--and how
+do you know you've won?"
+
+"I'm Thomas Lionel, Ph.D. And the engineer has worked himself out of a
+job."
+
+"Interesting. But how?"
+
+"He dropped me a mess of cockeyed data, remember? Well, I unraveled
+it into a most interesting field of science. From it I handed him a
+slab full of theories and experiments that are just inefficient enough
+to make him fume. He's come up with several things that make money in
+vatfuls."
+
+"That, I know and understand. Go on."
+
+"Remember, I am his ideal personality, I am a physicist, a type of
+person he has always wanted to be. He couldn't be a physicist because
+of financial reasons and so he went into the engineering field to
+bolster up his bank account. That was eminently practical. But now
+that the worry about the bankroll is over, he can turn to theoretical
+physics and physical research. That's me--and I've won!"
+
+"Suppose he, himself, takes the gradual retreat from engineering into
+physical research?"
+
+"Um--I don't think he's capable of it. He's been too well conditioned."
+
+"Might well be," admitted the doctor. "Well, as I said before, I'm just
+a referee. Both of you are well adjusted and good, worthy additions to
+society. Either one of you that wins will be a credit to civilization."
+
+"You're a great help," laughed Thomas. "But I don't mind. This is my
+round, and it's my game. He's licked himself."
+
+"I'll tell him that when I see him," said Dr. Hamilton. "But there is
+one thing that I must know. I want to know what makes that little
+tungsten box work."
+
+"I cast the tungsten in--"
+
+"I don't care how you made it," said Hamilton flatly, "unless it has a
+definite bearing on how it works."
+
+"I made it of tungsten because the engineer would rip it apart if it
+weren't too tough," grinned Thomas. "Being of tungsten it doesn't
+matter how it works excepting it would have been more efficient if I'd
+made it of silver."
+
+"Look, Thomas, stay on the subject. I want to know what's with the
+works."
+
+Lionel laughed. "What's so important?"
+
+"Look, man, I'm a psychiatrist. The functioning of the human mind is
+my baby. Or," he added bitterly, "it should be. But, darn it, all we
+can do is to surmise, theorize, hope and pray. We don't know what makes
+schizophrenics, or manic-depressives or any of the other mental quirks.
+We aren't even certain why some people are well liked while others, of
+almost identical get-together are heartily disliked. But you've come up
+with a little dingus that causes a switch-over from one personality to
+another merely by pushing a button. Find out why and we psychiatrists
+may some day get to first base in psychoanalysis."
+
+"Um--I suppose a real pathophone would be a help."
+
+"Pathophone is a good word," smiled the psychiatrist, "but to dig
+into a warped mind without having the erroneous impressions and false
+evaluation clouding the only entry ... we'd be able to clear up almost
+any mental condition. Now, how does it work?"
+
+"I am not prepared to say. I was seeking experimental data on
+the 'epicenter' of the poltergeist phenomena--the poltergeist
+usually manifests in the vicinity of or because of some central
+influence--usually a person who is unaware of his potentiality. At any
+rate, I was setting up a series of local magnetic and electrostatic
+fields and then trying the micro-microwave spectrum for response. I
+was running up through the region between long heat radiation and
+micro-micro radio waves when--blooey!--I was the engineer. I switched
+back eventually and consolidated my findings into that little tungsten
+box."
+
+"I want the dope on it."
+
+"I'll give it to you," nodded Thomas. "As soon as I make some final
+measurements and consolidate my data."
+
+"Fine. Mind telling me what causes the poltergeist?"
+
+       *       *       *       *       *
+
+"As best I can. The present concept of space is that space itself is
+under internal strain. Force vectors in cancellation prevail, resulting
+in a stable continuum. Space is warped by electrostatic effects,
+magnetic effects, and gravitic effects. These local effects do not
+create a discontinuity in the space strain, and therefore no eruption
+takes place. Now enters the epicenter. Radiation from his mind or brain
+in thinking goes out and starts a very minor sympathetic oscillation
+in the warps and strains of space. If these strains are in the right
+vectorial situation, the minor oscillation builds up the response
+amplitude--"
+
+"That doesn't make sense," objected the doctor. "Mental radiation must
+be weak. How can it induce high power?"
+
+"It can't. But if you know radio at all, you'll recall that a high 'Q'
+circuit will develop very high voltages across the terminals with a
+very small driving voltage. Well, this is analogous to the epicenter
+effect. The epicenter wave causes instability in the space strains
+because the brain wave is not a natural phenomena of space. Then--like
+two sticks end to end under compression, it takes very little sidewise
+thrust to make the compression-force collapse, forcing the sticks out
+at right angles. Follow?"
+
+"But where did this energy or force come from?" puzzled Hamilton.
+"Isn't that a violation of the Law of Conservation of Energy?"
+
+"Not at all. The law is still valid. It does state that you cannot
+get more out of anything than is put into it. The guesswork comes
+in deciding how the energy got there. Coal, for instance, is just a
+black stone. It has potential energy which was put into it by the eons
+of solar energy shining on the carboniferous forests. A stone has
+potential energy for falling. Where did it get it? It may have been
+carried up the hill; it may have been dropped from space--put out there
+by the cosmic eruption that caused Creation. Or it may have been on the
+edge of a gully and the potential drop made by the stream eroding the
+ground out from under it."
+
+"How about atomic power?"
+
+"You mean, how did the power get locked in the atom?"
+
+"Yes."
+
+"The power in the atom was put there by the universe's atom factories.
+Sol, and the other suns," explained Hamilton.
+
+"But where did the earth--?"
+
+"Creation," murmured Thomas. "Who knows? I don't. Every time somebody
+comes up with a perfect answer, someone else comes up with perfect data
+that proves that the answer couldn't be _anything_ that anybody has
+ever used before.
+
+"The atom factory is the Solar Phoenix. You start with hydrogen and
+carbon. The solar heat is such that they combine atomically to an
+unstable isotope of nitrogen which immediately becomes a stable isotope
+of nitrogen. More hydrogen gets in, making it unstable oxygen and so
+forth. Oxygen breaks down, releasing energy, helium, and, what do you
+know, carbon again, which begins to take on hydrogen again, and here
+we go again. But the thing is uncontrolled hell on wheels. Things go
+wrong due to the variances of pressure and temperature, and the oxygen
+doesn't always break down into helium and carbon. It takes offshoots
+and sidetracks. It'll add hydrogen and become fluorine, for instance,
+which then adds more and becomes something else, some of which trails
+off like the branches of a tree and do not break down into recurrent
+reactions. Hence the other atoms."
+
+"I'll read about it and get the real picture. Know a good book?"
+
+Thomas scratched his chin. "If you can find a copy of 'The Days of
+Creation,' by Willy Ley, the first part of the book has a description
+of the Solar Phoenix."
+
+"Well, good enough," said Dr. Hamilton. "But just bear one thing in
+mind. You think you've beaten the engineer. Your basic trouble is just
+that the engineer is you, too. He has your ability and your knowledge
+and your experience upon which to work. He is no fool, and you can take
+that as a back-handed compliment if you want to. He is just as capable
+an engineer as you are a physicist. He thinks in different channels, I
+will admit. But, Thomas, remember that his extra-channellar thinking is
+done with the same thinking equipment as yours is, and it is no less
+efficient because of being divergent from your own thought-track. Your
+battle was won too easily to be conclusive."
+
+"What do you expect?"
+
+"I wouldn't know. I'm no scientist in physics." Hamilton held up a hand
+as Thomas started to protest. "I use 'scientist' despite your dislike
+of the word only because there is no term that describes both of the
+attributes of practical engineer and research physicist. Frankly, I'm
+hoping for an eventual coalition, but I fear not."
+
+"Why view no-coalition with distaste?" demanded Thomas.
+
+"Because both personalities offer much to the world, to science in
+general, and to the body that houses both of them."
+
+"I heartily dislike all aspects of practical engineering," stated
+Thomas flatly. "To be everlastingly forced to retrace your own
+steps, again and again and again, working out the most insignificant
+details--bah!"
+
+"The engineer has another viewpoint."
+
+"I know. But the engineer in this case is here only because of his own
+necessity--which he himself has removed. I am the real entity; I am the
+desire of the engineer. I am what he wants to be. _I am what he will
+become!_"
+
+       *       *       *       *       *
+
+"Good morning, Frank."
+
+"Morning, Miss Elaine. Mr. Lionel isn't here."
+
+"He'll be back?" asked the girl.
+
+"Oh yes. He went over to see Dr. Hamilton."
+
+"Oh. Frank, the usual question?"
+
+"This morning he is Thomas Lionel, Ph.D., M.M."
+
+"Oh."
+
+"He went to bed Tom Lionel, Consulting Engineer."
+
+"I wonder if he remembers," smiled Elaine.
+
+The _Poltergeist_ landed on the lawn. It was silent, but a flash of
+sunshine caught the sleek side and attracted Elaine's attention.
+
+"Hi," she called as she emerged from the house.
+
+"Howdy," he answered. "What brings you out?"
+
+"Never ask a girl a question like that," she laughed. "You'll never get
+the right answer."
+
+"Why?"
+
+"If she says 'you' it's either a lie or she's the kind of girl your
+mother tried to protect you from. If she says anything else, it's
+either a lie or she's the kind of girl your mother tried to protect you
+from."
+
+"A man can't win," snorted Thomas.
+
+"Does a man really want to win?"
+
+"Nope," admitted Thomas. "I won't ask questions, Elaine. I'll just be
+glad you came."
+
+"I'm glad you're glad."
+
+Elaine flirted with him shamelessly, and then turned toward the
+laboratory building. He followed, and they kept up a running fire of
+light talk all the way.
+
+"The first thing I have to do is to see what the engineer was doing
+last," remarked Thomas as he opened the laboratory door.
+
+"You are a strange fellow," smiled Elaine. "You respect each other's
+possessions and beliefs, though you argue madly through impersonal
+mediums. Still writing nasty letters?"
+
+"Uh-huh. And playing chess."
+
+"What's he been doing?" asked Elaine innocently.
+
+"Don't really know. Aside from some experiments on the poltergeist
+effect--reducing them to practice--I wouldn't know. I doubt that he's
+been doing much else. I do happen to know that he's deeply interested
+in the epicenter effect. He may find the key to it, too."
+
+The laboratory was about as he remembered it. There were some changes.
+A few of the pieces of equipment were moved; some of them were
+converted; and a couple of them had been built in to other, larger
+pieces. All of the workmanship was clean and shining.
+
+The cyclospectrograph had been worked on with a vengeance. It had lost
+its haywire appearance. The D plates were all neatly machined and
+the high frequency plumbing was all rearranged into mathematical and
+technical symmetry. The hours-use counter showed constant operation
+for several days solid, which interested the physicist.
+
+"He's found a use for it," he grinned at Elaine.
+
+"He finds a use for most everything," she said. "He's a pretty sharp
+man."
+
+"Thanks," grinned Thomas, recalling what the psychiatrist had said
+regarding the mutual efficiency of the mind in Thomas Lionel's body.
+
+"Wonder what this crystal is," muttered Thomas.
+
+"Looks like a natural quartz."
+
+"Might be--though I doubt it."
+
+"Can you find out?"
+
+"Eventually. If it is interesting, I will. What bothers me mostly,
+though," said Thomas thoughtfully, "are two things. One of them is that
+open drum of gooey tar. The other one is that vat of used motor oil."
+
+"The oil I understand. But what is the tarlike goo?"
+
+"I forget its name. It is one of the natural asphalt family and it
+ranks high--along with chewing gum--among those substances in which I
+would least like to bathe."
+
+"Um. I detect a tone of distaste," laughed Elaine. "Here's another
+little tricky gadget. Looks sort of like your tungsten box."
+
+"Oh?" asked Thomas.
+
+"Yes ... say, Tommy, what's an epicenter?"
+
+"Ah ... why?" asked the physicist, his attention on the
+cyclospectrograph.
+
+"This box has a little sign on it. It says: 'Be an epicenter' and some
+other stuff."
+
+"The epicenter is the main feature around which the phenomena
+revolves," explained Thomas idly.
+
+"Oh."
+
+       *       *       *       *       *
+
+Elaine fondled the little box. Her forefinger touched the button, felt
+its smoothness. In her mind was knowledge of the dire effects caused by
+tyros who push strange buttons. Certainly there was no curiosity deep
+enough to override her own good sense. But subconsciously the natural
+impulse to touch wet paint, to kick the package on the sidewalk, came
+to the fore and Elaine stood there, looking the box over with her
+forefinger set against the button.
+
+"'Be an epicenter'," she repeated.
+
+It registered. Like a swift montage, events past, present and future
+sped through Thomas Lionel's mind. He went from the basic idea to the
+foregone conclusion in three lightning-quick steps.
+
+"_NO!_" he yelled.
+
+But it was too late.
+
+And through his mind there passed a vision that made him swallow.
+Elaine--dressed in a simple frock of printed silk, garnished from
+the top of her beautifully coiffed hair to the bottoms of her
+exquisitely shod feet in an awful mixture of used crankcase oil and a
+tar-asphaltum--
+
+In vain he tried to cross the twenty feet that separated him from the
+girl. In vain he tried to get there, to snatch that devilish box from
+her hand, to grab it and hurl it far enough away so that the effect
+wouldn't even cause a bad splash.
+
+The idea of seeing her all gooed up. That made him shout hoarsely.
+
+It shouldn't happen to a dog--
+
+And then it hit him. He was fully fifteen feet from the girl and
+her little instrument. A half-hour's observational time went into
+milliseconds in Thomas Lionel's mind as he watched the open drum of
+asphaltum compound rise out of the open top in a parabolic arc. It
+arched high, just missing the ceiling, and passing in an ogee curve to
+miss a stanchion. Forward it came, to curve downward upon his own bare
+head.
+
+Simultaneously, he was drenched from behind by the arching column of
+oil from the vat behind him.
+
+In twin, converging arches, Thomas was inundated and thoroughly soaked
+from head to toe with a whirling mixture of oil and tar.
+
+He cleared his eyes with squeegeeing fingers. Elaine, holding in her
+laughter with effort, showed him the box.
+
+Above the button it said:
+
+                           BE AN EPICENTER!
+
+               Control that mysterious power. Exert the
+               forces of hidden nature in  your behalf!
+
+                              PRESS HERE!
+
+"He's found it," croaked Thomas. "He's found it!"
+
+"And you're a mess."
+
+"That I am," said Thomas shaking off some of the gluck that was
+trickling down his arm. "That I am."
+
+"Don't you mind?"
+
+"I have my own revenge. My own, particular means of revenge. I'm sorry,
+Elaine. I must now leave you. The engineer has had his fun--now, my
+sweet, he may have the compensating task of cleaning up!"
+
+Thomas turned and found the little tungsten box with its label: BE AN
+ENGINEER! and pressed the button.
+
+       *       *       *       *       *
+
+Tom Lionel, Consulting Engineer, removed his finger from the button,
+and turned to see Elaine.
+
+"Was it funny?" he asked.
+
+"Very much so," she laughed.
+
+"Who pushed it?"
+
+"I did."
+
+"Too bad. I'd rather he got it by his own machinations."
+
+"He tried to stop me--"
+
+"Uh-huh. Maybe it's better the way it is," Tom laughed in spite of
+the load of uncomfort he was carrying. He wiped some of the oil and
+tar mixture from his face and continued. "The instantaneous feeling of
+horror at the idea of seeing you glucked over with this mess must have
+given him some shock. No doubt he thought that whatever would happen
+would happen to the holder of the epicenter locator."
+
+"Now what are you going to do?"
+
+"Me?"
+
+"Yes. You're going to clean up, aren't you?"
+
+"Not me."
+
+"How are you going to ... to--?"
+
+"Cause his return?"
+
+"Yes."
+
+Tom considered. "I guess I'm licked. He'll just use this box of his."
+
+"Can't you undo it?"
+
+"Nope. It's just too tough. I'd go to work on the insides with acid
+if I could get inside of it. The outside is possible, but I haven't
+enough acid to react with the whole darned box. But I'm going to get
+something. Well, I'm going inside and take myself a shower. Wait--I'll
+be back."
+
+       *       *       *       *       *
+
+An hour later, Tom Lionel emerged from the bathroom. Frank, the
+houseboy went in with a humorous shake of the head. He'd seen the
+embryonic mess and knew what there was to do.
+
+"Now what?" asked Elaine.
+
+"Well, you see, the thing is slightly out of hand," exclaimed Tom. "I
+started this thing because my physicist friend got out of line and
+shot the entire bankroll on a pile of scientific flapdoodle." He took a
+cigarette case from his pocket that glinted and iridesced as he opened
+it. "I've been able to use nearly everything," he grinned, "including
+the ruling engine," he waved the grating-ruled cigarette case at the
+girl. "Marten shelled out about ten thousand bucks for the secret of
+the finish on this case. He's ruling jewelry now and it is the largest
+thing since the discovery of diamond-faceting. I'm also getting a five
+percent royalty on every grating-ruled piece that's made. It ain't hay.
+
+"Anyway, it backfired on me because I presented him with something
+that offered him, not frustration, but instead, he proceeded to
+make something of it that no sensible engineer could ignore. And,"
+he continued ruefully, "it did two more drastic things. One, it
+made his continued influence necessary. There are too many things
+that he knows to dispense with his type of thinking. Number two, my
+success in reducing his discoveries to practice has resulted in the
+generation of a good income. That has been the basis of our argument.
+He's impractical to the extreme, but as long as the body is fed,
+both materially and intellectually, so what? So instead of finding
+myself the winner, I'm actually fighting for my own existence." Tom
+went bitter. "A fine thing. To be forced to fight for one's existence
+because of factors that emanate from his own success."
+
+Elaine put a hand on his shoulder. "Don't be bitter," she said
+softly. "I ... I'll miss you--"
+
+"Oh, don't worry," he told her in a strained voice. "I don't intend
+to give up." He cradled her face between his hands and looked her
+straight in the eyes. "If, as, and when, I--though the concept is
+purely hypothetical--might possibly lose--mind, I have no intention
+of losing since I intend to win unconditionally and maintaining the
+present status is intolerable--the other guy will have been in such a
+mad battle that he'll be forced into accepting some practical tenets as
+a factor. Then he'll be more like me."
+
+"This may hurt," she said seriously, "but you are not as different as
+you might think."
+
+"He hates the thought of practicality."
+
+"And yet," said Elaine, "if all were engineers who would take time to
+seek out the little-known facts?"
+
+"And," snorted Tom, "if all were physicists, we would still be hanging
+from trees, tossing coconuts at one another whilst a few bright
+dawn-men were contemplating the possibilities of using fire--but, of
+course, doing nothing about it. After all, once the physicist has
+considered all the angles, he's through. He doesn't give a howling
+hoot whether what he's considered is practical--after all, it _is_
+interesting and that's all he cares about."
+
+"But--"
+
+"Since the physicist's thinking is actually based upon past proof--made
+by practical engineers--the contemplation of fire would be as far as
+they'd get. For there would be no engineer to ever use it to show its
+practical possibilities! That's based on my horribly hypothetical world
+where all were physicists and none were engineers."
+
+"Who invented the bow and arrow?" asked Elaine.
+
+"Ab, Ug, or Unguh. He, she, or it was an experimenter. Y'see, Elaine,
+at one time there were neither engineers nor physicists. Alexander
+Graham Bell was not--in our present day sense--a physicist nor was
+Morse, or Edison or Lodge. Nor were they engineers. Somewhere since
+then the line has been divided. In them days they were basement
+geniuses. But now," he said bitterly, "there is one set of people who
+think up cockeyed things and another set that figures out what to do
+with them."
+
+"Y'know," smiled Elaine, "I think that getting together would be the
+finest thing that ever happened to you and the physicist."
+
+Tom backed up three steps. "Look," he snapped, "I've heard a lot. I can
+stand for a lot. But that's something that I can't even consider."
+
+"Both of you offer so much to--"
+
+"Yeah," he sneered, "and we're both solid citizens! Hooey."
+
+       *       *       *       *       *
+
+Tom stalked over to the chessboard and looked down. "Overconfidence is
+a dangerous thing," he said with a smile. He moved a bishop halfway
+across the board. "There," he said with a satisfied air, "that should
+be obscure enough to fool anybody, even Lasker."
+
+"Who's Lasker?" asked the girl.
+
+"One of the chess masters."'
+
+"Oh."
+
+"Now," he said, "I'm going to ask you a favor."
+
+"Yes."
+
+He grinned. "It might be quite personal."
+
+"In which case I'd ask you a favor, too."
+
+"What kind?"
+
+"That depends on the nature of the original request. What's yours?"
+
+"I'd like you to write a few letters for me."
+
+"In which case there'll be no counterproposition."
+
+For three solid hours, Elaine sat at the typewriter. At the end of that
+time, Tom smiled, patted her on the top of the head and said: "You've
+been a good girl, kiddo."
+
+"Thanks," she mumbled. "But there are things about your physicist that
+I do admire. He never makes his women work."
+
+"Impractical lad," laughed Tom.
+
+"Impractical, but fun."
+
+"Bah. You, too, huh?"
+
+"Well fun is--"
+
+"Impractical."
+
+"When you find time to be impractical," said Elaine, rising, "you may
+invite me over long enough to find out just exactly how practical an
+impractical batch of fun can be. Practically, I am an impractical asset
+with indispensable attributes." She arched one eyebrow at him and
+leered in a ladylike fashion. "You'll find out," she told him.
+
+"Dinner?" he suggested.
+
+"That I cook? Ah-ahhh." She touched his cheek lightly and then said: "I
+gotta go. I'm late as it is. Sorry, Tommy. But that's how it stands.
+Take it easy--and I'll be seein' you."
+
+Tom Lionel, Consulting Engineer, saw her away, and then returned to his
+desk full of work. He sorted papers, did some computations, manipulated
+some theory, and then sat still, thinking out his plan.
+
+His evening was full. He experimented in the laboratory until the wee
+small hours, and then spent another two hours contemplating, with
+relish, the results. He finished by writing another letter, taking a
+last look at the chessboard, and then retired with a final look at the
+calendar.
+
+       *       *       *       *       *
+
+Thomas Lionel, Ph.D., M.M., awoke with a feeling of self-satisfaction.
+The world was his onion and he knew it. There was nothing to detract
+from his success. After all, every time he returned it was because the
+engineer had been frustrated. The same thing had happened again.
+
+He breakfasted lazily, reading the mail and the notes made by the
+engineer. The notes satisfied him. He added some notations and made
+some calculations himself that would further frustrate the engineer
+when again possession of the body changed minds. He noted with relish
+that the bank account was growing by leaps and bounds--a backfired
+result of the engineer's own machinations.
+
+How long it would be before the engineer was completely vanished he
+did not know, but it would not be too long.
+
+A few more developments of the poltergeist effect, another series of
+new sciences--with their attendant publicity, sales, and, of course,
+royalty and licensing fees--and the engineer would find nothing in
+his life worth living for. He then would turn, bending his naturally
+curious mind to the more obscure realm of physics.
+
+In other words, the mind of Tom Lionel would become congruent with
+the mind of Thomas Lionel. Tom Lionel would vanish. Thomas Lionel,
+the ultimate desire of the engineer's mind would take control and the
+period of schizophrenia would end.
+
+It was more than just logical. The consulting engineer wanted to be a
+physicist. Now that all barriers were removed, he would.
+
+The hearty dislike of physicists that characterized the mind of the
+engineer was sheer jealousy; psychological block; that factor of the
+mind which, when denied a desire, hates all others who successfully
+achieve it.
+
+Aesop called it "Sour Grapes."
+
+He noted the calendar for the day. He nodded. He was to see a group of
+physicists from one of the government bureaus. That would be O.K. Later
+in the afternoon there was a conference between a group of production
+superintendents who were about to start producing items using the
+poltergeist effect. He made a notation to investigate the epicenter
+effect and see what could be generated out of it.
+
+The latter was interesting, and presented a problem.
+
+He arose from the breakfast table and sought the chessboard. He
+laughed quietly and advanced a knight to cover his opponent's bishop.
+That was in accordance with a well-known theory of chess. If, after
+several moves, no apparent pattern is manifest, attack with a minor
+piece--or even capture or exchange minor pieces. The plan of attack may
+be obscure to you, but the chances are that a bold counterattack or
+exchange of minor pieces will disrupt the attack.
+
+Well, all was well.
+
+His plans? They were simple enough. He would carry on. He would do more
+research, and confound the engineer whenever next he returned. It was
+as simple as that.
+
+       *       *       *       *       *
+
+"The poltergeist effect," said Thomas, facing the group of government
+physicists, "is still in the field of research and development--and
+wide open on all sides. Much is still unknown about it, in spite of the
+fact," he added distastefully, "that certain aspects of it have already
+been put to work.
+
+"You are all familiar with the initial theories, though I shall touch
+upon them briefly here again. The spatial strains, when under the
+influence of solar gravity, lunar gravity, and terrestrial gravity
+all in proper vectorial relationship, add to the spatial strains
+caused by the magnetic fields of the three main bodies mentioned. The
+electrostatic fields in the terrestrial atmosphere--the same which
+cause lightning in another manifestation--also add to the spatial
+strain. These are all natural phenomena.
+
+"The radiation of a thinking brain, gentlemen, is not a natural
+phenomena--not a natural characteristic warp in space," he corrected
+with a slight smile. "It causes a vibration in the region of the
+end-hysteresis loop of space itself when space is saturated to that
+threshold by the natural warps and strains. It exerts a triggering
+action that releases a more powerful nonphysical radiation, which in
+turn releases the space strain that causes--things--to move. Also this
+final buckling of the space strain releases a component of the initial
+wave which again exerts the triggering action. The proposition is
+self-sustaining as long as the gravitic, magnetic, and electrostatic
+effects are such as to maintain the saturation of space at the
+hysteresis-loop level.
+
+"However," continued Thomas, "it has been discovered that these
+potentials are not only released, but are dirigible, under the complex
+force-fields generated by the equipment so far developed. Some effects
+are akin to gravitic effects--the real nature of which none of us can
+state, or even guess."
+
+"Your statements border on the fantastic," smiled the head visitor,
+Lowell Johnstown. "Were it not for the fact that your statements have
+been accompanied by experimental proof, we would be forced to discount
+them as the ravings of an insane mind. However, your paper before the
+American Physical Society plus your experimental data--which we all
+have duplicated--gives proof. The nullification of gravity--"
+
+"Not nullification," insisted Thomas. "I do not claim nullification.
+The effect is a development of diagravitic force."
+
+"The difference--?"
+
+"Does exist. The generation of a counter-force may, in some cases be
+considered nullification. But nullification does not describe all
+aspects of counter-force. I prefer to use the counter-force definition,
+since vectorial components may be generated in the object under
+observation. These forces have no relation to the force of gravity
+acting upon the object, other than can be similarly observed in the
+free flight of a projectile, where both the forward motion and the
+gravitic attraction cause summation of forces into a parabolic path."
+
+"I'll accept your remarks. But we are here to discuss the epicenter
+effect."
+
+"The epicenter is a generator of the radiation which causes release
+of the potentials indigenous to all material bodies. This radiation
+is of a complex nature. It requires both physical, electrostatic,
+electromagnetic generators to produce the radiation that triggers the
+poltergeist potential.
+
+"Incidentally, gentlemen, this may be why some people always seem to be
+getting into accidents. I believe that we have the true answer to the
+'Accident-Prone' within our grasp."
+
+"How does this manifest in experimental work?" asked Johnstown.
+
+"By crystallographic generation of the force-fields coupled with
+the radiation of the brain in question. The effect is probably more
+pronounced with a man whose prevalence toward poltergeist effects and
+accident prone-ness is higher than normal. I am seeking such a man now.
+By further filtering through crystals the random release of poltergeist
+energy is directed and controlled so that a desired object may be moved
+almost at will."
+
+"This equipment--can we hope to get it in practical size?"
+
+Thomas considered and then said with a touch of disinterest: "It is
+possible. No doubt the practical viewpoint will appeal to many."
+
+"To sum up your statements," interjected Johnstown, "we have an effect
+that will cause the movement of any desired object by the use of
+nonmaterial supporting and actuating means."
+
+"Right. And one other interesting effect. The generation of direct
+current electricity is also possible in the same manner. I might even
+add," he concluded with a smile, "that manifestation of any physical
+effect is possible."
+
+Johnstown packed the pages of data in his briefcase. "You have unlocked
+a veritable universe of basic study," he said. "You should feel
+gratified. We'll keep in touch with you, Lionel. And, we'll return
+once we have had a chance to digest this information. Also, we'll
+furnish you with whatever observations we make."
+
+Thomas watched them leave. He smiled. Adding to the discomfiture of the
+engineer at really having nothing left to work for--the bank account
+being filled daily--he was tossing his discoveries to the world of
+physicists, and other engineers and scientists would take over, more
+than likely leaving the engineer foundering in a sea of uncertainty.
+
+       *       *       *       *       *
+
+The group of production superintendents entered and seated themselves.
+Their spokesman, Charles Norden said: "We are here because of
+certain difficulties we are having in making your effect operate
+satisfactorily."
+
+"I can, of course, assist you," smiled Thomas, affably.
+
+"Good," answered Norden. "Here is the first difficulty." He pulled from
+his case a sheaf of blueprints, and he spread them out across the desk.
+"Our design department claims that the arrangement of knobs on the
+panel is inconvenient. A suggested change is to put them like this."
+
+Franklen, who was one of Norden's associates objected: "That means
+you'll have to shunt the snivvy over here. That lengthens the leads and
+cause instability."
+
+"But we can reinstate the stability by running the leads through a
+dingink."
+
+"That won't help. Shielding the leads only adds distributed capacity."
+
+"It works. Only one percent loss in efficiency and better stability,
+believe it or not."
+
+"Well," said Norden, "I'll leave it up to Lionel, here. What do you
+think?"
+
+"I'll have to consider it," answered Lionel.
+
+"You understand that it is important," urged Norden.
+
+"But why?"
+
+"Why?" exploded Norden. "Great Scott! Look Lionel, the arrangements of
+these knobs are such that the operator must cross the calibration-scale
+with his hand while adjusting the output. That means that he must
+either assume a cramped position or he must adjust, observe, adjust,
+observe, and so on, taking the adjustment of output by increments
+instead of a stepless arrival at the precise value."
+
+"Um."
+
+"Look, Lionel, we aren't toying with the job of lifting a standard
+weight. We are hoisting three hundred tons of semirigid structure that
+mustn't be joggled too much."
+
+"I see. Well under the circumstances I'll take quick action and give
+you the answer within twenty-four hours."
+
+"We can't have it immediately?"
+
+"I'm afraid not. I must make some tests before I can pass judgment on
+the matter."
+
+"We are more or less forced to accept your time-limit," said Norden
+glumly. "Please understand that time is essential because every
+minute that our production line is down costs the company about twenty
+dollars."
+
+"I'll get your answer in twenty-four hours," Thomas faced another man.
+"And your trouble?"
+
+He was Mawson, of Technical Manufacturing, Inc.
+
+"You specify this part," indicating another set of blueprints, "as pure
+copper. Anything else do?"
+
+"It carries high frequency. Copper is best--unless you could get
+silver. If that is--"
+
+"Look we're making production and hope to hit fifteen thousand
+completed assemblies per day. That piece would weigh about two pounds.
+Silver is out."
+
+"What's the matter with copper?" asked Lionel.
+
+"It cuts like cheddar cheese, gums up the tools, and is generally not
+good for close tolerance work."
+
+"The first one was all right."
+
+"Listen," said Mawson, "you carved the first one out by hand and I'll
+bet it took you four or five hours. We're going to 'run 'em on an
+automatic screw machine at the rate of ten per minute."
+
+"So?"
+
+"I want to use free cutting brass."
+
+"You'll lose conductivity--"
+
+"The rig will be only seven percent less efficient. Tests--"
+
+"Your tests may be right. But seven percent loss is pretty bad,"
+grumbled Thomas. "I'd say no."
+
+"Then I'm going to ask you to name a substitute. What alloy would
+suffice? I want a free cutting alloy that'll come off of the tools
+clean."
+
+       *       *       *       *       *
+
+Will White spoke up at this point. "We've got a bit of regeneration in
+our driver system," he said.
+
+"That's easy. Have one of your engineers remove it."
+
+"Can't. Anything they do to remove regeneration also destroys the
+driver's efficiency."
+
+"Efficiency," said Thomas, "is the inverse function of the frequency
+of drive divided by the number of full-phase poles in the genedyne.
+Expressed by the quadratic equation in which A equals the number of
+full-phase poles--"
+
+"But we can't get rid of the regeneration!" exploded White.
+
+"Look, that driver is as simple as ABC. It has and will be a standard
+assembly for seven generations past and forward. Now don't tell me--"
+
+"I'm telling you that we're burning up our test stands left and right.
+How long can you take a forty percent regeneration in a hundred
+kilowatt genedyne?"
+
+"Well, not long," admitted Thomas. "You understand the principles
+involved?"
+
+"Not entirely."
+
+"I'll explain. The force-fields created by the full-phase poles under
+the power output from the driver create a nonelectromagnetic field
+radiation. The intensity of this field is a function of the driver
+output, derived tertially through the pole system. Now the development
+of the field radiation creates a space hysteresis that--"
+
+"Look," snapped White, "I don't give a care about field theory. It
+doesn't apply in my job. I merely want to know what to do about the
+regeneration."
+
+"How can you work without understanding the theory?" asked Thomas with
+a sneer.
+
+"How can a musician play a pipe organ without a course in first year
+physics?" shouted White. "Just tell me what to do!"
+
+"Tell 'em to retune the driver to another band."
+
+"They aren't certain that the pick-up loop is itself tuned or not."
+
+"It is."
+
+"Then that means tuning the entire feeder line."
+
+"Naturally."
+
+"But the feeder line is a silver plated die casting."
+
+"Change the dies," said Thomas.
+
+"May we charge you for them?" asked White, sweetly. "And also for
+scrapping the three hundred and seventy thousand parts we have cast
+already?"
+
+"Why get so far ahead?"
+
+"Look, Thomas Lionel, we did it because it was cheaper not to tie up
+the die-caster's shop in weekly driblets rather than get the whole
+order in a lump. Now--what do we do about regeneration?"
+
+"Anybody can clear up regeneration," snapped Lionel.
+
+"Good--you show us how. That's what we're retaining you for. Your
+developments and whatever technical assistance is required."
+
+Thomas Lionel looked up, and scanned each face at the big table. "From
+left to right, can you state your problems?" he asked.
+
+"Plating specs on the genedyne."
+
+"Problem in suspension during process."
+
+"Can plus or minus fifteen percent electrical components be used in
+place of ten percents?"
+
+"We still require the alignment procedure."
+
+Thomas held up a hand. "O.K., fellows. Submit your problems in writing
+and I'll furnish the answers in twenty-four hours."
+
+Norden bobbed his head in agreement. "I fear that I shall call for
+cancellation of contract and the forfeit sum if your answers are not
+forthcoming."
+
+Thomas nodded silently. The forfeit--if this whole gang bopped their
+contracts back he'd lose his shirt.
+
+He watched them file out. And his eyes dropped from their stare out of
+the window to the pile of questions on the desk. A pile of production
+problems!
+
+Sheer, unadulterated hell.
+
+Well, he might as well call the engineer and let him handle this.
+It was one of the things that the engineer got a kick out of. As a
+physicist, this was not his job--and as an intelligent physicist, he
+did know how to get things done. Everything for its own use; if he
+didn't know, he knew where to find out.
+
+       *       *       *       *       *
+
+Thomas went out to the laboratory and faced his tungsten box. A twinge
+of wonder flashed through his mind. It bothered him.
+
+_Was this an admission of partial defeat?_
+
+Not at all. This was good sense. Call in the engineer to clear up this
+mess, since his income and well-being depended upon it. Once these
+contracts were clear and closed--well, time enough!
+
+He pressed the button.
+
+And Thomas Lionel, Ph.D., M.M., pressed it again.
+
+And again--
+
+And again.
+
+And then took a suspicious glance at the oxy-hydrogen torch on the
+table. A growing fear hit him. Tungsten wouldn't budge under an
+acetylene torch. Acids were not too effective, and plain, old-fashioned
+cutting tools were sheer foolishness. But heat the block white hot and
+hit it with an oxygen lance--
+
+Thomas looked on the back side.
+
+Uh-huh. The engineer had enjoyed himself. The back side of his
+little tungsten wave generator had been poked full of ragged holes;
+cut in ribbons with the oxygen lance, and generally made messy. The
+wave-guides and channels were all un-terminated and laid open. Pushing
+the button wouldn't do a thing.
+
+It definitely would not call the engineer.
+
+He had twenty-four hours to solve the production people's problems.
+
+And Thomas Lionel understood. The engineer had his own little trap. No
+doubt the engineer would go fishing if called, and only the physicist
+was really interested in fighting this thing out to the bitter end.
+The engineer, losing already, had only a bank account to throw away
+by not working. And the engineer could get another one soon enough if
+permitted to do so.
+
+Twenty-four hours.
+
+Thomas headed in toward the house to get his notebook and his
+engineering notes. He'd have to take over the engineer's job, no
+matter how distasteful.
+
+Out of one corner of his eye he saw the chessboard and he stopped
+short. It had been the odd angle that gave the trap away but his moving
+of the knight had opened a line right down into his own defenses. On
+the next move there would be a severe attack against his queen, and
+in saving that, he'd lose the bishop. If he sacrificed the queen, he
+was as good as lost. In fact, it was checkmate no matter how long he
+fought; no matter what he did, it was only a question of three moves
+minimum or seven moves maximum.
+
+Well, might as well give up. This game was gone and there was no use in
+fighting a losing battle--whipping a dead cat--
+
+He opened the drawer and removed the little sign normally used to
+terminate a game without going through the formality of a checkmate.
+
+But the sign had been augmented. It read:
+
+[Illustration: I RESIGN
+
+_Resignation Not Accepted!_
+
+_T.L._ ]
+
+
+                               THE END.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK TROUBLE TIMES TWO ***
+
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
