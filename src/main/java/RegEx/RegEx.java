@@ -24,42 +24,20 @@ public class RegEx {
   static final int PARENTHESEOUVRANT = 0x16641664;
   static final int PARENTHESEFERMANT = 0x51515151;
   static final int DOT = 0xD07;
-  
-  //REGEX
-  private static String regEx;
+ 
   
   //CONSTRUCTOR
   public RegEx(){}
   
-  public static void performSearch(String regEx, File file) {
+  public static void searchonfile(String regEx, File file) {
 	    System.out.println("Welcome to the RegEx search.");
 	    
 	    if (regEx.length() < 1) {
 	      System.err.println("  >> ERROR: empty regEx.");
 	      return;
 	    }
-
-	    DFA dfam = null;
 	    long startTime = System.currentTimeMillis();
-	    if (regEx.length()<1) {
-	        System.err.println("  >> ERROR: empty regEx.");
-	      } else {
-	        System.out.print("  >> ASCII codes: ["+(int)regEx.charAt(0));
-	        for (int i=1;i<regEx.length();i++) System.out.print(","+(int)regEx.charAt(i));
-	        System.out.println("].");
-	        try {
-	          RegExTree ret = parse();
-	          System.out.println("  >> Tree result: "+ret.toString()+".");
-	          NFA nfa = NFABuilder.buildNFAFromRegExTree(ret);
-	          System.out.println("  >> "+nfa.toString()+".");
-	          DFA dfa = DFABuilder.buildDFAFromNFA(nfa);
-	          System.out.println("  >>  "+dfa.toString()+".");
-	          dfam = DFAMinimizer.minimizeDFA(dfa);
-	          System.out.println("  >>  "+dfam.toString()+".");
-	        } catch (Exception e) {
-	          System.err.println("  >> ERROR: syntax error for regEx \""+regEx+"\".");
-	        }
-	      }
+	    DFA dfam = parseregex(regEx);
 	    
 
 	    System.out.println("  >> Parsing completed.");
@@ -84,6 +62,29 @@ public class RegEx {
 	    System.out.println("Time Used： " + (searchEndTime - startTime) + "ms");
 	  }
   
+  public static DFA parseregex(String regEx) {
+	  DFA dfam = null;
+	  if (regEx.length()<1) {
+	        System.err.println("  >> ERROR: empty regEx.");
+	      } else {
+	        System.out.print("  >> ASCII codes: ["+(int)regEx.charAt(0));
+	        for (int i=1;i<regEx.length();i++) System.out.print(","+(int)regEx.charAt(i));
+	        System.out.println("].");
+	        try {
+	          RegExTree ret = parse(regEx);
+	          System.out.println("  >> Tree result: "+ret.toString()+".");
+	          NFA nfa = NFABuilder.buildNFAFromRegExTree(ret);
+	          System.out.println("  >> "+nfa.toString()+".");
+	          DFA dfa = DFABuilder.buildDFAFromNFA(nfa);
+	          System.out.println("  >>  "+dfa.toString()+".");
+	          dfam = DFAMinimizer.minimizeDFA(dfa);
+	          System.out.println("  >>  "+dfam.toString()+".");
+	        } catch (Exception e) {
+	          System.err.println("  >> ERROR: syntax error for regEx \""+regEx+"\".");
+	        }
+	      }
+	  return dfam;
+  }
   
   public static String readToString(File file) {
     long filelength = file.length();
@@ -99,7 +100,7 @@ public class RegEx {
 }
   
   public static boolean search(DFA dfa,StateA state, String line, int position) {
-    if (state.isFinal)
+    if (state.isFinal())
         return true;
 
     if (position >= line.length())
@@ -119,7 +120,7 @@ public class RegEx {
 }
 
   //FROM REGEX TO SYNTAX TREE
-  private static RegExTree parse() throws Exception {
+  private static RegExTree parse(String regEx) throws Exception {
     //BEGIN DEBUG: set conditionnal to true for debug example
     if (false) throw new Exception();
     RegExTree example = exampleAhoUllman();
@@ -291,29 +292,7 @@ public class RegEx {
   }
 }
 
-//UTILITARY CLASS
-class RegExTree {
-  protected int root;
-  protected ArrayList<RegExTree> subTrees;
-  public RegExTree(int root, ArrayList<RegExTree> subTrees) {
-    this.root = root;
-    this.subTrees = subTrees;
-  }
-  //FROM TREE TO PARENTHESIS
-  public String toString() {
-    if (subTrees.isEmpty()) return rootToString();
-    String result = rootToString()+"("+subTrees.get(0).toString();
-    for (int i=1;i<subTrees.size();i++) result+=","+subTrees.get(i).toString();
-    return result+")";
-  }
-  private String rootToString() {
-    if (root==RegEx.CONCAT) return ".";
-    if (root==RegEx.ETOILE) return "*";
-    if (root==RegEx.ALTERN) return "|";
-    if (root==RegEx.DOT) return ".";
-    return Character.toString((char)root);
-  }
-}
+
 
 
 

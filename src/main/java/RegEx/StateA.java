@@ -12,7 +12,7 @@ import java.util.Stack;
 
 public class StateA {
   int id;
-  boolean isFinal;
+  private boolean isFinal;
   HashMap<Character, StateA> transitions;
   Set<StateA> epsilontransitions;
 
@@ -21,7 +21,7 @@ public class StateA {
   }
   public StateA(int id, boolean isFinal) {
     this.id = id;
-    this.isFinal = isFinal;
+    this.setFinal(isFinal);
     this.transitions = new HashMap<>();
     this.epsilontransitions = new HashSet<>();
 }
@@ -40,7 +40,7 @@ public class StateA {
     StringBuilder sb = new StringBuilder();
     sb.append("StateA{" +
               "id=" + id +
-              ", isFinal=" + isFinal +
+              ", isFinal=" + isFinal() +
               ", transitions = " );
     for (var entry : this.transitions.entrySet()) {
       sb.append(entry.getKey()+ " " + entry.getValue() + " ");
@@ -67,6 +67,12 @@ public class StateA {
       return transitions.get(input);
     return transitions.get('.');
   }
+public boolean isFinal() {
+	return isFinal;
+}
+public void setFinal(boolean isFinal) {
+	this.isFinal = isFinal;
+}
 }
 
 

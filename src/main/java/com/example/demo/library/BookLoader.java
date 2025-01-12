@@ -1,9 +1,12 @@
-package com.example.library;
+package com.example.demo.library;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
-import com.example.library.models.Book;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
+
+import com.example.demo.library.models.Book;
 
 import java.io.File;
 import java.io.IOException;
@@ -21,17 +24,29 @@ public class BookLoader implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws IOException {
-        File folder = new File("path/to/your/books"); // Chemin vers le dossier contenant les fichiers texte
-        File[] files = folder.listFiles();
+    	
+        File folder = new File("./f");
 
+
+        if (!folder.exists() || !folder.isDirectory()) {
+        
+            return;
+        }
+
+        File[] files = folder.listFiles();
         if (files != null) {
             for (File file : files) {
-                String content = Files.readString(file.toPath());
-                String title = extractTitle(content);
-                String author = extractAuthor(content);
+                try {
+                    String content = Files.readString(file.toPath());
+                    String title = extractTitle(content);
+                    String author = extractAuthor(content);
 
-                Book book = new Book(title, author, content);
-                bookRepository.save(book);
+                    Book book = new Book(title, author, content);
+                    bookRepository.save(book);
+                    
+                } catch (IOException e) {
+          
+                }
             }
         }
     }

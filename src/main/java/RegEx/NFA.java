@@ -21,7 +21,7 @@ public void setInitialStateA(StateA StateA) {
 public void setFinalStateA(StateA StateA) {
     this.finalStateA = StateA;
     StateA.setId(StateAIdCounter++);
-    StateA.isFinal = true;
+    StateA.setFinal(true);
     this.StateAs.add(StateA);
 }
 
@@ -36,7 +36,7 @@ public String toString() {
 
     for (StateA StateA : StateAs) {
         sb.append("StateA ").append(StateA.id);
-        if (StateA.isFinal) {
+        if (StateA.isFinal()) {
             sb.append(" (Final)");
         }
         sb.append(":\n");
@@ -77,7 +77,7 @@ public void addAllStateAs(Set<StateA> StateAs) {
 }
 public void allisnotFinal() {
   for (StateA StateA : StateAs) {
-      StateA.isFinal = false;
+      StateA.setFinal(false);
   }
 }
 

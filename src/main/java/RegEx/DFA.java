@@ -26,7 +26,7 @@ public class DFA {
   }
   
   public void addFinalStateA(StateA StateA) {
-      StateA.isFinal = true;
+      StateA.setFinal(true);
       this.finalStateAs.add(StateA);
   }
   
