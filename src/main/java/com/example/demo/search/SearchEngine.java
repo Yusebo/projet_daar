@@ -1,26 +1,13 @@
 package com.example.demo.search;
 
-
-
-
 import RegEx.DFA;
-import RegEx.NFA;
-import RegEx.NFABuilder;
 import RegEx.RegEx;
-import RegEx.DFABuilder;
-import RegEx.DFAMinimizer;
-import RegEx.RegExTree;
-import RegEx.StateA;
-
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import com.example.demo.library.BookRepository;
 import com.example.demo.library.models.Book;
 
 import java.util.List;
-import java.util.Set;
 import java.util.stream.Collectors;
 
 @Service
@@ -33,29 +20,44 @@ public class SearchEngine {
         this.bookRepository = bookRepository;
     }
 
-    // Fonction de recherche basique par mot-clé
-    public List<Book> basicSearch(String keyword) {
-        return bookRepository.findByContentContaining(keyword);
+    public List<Book> getAllBooks() {
+        return bookRepository.findAll();
+    }
+    
+    public BookRepository getBookRepository() {
+    	return this.bookRepository;
     }
 
-    // Fonction de recherche avancée par expression régulière
-    public List<Book> advancedSearch(String regex) {
-        // Construire le NFA à partir de l'expression régulière
-        
-        DFA minimizedDFA = RegEx.parseregex(regex);
+    // Recherche basique par mot-clé dans le contenu des livres
+    public List<Book> basicSearch(String keyword) {
+        List<Book> books = bookRepository.findByContentContaining(keyword);
+        return rankResults(books, keyword); // Classement des résultats
+    }
 
-        // Récupérer tous les livres de la base de données
+    // Recherche avancée par expression régulière dans le contenu des livres
+    public List<Book> advancedSearch(String regex) {
+        DFA minimizedDFA = RegEx.parseregex(regex);
         List<Book> allBooks = bookRepository.findAll();
 
-        // Filtrer les livres qui correspondent à l'expression régulière
-        return allBooks.stream()
+        // Filtrer les livres dont le contenu correspond à l'expression régulière
+        List<Book> matchedBooks = allBooks.stream()
                 .filter(book -> matchesRegex(minimizedDFA, book.getContent()))
                 .collect(Collectors.toList());
-    }
 
-    // Fonction pour classer les résultats de recherche
-    public List<Book> rankResults(List<Book> results, String keyword) {
-        // Classer les résultats par nombre d'occurrences du mot-clé
+        // Classement des résultats en fonction du nombre de correspondances de l'expression régulière
+        return rankResultsByRegex(matchedBooks, minimizedDFA);
+    }
+    
+    public List<Book> suggestSimilarBooks(Book book) {
+        return bookRepository.findByTitleContainingOrAuthorContaining(book.getTitle(), book.getAuthor())
+                .stream()
+                .filter(b -> !b.equals(book))
+                .collect(Collectors.toList());
+    }
+    
+
+    // Classement des résultats par nombre d'occurrences du mot-clé dans le contenu
+    private List<Book> rankResults(List<Book> results, String keyword) {
         results.sort((b1, b2) -> {
             int count1 = countOccurrences(b1.getContent(), keyword);
             int count2 = countOccurrences(b2.getContent(), keyword);
@@ -64,14 +66,14 @@ public class SearchEngine {
         return results;
     }
 
-    // Fonction pour suggérer des livres similaires
-    public List<Book> suggestSimilarBooks(Book book) {
-        // Implémenter une logique de suggestion basée sur le graphe de Jaccard ou d'autres critères
-        // Par exemple, retourner les livres avec des titres ou auteurs similaires
-        return bookRepository.findByTitleContainingOrAuthorContaining(book.getTitle(), book.getAuthor())
-                .stream()
-                .filter(b -> !b.equals(book))
-                .collect(Collectors.toList());
+    // Classement des résultats par nombre de correspondances de l'expression régulière dans le contenu
+    private List<Book> rankResultsByRegex(List<Book> results, DFA dfa) {
+        results.sort((b1, b2) -> {
+            int count1 = countRegexMatches(dfa, b1.getContent());
+            int count2 = countRegexMatches(dfa, b2.getContent());
+            return Integer.compare(count2, count1); // Ordre décroissant
+        });
+        return results;
     }
 
     // Méthode utilitaire pour compter les occurrences d'un mot dans un texte
@@ -85,10 +87,23 @@ public class SearchEngine {
         return count;
     }
 
-    // Méthode utilitaire pour vérifier si un texte correspond à une expression régulière
-    private boolean matchesRegex(DFA dfa, String text) {
-        return RegEx.search(dfa, dfa.getInitialStateA(),text, 0);
+    // Méthode utilitaire pour compter les correspondances d'une expression régulière dans un texte
+    private int countRegexMatches(DFA dfa, String text) {
+        int count = 0;
+        int position = 0;
+        while (position < text.length()) {
+            if (RegEx.searchsimple(dfa, dfa.getInitialStateA(), text, position)) {
+                count++;
+                position++; // Avancer d'un caractère après une correspondance
+            } else {
+                position++;
+            }
+        }
+        return count;
     }
 
-
+    // Méthode utilitaire pour vérifier si un texte correspond à une expression régulière
+    private boolean matchesRegex(DFA dfa, String text) {
+        return RegEx.search(dfa, dfa.getInitialStateA(), text, 0);
+    }
 }

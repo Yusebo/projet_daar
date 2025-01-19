@@ -1,11 +1,10 @@
 package com.example.demo.controller;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.library.BookRepository;
 import com.example.demo.library.models.Book;
+import com.example.demo.search.SearchEngine;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -13,15 +12,37 @@ import java.util.List;
 @RequestMapping("/books")
 public class BookController {
 
-    private final BookRepository bookRepository;
+    private final SearchEngine searchEngine;
 
     @Autowired
     public BookController(BookRepository bookRepository) {
-        this.bookRepository = bookRepository;
+        this.searchEngine = new SearchEngine(bookRepository);
     }
 
-    @GetMapping
+    // Récupérer tous les livres
+    @GetMapping("/")
     public List<Book> getAllBooks() {
-        return bookRepository.findAll();
+        return searchEngine.getAllBooks();
+    }
+
+    // Recherche basique par mot-clé
+    @GetMapping("/search")
+    public List<Book> basicSearch(@RequestParam String keyword) {
+        return searchEngine.basicSearch(keyword);
+    }
+
+    // Recherche avancée par expression régulière
+    @GetMapping("/advanced-search")
+    public List<Book> advancedSearch(@RequestParam String regex) {
+        return searchEngine.advancedSearch(regex);
+    }
+
+
+    // Suggérer des livres similaires
+    @GetMapping("/suggest-similar")
+    public List<Book> suggestSimilarBooks(@RequestParam Long bookId) {
+        Book book = searchEngine.getBookRepository().findById(bookId)
+                .orElseThrow(() -> new RuntimeException("Livre non trouvé avec l'ID : " + bookId));
+        return searchEngine.suggestSimilarBooks(book);
     }
 }

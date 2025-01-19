@@ -118,6 +118,26 @@ public class RegEx {
 
     return true;
 }
+  
+  public static boolean searchsimple(DFA dfa,StateA state, String line, int position) {
+	    if (state.isFinal())
+	        return true;
+
+	    if (position >= line.length())
+	        return false;
+
+	    Character input = line.charAt(position);
+
+	    StateA next = state.getTransition(input);
+
+	    if (next == null)
+	        return search(dfa, dfa.getInitialStateA(), line, position + 1);
+
+	    if (!search(dfa, next, line, position + 1))
+	      return false;
+
+	    return true;
+	}
 
   //FROM REGEX TO SYNTAX TREE
   private static RegExTree parse(String regEx) throws Exception {
