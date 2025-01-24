@@ -72,13 +72,13 @@ public class RegEx {
 	        System.out.println("].");
 	        try {
 	          RegExTree ret = parse(regEx);
-	          System.out.println("  >> Tree result: "+ret.toString()+".");
+
 	          NFA nfa = NFABuilder.buildNFAFromRegExTree(ret);
-	          System.out.println("  >> "+nfa.toString()+".");
+
 	          DFA dfa = DFABuilder.buildDFAFromNFA(nfa);
-	          System.out.println("  >>  "+dfa.toString()+".");
+
 	          dfam = DFAMinimizer.minimizeDFA(dfa);
-	          System.out.println("  >>  "+dfam.toString()+".");
+
 	        } catch (Exception e) {
 	          System.err.println("  >> ERROR: syntax error for regEx \""+regEx+"\".");
 	        }
@@ -131,12 +131,10 @@ public class RegEx {
 	    StateA next = state.getTransition(input);
 
 	    if (next == null)
-	        return search(dfa, dfa.getInitialStateA(), line, position + 1);
+	        return false;
 
-	    if (!search(dfa, next, line, position + 1))
-	      return false;
+	    return search(dfa, next, line, position + 1);
 
-	    return true;
 	}
 
   //FROM REGEX TO SYNTAX TREE

@@ -7,15 +7,21 @@ import org.springframework.stereotype.Service;
 import com.example.demo.library.BookRepository;
 import com.example.demo.library.models.Book;
 
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 import java.util.stream.Collectors;
 
 @Service
 public class SearchEngine {
-
+	@Autowired
     private final BookRepository bookRepository;
-
-    @Autowired
+	
+    private final Map<String, Set<Long>> invertedIndex = new HashMap<>();
+    
     public SearchEngine(BookRepository bookRepository) {
         this.bookRepository = bookRepository;
     }
@@ -30,21 +36,28 @@ public class SearchEngine {
 
     // Recherche basique par mot-clé dans le contenu des livres
     public List<Book> basicSearch(String keyword) {
-        List<Book> books = bookRepository.findByContentContaining(keyword);
-        return rankResults(books, keyword); // Classement des résultats
+        String normalizedKeyword = keyword.toLowerCase();
+        Set<Long> bookIds = invertedIndex.getOrDefault(normalizedKeyword, Collections.emptySet());
+        return rankResults(bookRepository.findAllById(bookIds),keyword);
     }
 
     // Recherche avancée par expression régulière dans le contenu des livres
     public List<Book> advancedSearch(String regex) {
         DFA minimizedDFA = RegEx.parseregex(regex);
-        List<Book> allBooks = bookRepository.findAll();
+        Set<Long> candidateBookIds = new HashSet<>();
 
-        // Filtrer les livres dont le contenu correspond à l'expression régulière
-        List<Book> matchedBooks = allBooks.stream()
+        // Utiliser l'index pour filtrer les livres contenant des mots-clés pertinents
+        for (String keyword : invertedIndex.keySet()) {
+            if (matchesRegex(minimizedDFA, keyword)) {
+                candidateBookIds.addAll(invertedIndex.get(keyword));
+            }
+        }
+
+        // Filtrer les livres candidats en fonction du contenu complet
+        List<Book> matchedBooks = bookRepository.findAllById(candidateBookIds).stream()
                 .filter(book -> matchesRegex(minimizedDFA, book.getContent()))
                 .collect(Collectors.toList());
 
-        // Classement des résultats en fonction du nombre de correspondances de l'expression régulière
         return rankResultsByRegex(matchedBooks, minimizedDFA);
     }
     
@@ -104,6 +117,23 @@ public class SearchEngine {
 
     // Méthode utilitaire pour vérifier si un texte correspond à une expression régulière
     private boolean matchesRegex(DFA dfa, String text) {
-        return RegEx.search(dfa, dfa.getInitialStateA(), text, 0);
+        int position = 0;
+        while (position < text.length()) {
+            if (RegEx.searchsimple(dfa, dfa.getInitialStateA(), text, position)) {
+                return true;
+            } else {
+                position++;
+            }
+        }
+        return false;
+
+    }
+    
+    public void indexBook(Book book) {
+        String[] words = book.getContent().split("\\s+"); // Divise le contenu en mots
+        for (String word : words) {
+            String normalizedWord = word.toLowerCase();
+            invertedIndex.computeIfAbsent(normalizedWord, k -> new HashSet<>()).add(book.getId());
+        }
     }
 }

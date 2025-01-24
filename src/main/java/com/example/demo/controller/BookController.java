@@ -9,12 +9,14 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@CrossOrigin(origins = "http://localhost:3000")
 @RequestMapping("/books")
 public class BookController {
-
+	
+	@Autowired
     private final SearchEngine searchEngine;
 
-    @Autowired
+   
     public BookController(BookRepository bookRepository) {
         this.searchEngine = new SearchEngine(bookRepository);
     }
