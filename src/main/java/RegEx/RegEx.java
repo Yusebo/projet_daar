@@ -133,7 +133,7 @@ public class RegEx {
 	    if (next == null)
 	        return false;
 
-	    return search(dfa, next, line, position + 1);
+	    return searchsimple(dfa, next, line, position + 1);
 
 	}
 
